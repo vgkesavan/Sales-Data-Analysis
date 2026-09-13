@@ -1,0 +1,901 @@
+Order_ID,Order_Date,Order_Month,Order_Year,Customer_ID,Customer_Name,Gender,Age,City,State,Category,Sub_Category,Product_Name,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Profit_Margin_Pct,Payment_Mode
+ORD0001,2025-11-27,2025-11,2025,CUST0088,Customer 373,Male,38,Kolkata,West Bengal,Beauty,Fragrance,Perfume,3,1800,0.1,4860.0,3150,1710.0,35.19,Upi
+ORD0002,2025-10-04,2025-10,2025,CUST0161,Customer 314,Male,47,Warangal,Telangana,Clothing,Men'S Wear,Jeans,5,2200,0.2,8800.0,6500,2300.0,26.14,Upi
+ORD0003,2025-07-09,2025-07,2025,CUST0446,Customer 175,Male,59,New Delhi,Delhi,Electronics,Laptop,Laptop,1,55000,0.1,49500.0,42000,7500.0,15.15,Net Banking
+ORD0004,2025-06-16,2025-06,2025,CUST0274,Customer 388,Female,20,New Delhi,Delhi,Electronics,Audio,Headphones,4,2500,0.1,9000.0,6400,2600.0,28.89,Debit Card
+ORD0005,2026-03-31,2026-03,2026,CUST0428,Customer 264,Female,19,Salem,Tamil Nadu,Clothing,Men'S Wear,Jeans,1,2200,0.0,2200.0,1300,900.0,40.91,Credit Card
+ORD0006,2025-04-16,2025-04,2025,CUST0260,Customer 310,Male,21,Kolkata,West Bengal,Electronics,Laptop,Laptop,4,55000,0.0,220000.0,168000,52000.0,23.64,Credit Card
+ORD0007,2026-04-01,2026-04,2026,CUST0215,Customer 252,Female,53,Nagpur,Maharashtra,Beauty,Skincare,Moisturizer,2,750,0.05,1425.0,840,585.0,41.05,Net Banking
+ORD0008,2026-01-15,2026-01,2026,CUST0041,Customer 157,Male,41,Coimbatore,Tamil Nadu,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.05,8550.0,5250,3300.0,38.6,Upi
+ORD0009,2026-01-27,2026-01,2026,CUST0163,Customer 419,Male,25,Kolkata,West Bengal,Electronics,Laptop,Laptop,1,55000,0.1,49500.0,42000,7500.0,15.15,Cash
+ORD0010,2025-02-02,2025-02,2025,CUST0048,Customer 407,Female,24,Madurai,Tamil Nadu,Electronics,Audio,Headphones,2,2500,0.0,5000.0,3200,1800.0,36.0,Credit Card
+ORD0011,2026-04-07,2026-04,2026,CUST0131,Customer 257,Female,44,New Delhi,Delhi,Home & Kitchen,Furniture,Office Chair,4,8500,0.1,30600.0,23200,7400.0,24.18,Credit Card
+ORD0012,2025-08-29,2025-08,2025,CUST0052,Customer 96,Male,32,Pune,Maharashtra,Electronics,Mobile,Smartphone,3,22000,0.1,59400.0,49500,9900.0,16.67,Credit Card
+ORD0013,2025-08-31,2025-08,2025,CUST0086,Customer 284,Male,46,Warangal,Telangana,Electronics,Audio,Headphones,5,2500,0.1,11250.0,8000,3250.0,28.89,Upi
+ORD0014,2025-11-27,2025-11,2025,CUST0128,Customer 348,Male,45,Mysuru,Karnataka,Beauty,Skincare,Face Wash,5,450,0.15,1912.5,1300,612.5,32.03,Credit Card
+ORD0015,2026-04-01,2026-04,2026,CUST0411,Customer 137,Female,30,Madurai,Tamil Nadu,Sports,Cricket,Cricket Bat,1,2800,0.1,2520.0,1750,770.0,30.56,Upi
+ORD0016,2026-04-17,2026-04,2026,CUST0233,Customer 180,Male,32,New Delhi,Delhi,Electronics,Audio,Headphones,2,2500,0.05,4750.0,3200,1550.0,32.63,Upi
+ORD0017,2025-03-22,2025-03,2025,CUST0187,Customer 113,Female,19,Coimbatore,Tamil Nadu,Sports,Fitness,Dumbbells,4,2200,0.05,8360.0,5400,2960.0,35.41,Upi
+ORD0018,2026-02-20,2026-02,2026,CUST0247,Customer 324,Male,18,Mysuru,Karnataka,Home & Kitchen,Furniture,Office Chair,5,8500,0.05,40375.0,29000,11375.0,28.17,Upi
+ORD0019,2026-05-26,2026-05,2026,CUST0240,Customer 144,Male,41,Kolkata,West Bengal,Beauty,Fragrance,Perfume,1,1800,0.1,1620.0,1050,570.0,35.19,Net Banking
+ORD0020,2025-05-27,2025-05,2025,CUST0148,Customer 352,Male,53,Chennai,Tamil Nadu,Home & Kitchen,Kitchen,Air Fryer,5,6500,0.15,27625.0,21500,6125.0,22.17,Credit Card
+ORD0021,2025-05-31,2025-05,2025,CUST0415,Customer 298,Male,28,Kolkata,West Bengal,Electronics,Laptop,Laptop,2,55000,0.15,93500.0,84000,9500.0,10.16,Upi
+ORD0022,2026-03-29,2026-03,2026,CUST0037,Customer 160,Other,19,Kozhikode,Kerala,Clothing,Men'S Wear,Jeans,1,2200,0.1,1980.0,1300,680.0,34.34,Net Banking
+ORD0023,2026-02-24,2026-02,2026,CUST0422,Customer 104,Female,20,Kozhikode,Kerala,Home & Kitchen,Furniture,Office Chair,3,8500,0.1,22950.0,17400,5550.0,24.18,Credit Card
+ORD0024,2025-06-12,2025-06,2025,CUST0208,Customer 445,Male,46,Warangal,Telangana,Electronics,Mobile,Smartphone,1,22000,0.1,19800.0,16500,3300.0,16.67,Upi
+ORD0025,2025-02-02,2025-02,2025,CUST0176,Customer 443,Female,25,Salem,Tamil Nadu,Clothing,Men'S Wear,T-Shirt,5,900,0.0,4500.0,2500,2000.0,44.44,Debit Card
+ORD0026,2025-10-11,2025-10,2025,CUST0367,Customer 448,Female,25,Thiruvananthapuram,Kerala,Electronics,Mobile,Smartphone,5,22000,0.05,104500.0,82500,22000.0,21.05,Cash
+ORD0027,2025-02-15,2025-02,2025,CUST0373,Customer 6,Other,34,Chennai,Tamil Nadu,Electronics,Wearables,Smart Watch,3,4500,0.1,12150.0,8700,3450.0,28.4,Credit Card
+ORD0028,2025-07-10,2025-07,2025,CUST0253,Customer 416,Female,48,Kochi,Kerala,Sports,Cricket,Cricket Bat,1,2800,0.1,2520.0,1750,770.0,30.56,Cash
+ORD0029,2025-10-15,2025-10,2025,CUST0431,Customer 342,Female,48,Kolkata,West Bengal,Electronics,Audio,Headphones,2,2500,0.1,4500.0,3200,1300.0,28.89,Net Banking
+ORD0030,2025-09-03,2025-09,2025,CUST0176,Customer 39,Female,34,Kolkata,West Bengal,Electronics,Audio,Headphones,2,2500,0.15,4250.0,3200,1050.0,24.71,Upi
+ORD0031,2025-02-05,2025-02,2025,CUST0173,Customer 20,Male,30,Pune,Maharashtra,Beauty,Fragrance,Perfume,2,1800,0.15,3060.0,2100,960.0,31.37,Upi
+ORD0032,2025-02-20,2025-02,2025,CUST0153,Customer 186,Male,32,Salem,Tamil Nadu,Clothing,Women'S Wear,Jacket,4,3200,0.15,10880.0,7600,3280.0,30.15,Upi
+ORD0033,2026-03-20,2026-03,2026,CUST0101,Customer 264,Female,59,Kolkata,West Bengal,Sports,Football,Football,2,1200,0.15,2040.0,1400,640.0,31.37,Upi
+ORD0034,2025-09-26,2025-09,2025,CUST0370,Customer 124,Female,47,Mumbai,Maharashtra,Home & Kitchen,Kitchen,Air Fryer,5,6500,0.0,32500.0,21500,11000.0,33.85,Debit Card
+ORD0035,2025-05-07,2025-05,2025,CUST0393,Customer 396,Male,43,Mysuru,Karnataka,Electronics,Wearables,Smart Watch,3,4500,0.05,12825.0,8700,4125.0,32.16,Net Banking
+ORD0036,2025-09-29,2025-09,2025,CUST0189,Customer 192,Female,42,Mumbai,Maharashtra,Electronics,Laptop,Laptop,2,55000,0.0,110000.0,84000,26000.0,23.64,Upi
+ORD0037,2025-10-12,2025-10,2025,CUST0220,Customer 69,Male,33,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.0,12600.0,8400,4200.0,33.33,Upi
+ORD0038,2025-10-16,2025-10,2025,CUST0254,Customer 222,Male,33,Kolkata,West Bengal,Electronics,Mobile,Smartphone,4,22000,0.0,88000.0,66000,22000.0,25.0,Credit Card
+ORD0039,2025-11-21,2025-11,2025,CUST0004,Customer 16,Male,48,Nagpur,Maharashtra,Electronics,Mobile,Smartphone,5,22000,0.15,93500.0,82500,11000.0,11.76,Net Banking
+ORD0040,2026-01-15,2026-01,2026,CUST0033,Customer 417,Female,44,Surat,Gujarat,Clothing,Men'S Wear,T-Shirt,4,900,0.1,3240.0,2000,1240.0,38.27,Debit Card
+ORD0041,2026-02-01,2026-02,2026,CUST0012,Customer 95,Female,57,Nagpur,Maharashtra,Beauty,Skincare,Moisturizer,3,750,0.15,1912.5,1260,652.5,34.12,Upi
+ORD0042,2026-02-22,2026-02,2026,CUST0115,Customer 105,Female,34,New Delhi,Delhi,Electronics,Audio,Headphones,2,2500,0.1,4500.0,3200,1300.0,28.89,Credit Card
+ORD0043,2026-01-29,2026-01,2026,CUST0357,Customer 408,Male,46,Kolkata,West Bengal,Electronics,Laptop,Laptop,2,55000,0.1,99000.0,84000,15000.0,15.15,Credit Card
+ORD0044,2025-02-06,2025-02,2025,CUST0268,Customer 369,Female,56,Ahmedabad,Gujarat,Sports,Fitness,Dumbbells,4,2200,0.05,8360.0,5400,2960.0,35.41,Net Banking
+ORD0045,2025-12-08,2025-12,2025,CUST0397,Customer 187,Female,34,Kolkata,West Bengal,Beauty,Skincare,Face Wash,3,450,0.0,1350.0,780,570.0,42.22,Credit Card
+ORD0046,2026-01-19,2026-01,2026,CUST0052,Customer 339,Male,26,Kochi,Kerala,Electronics,Laptop,Laptop,1,55000,0.15,46750.0,42000,4750.0,10.16,Net Banking
+ORD0047,2025-02-08,2025-02,2025,CUST0109,Customer 181,Female,38,Mangaluru,Karnataka,Electronics,Laptop,Laptop,3,55000,0.1,148500.0,126000,22500.0,15.15,Cash
+ORD0048,2025-01-09,2025-01,2025,CUST0074,Customer 442,Female,40,Mysuru,Karnataka,Electronics,Audio,Headphones,2,2500,0.05,4750.0,3200,1550.0,32.63,Debit Card
+ORD0049,2026-06-01,2026-06,2026,CUST0029,Customer 165,Female,26,Hyderabad,Telangana,Electronics,Audio,Headphones,5,2500,0.0,12500.0,8000,4500.0,36.0,Debit Card
+ORD0050,2025-05-12,2025-05,2025,CUST0292,Customer 70,Female,34,New Delhi,Delhi,Sports,Fitness,Dumbbells,5,2200,0.05,10450.0,6750,3700.0,35.41,Net Banking
+ORD0051,2025-08-08,2025-08,2025,CUST0126,Customer 58,Male,36,Hyderabad,Telangana,Home & Kitchen,Home Decor,Table Lamp,3,1800,0.0,5400.0,3150,2250.0,41.67,Credit Card
+ORD0052,2025-07-10,2025-07,2025,CUST0369,Customer 409,Female,20,Warangal,Telangana,Beauty,Fragrance,Perfume,1,1800,0.1,1620.0,1050,570.0,35.19,Net Banking
+ORD0053,2025-03-21,2025-03,2025,CUST0374,Customer 213,Female,49,Ahmedabad,Gujarat,Electronics,Mobile,Smartphone,2,22000,0.0,44000.0,33000,11000.0,25.0,Upi
+ORD0054,2026-05-28,2026-05,2026,CUST0373,Customer 54,Male,58,Kochi,Kerala,Electronics,Audio,Headphones,4,2500,0.0,10000.0,6400,3600.0,36.0,Upi
+ORD0055,2026-02-12,2026-02,2026,CUST0156,Customer 373,Female,27,New Delhi,Delhi,Home & Kitchen,Furniture,Office Chair,1,8500,0.15,7225.0,5800,1425.0,19.72,Net Banking
+ORD0056,2026-05-17,2026-05,2026,CUST0447,Customer 145,Male,45,Surat,Gujarat,Electronics,Mobile,Smartphone,2,22000,0.0,44000.0,33000,11000.0,25.0,Net Banking
+ORD0057,2025-09-13,2025-09,2025,CUST0197,Customer 303,Female,30,Chennai,Tamil Nadu,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.05,15960.0,11200,4760.0,29.82,Cash
+ORD0058,2025-03-06,2025-03,2025,CUST0146,Customer 224,Male,22,Coimbatore,Tamil Nadu,Electronics,Mobile,Smartphone,2,22000,0.1,39600.0,33000,6600.0,16.67,Upi
+ORD0059,2025-04-15,2025-04,2025,CUST0099,Customer 385,Female,39,Kolkata,West Bengal,Electronics,Laptop,Laptop,2,55000,0.05,104500.0,84000,20500.0,19.62,Credit Card
+ORD0060,2026-04-03,2026-04,2026,CUST0083,Customer 145,Female,55,Nagpur,Maharashtra,Sports,Cricket,Cricket Bat,5,2800,0.2,11200.0,8750,2450.0,21.88,Credit Card
+ORD0061,2025-02-03,2025-02,2025,CUST0348,Customer 95,Male,21,Pune,Maharashtra,Electronics,Laptop,Laptop,3,55000,0.05,156750.0,126000,30750.0,19.62,Debit Card
+ORD0062,2026-02-05,2026-02,2026,CUST0112,Customer 255,Female,29,Ahmedabad,Gujarat,Clothing,Men'S Wear,Jeans,3,2200,0.1,5940.0,3900,2040.0,34.34,Net Banking
+ORD0063,2025-11-02,2025-11,2025,CUST0098,Customer 338,Male,28,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.1,18900.0,14000,4900.0,25.93,Upi
+ORD0064,2026-06-26,2026-06,2026,CUST0247,Customer 106,Male,55,New Delhi,Delhi,Clothing,Women'S Wear,Kurti,2,1600,0.05,3040.0,1800,1240.0,40.79,Net Banking
+ORD0065,2025-03-10,2025-03,2025,CUST0034,Customer 262,Female,27,Kochi,Kerala,Sports,Fitness,Dumbbells,2,2200,0.15,3740.0,2700,1040.0,27.81,Upi
+ORD0066,2026-01-09,2026-01,2026,CUST0400,Customer 8,Male,40,Pune,Maharashtra,Home & Kitchen,Furniture,Office Chair,3,8500,0.0,25500.0,17400,8100.0,31.76,Upi
+ORD0067,2025-02-20,2025-02,2025,CUST0403,Customer 277,Female,44,Warangal,Telangana,Clothing,Men'S Wear,T-Shirt,3,900,0.15,2295.0,1500,795.0,34.64,Upi
+ORD0068,2026-06-30,2026-06,2026,CUST0433,Customer 78,Male,22,Pune,Maharashtra,Electronics,Laptop,Laptop,5,55000,0.1,247500.0,210000,37500.0,15.15,Upi
+ORD0069,2025-02-17,2025-02,2025,CUST0061,Customer 337,Male,39,Bengaluru,Karnataka,Home & Kitchen,Kitchen,Air Fryer,1,6500,0.05,6175.0,4300,1875.0,30.36,Net Banking
+ORD0070,2025-03-19,2025-03,2025,CUST0216,Customer 386,Male,39,Bengaluru,Karnataka,Electronics,Audio,Headphones,5,2500,0.2,10000.0,8000,2000.0,20.0,Debit Card
+ORD0071,2025-10-01,2025-10,2025,CUST0294,Customer 227,Female,40,Pune,Maharashtra,Electronics,Wearables,Smart Watch,3,4500,0.1,12150.0,8700,3450.0,28.4,Credit Card
+ORD0072,2026-04-19,2026-04,2026,CUST0126,Customer 300,Male,56,Kozhikode,Kerala,Electronics,Audio,Headphones,5,2500,0.0,12500.0,8000,4500.0,36.0,Upi
+ORD0073,2025-04-21,2025-04,2025,CUST0034,Customer 111,Male,58,Chennai,Tamil Nadu,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.05,15960.0,11200,4760.0,29.82,Upi
+ORD0074,2026-03-19,2026-03,2026,CUST0440,Customer 315,Female,23,Surat,Gujarat,Home & Kitchen,Furniture,Office Chair,2,8500,0.05,16150.0,11600,4550.0,28.17,Debit Card
+ORD0075,2025-12-16,2025-12,2025,CUST0331,Customer 446,Male,23,Pune,Maharashtra,Clothing,Men'S Wear,T-Shirt,5,900,0.0,4500.0,2500,2000.0,44.44,Credit Card
+ORD0076,2025-08-11,2025-08,2025,CUST0006,Customer 322,Male,48,New Delhi,Delhi,Beauty,Skincare,Moisturizer,1,750,0.0,750.0,420,330.0,44.0,Net Banking
+ORD0077,2026-01-27,2026-01,2026,CUST0026,Customer 435,Female,55,Warangal,Telangana,Sports,Fitness,Yoga Mat,1,900,0.05,855.0,480,375.0,43.86,Net Banking
+ORD0078,2025-01-01,2025-01,2025,CUST0090,Customer 142,Female,50,Mumbai,Maharashtra,Electronics,Mobile,Smartphone,4,22000,0.05,83600.0,66000,17600.0,21.05,Credit Card
+ORD0079,2025-01-10,2025-01,2025,CUST0261,Customer 407,Male,20,Surat,Gujarat,Clothing,Women'S Wear,Kurti,4,1600,0.05,6080.0,3600,2480.0,40.79,Upi
+ORD0080,2026-02-23,2026-02,2026,CUST0094,Customer 95,Male,54,Mysuru,Karnataka,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.05,24700.0,17200,7500.0,30.36,Upi
+ORD0081,2026-05-28,2026-05,2026,CUST0296,Customer 320,Female,28,Chennai,Tamil Nadu,Beauty,Skincare,Moisturizer,2,750,0.0,1500.0,840,660.0,44.0,Upi
+ORD0082,2025-06-14,2025-06,2025,CUST0005,Customer 339,Female,31,New Delhi,Delhi,Electronics,Laptop,Laptop,3,55000,0.1,148500.0,126000,22500.0,15.15,Cash
+ORD0083,2026-06-10,2026-06,2026,CUST0288,Customer 179,Female,42,Thiruvananthapuram,Kerala,Clothing,Women'S Wear,Jacket,1,3200,0.15,2720.0,1900,820.0,30.15,Credit Card
+ORD0084,2025-04-14,2025-04,2025,CUST0435,Customer 39,Male,50,Pune,Maharashtra,Clothing,Women'S Wear,Kurti,1,1600,0.0,1600.0,900,700.0,43.75,Credit Card
+ORD0085,2026-04-23,2026-04,2026,CUST0231,Customer 411,Female,32,Thiruvananthapuram,Kerala,Sports,Fitness,Yoga Mat,3,900,0.05,2565.0,1440,1125.0,43.86,Credit Card
+ORD0086,2026-06-06,2026-06,2026,CUST0005,Customer 123,Male,50,Hyderabad,Telangana,Electronics,Laptop,Laptop,5,55000,0.0,275000.0,210000,65000.0,23.64,Credit Card
+ORD0087,2025-02-16,2025-02,2025,CUST0324,Customer 332,Female,32,Bengaluru,Karnataka,Electronics,Laptop,Laptop,4,55000,0.05,209000.0,168000,41000.0,19.62,Upi
+ORD0088,2025-01-11,2025-01,2025,CUST0254,Customer 330,Male,43,Pune,Maharashtra,Electronics,Audio,Headphones,3,2500,0.1,6750.0,4800,1950.0,28.89,Upi
+ORD0089,2025-07-29,2025-07,2025,CUST0111,Customer 104,Female,29,Surat,Gujarat,Electronics,Audio,Headphones,2,2500,0.15,4250.0,3200,1050.0,24.71,Upi
+ORD0090,2026-01-13,2026-01,2026,CUST0393,Customer 51,Female,54,Hyderabad,Telangana,Sports,Fitness,Dumbbells,4,2200,0.1,7920.0,5400,2520.0,31.82,Upi
+ORD0091,2025-07-01,2025-07,2025,CUST0313,Customer 1,Other,54,Pune,Maharashtra,Sports,Football,Football,3,1200,0.05,3420.0,2100,1320.0,38.6,Cash
+ORD0092,2025-09-01,2025-09,2025,CUST0025,Customer 90,Male,26,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,5,8500,0.05,40375.0,29000,11375.0,28.17,Cash
+ORD0093,2025-06-28,2025-06,2025,CUST0182,Customer 152,Female,34,Thiruvananthapuram,Kerala,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.1,17550.0,12900,4650.0,26.5,Upi
+ORD0094,2026-04-14,2026-04,2026,CUST0049,Customer 337,Female,60,Madurai,Tamil Nadu,Electronics,Laptop,Laptop,1,55000,0.05,52250.0,42000,10250.0,19.62,Upi
+ORD0095,2025-05-21,2025-05,2025,CUST0215,Customer 435,Female,57,Hyderabad,Telangana,Electronics,Mobile,Smartphone,4,22000,0.1,79200.0,66000,13200.0,16.67,Credit Card
+ORD0096,2025-01-18,2025-01,2025,CUST0257,Customer 78,Male,46,Kozhikode,Kerala,Home & Kitchen,Kitchen,Air Fryer,5,6500,0.1,29250.0,21500,7750.0,26.5,Credit Card
+ORD0097,2025-09-21,2025-09,2025,CUST0413,Customer 55,Female,47,Kozhikode,Kerala,Clothing,Men'S Wear,Jeans,4,2200,0.05,8360.0,5200,3160.0,37.8,Upi
+ORD0098,2026-04-21,2026-04,2026,CUST0288,Customer 178,Male,51,Kolkata,West Bengal,Beauty,Hair Care,Shampoo,2,650,0.15,1105.0,760,345.0,31.22,Upi
+ORD0099,2025-11-24,2025-11,2025,CUST0054,Customer 249,Male,41,Kolkata,West Bengal,Clothing,Men'S Wear,T-Shirt,1,900,0.0,900.0,500,400.0,44.44,Credit Card
+ORD0100,2025-03-19,2025-03,2025,CUST0288,Customer 120,Male,25,Kolkata,West Bengal,Clothing,Women'S Wear,Kurti,1,1600,0.1,1440.0,900,540.0,37.5,Upi
+ORD0101,2025-01-07,2025-01,2025,CUST0330,Customer 263,Male,38,New Delhi,Delhi,Beauty,Skincare,Moisturizer,4,750,0.1,2700.0,1680,1020.0,37.78,Upi
+ORD0102,2026-06-07,2026-06,2026,CUST0234,Customer 386,Male,46,Madurai,Tamil Nadu,Beauty,Skincare,Moisturizer,5,750,0.15,3187.5,2100,1087.5,34.12,Net Banking
+ORD0103,2026-05-15,2026-05,2026,CUST0342,Customer 364,Male,47,Kozhikode,Kerala,Electronics,Wearables,Smart Watch,5,4500,0.05,21375.0,14500,6875.0,32.16,Net Banking
+ORD0104,2026-06-10,2026-06,2026,CUST0009,Customer 40,Male,49,Ahmedabad,Gujarat,Sports,Fitness,Dumbbells,3,2200,0.15,5610.0,4050,1560.0,27.81,Upi
+ORD0105,2025-03-16,2025-03,2025,CUST0326,Customer 146,Female,43,Bengaluru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.05,11970.0,8400,3570.0,29.82,Upi
+ORD0106,2025-12-08,2025-12,2025,CUST0027,Customer 313,Male,42,Ahmedabad,Gujarat,Beauty,Skincare,Face Wash,2,450,0.1,810.0,520,290.0,35.8,Debit Card
+ORD0107,2026-04-21,2026-04,2026,CUST0190,Customer 122,Female,24,Kolkata,West Bengal,Sports,Fitness,Dumbbells,2,2200,0.1,3960.0,2700,1260.0,31.82,Cash
+ORD0108,2025-10-23,2025-10,2025,CUST0011,Customer 164,Female,53,New Delhi,Delhi,Electronics,Wearables,Smart Watch,3,4500,0.0,13500.0,8700,4800.0,35.56,Upi
+ORD0109,2025-10-16,2025-10,2025,CUST0250,Customer 36,Female,41,Madurai,Tamil Nadu,Electronics,Audio,Headphones,2,2500,0.05,4750.0,3200,1550.0,32.63,Debit Card
+ORD0110,2026-05-16,2026-05,2026,CUST0073,Customer 201,Male,60,Kolkata,West Bengal,Electronics,Audio,Headphones,4,2500,0.0,10000.0,6400,3600.0,36.0,Debit Card
+ORD0111,2025-08-17,2025-08,2025,CUST0108,Customer 172,Male,42,Ahmedabad,Gujarat,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.1,11340.0,8400,2940.0,25.93,Cash
+ORD0112,2025-01-12,2025-01,2025,CUST0318,Customer 80,Female,34,Thiruvananthapuram,Kerala,Electronics,Wearables,Smart Watch,3,4500,0.05,12825.0,8700,4125.0,32.16,Credit Card
+ORD0113,2025-03-30,2025-03,2025,CUST0268,Customer 143,Female,33,Ahmedabad,Gujarat,Beauty,Skincare,Face Wash,1,450,0.1,405.0,260,145.0,35.8,Upi
+ORD0114,2025-09-07,2025-09,2025,CUST0391,Customer 270,Male,34,Thiruvananthapuram,Kerala,Electronics,Mobile,Smartphone,2,22000,0.1,39600.0,33000,6600.0,16.67,Credit Card
+ORD0115,2026-01-07,2026-01,2026,CUST0423,Customer 402,Female,40,Kolkata,West Bengal,Clothing,Men'S Wear,T-Shirt,3,900,0.15,2295.0,1500,795.0,34.64,Debit Card
+ORD0116,2025-07-02,2025-07,2025,CUST0364,Customer 39,Female,51,Thiruvananthapuram,Kerala,Clothing,Men'S Wear,Jeans,3,2200,0.1,5940.0,3900,2040.0,34.34,Credit Card
+ORD0117,2026-03-02,2026-03,2026,CUST0108,Customer 382,Female,30,Kolkata,West Bengal,Beauty,Skincare,Moisturizer,5,750,0.1,3375.0,2100,1275.0,37.78,Net Banking
+ORD0118,2025-02-08,2025-02,2025,CUST0302,Customer 29,Male,30,Mangaluru,Karnataka,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.15,16575.0,12900,3675.0,22.17,Net Banking
+ORD0119,2025-09-23,2025-09,2025,CUST0414,Customer 409,Female,33,New Delhi,Delhi,Electronics,Mobile,Smartphone,5,22000,0.05,104500.0,82500,22000.0,21.05,Net Banking
+ORD0120,2025-11-20,2025-11,2025,CUST0146,Customer 446,Male,20,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.0,4200.0,2800,1400.0,33.33,Upi
+ORD0121,2025-03-02,2025-03,2025,CUST0427,Customer 380,Male,41,Mumbai,Maharashtra,Electronics,Laptop,Laptop,1,55000,0.0,55000.0,42000,13000.0,23.64,Net Banking
+ORD0122,2025-11-06,2025-11,2025,CUST0373,Customer 243,Male,51,New Delhi,Delhi,Sports,Fitness,Yoga Mat,3,900,0.15,2295.0,1440,855.0,37.25,Net Banking
+ORD0123,2025-02-23,2025-02,2025,CUST0047,Customer 215,Female,20,Pune,Maharashtra,Electronics,Mobile,Smartphone,1,22000,0.0,22000.0,16500,5500.0,25.0,Cash
+ORD0124,2025-05-25,2025-05,2025,CUST0216,Customer 3,Female,59,Chennai,Tamil Nadu,Sports,Football,Football,1,1200,0.0,1200.0,700,500.0,41.67,Credit Card
+ORD0125,2025-09-24,2025-09,2025,CUST0105,Customer 440,Female,26,Ahmedabad,Gujarat,Electronics,Wearables,Smart Watch,5,4500,0.1,20250.0,14500,5750.0,28.4,Net Banking
+ORD0126,2026-06-21,2026-06,2026,CUST0261,Customer 395,Male,29,Kozhikode,Kerala,Electronics,Laptop,Laptop,3,55000,0.2,132000.0,126000,6000.0,4.55,Upi
+ORD0127,2025-04-24,2025-04,2025,CUST0040,Customer 301,Female,43,Thiruvananthapuram,Kerala,Home & Kitchen,Furniture,Office Chair,3,8500,0.1,22950.0,17400,5550.0,24.18,Net Banking
+ORD0128,2025-10-16,2025-10,2025,CUST0262,Customer 216,Female,51,Surat,Gujarat,Clothing,Men'S Wear,Jeans,3,2200,0.05,6270.0,3900,2370.0,37.8,Net Banking
+ORD0129,2026-02-26,2026-02,2026,CUST0188,Customer 7,Female,42,Kochi,Kerala,Electronics,Wearables,Smart Watch,1,4500,0.05,4275.0,2900,1375.0,32.16,Upi
+ORD0130,2025-03-23,2025-03,2025,CUST0356,Customer 258,Male,59,Nagpur,Maharashtra,Sports,Cricket,Cricket Bat,3,2800,0.15,7140.0,5250,1890.0,26.47,Upi
+ORD0131,2025-08-11,2025-08,2025,CUST0354,Customer 188,Other,44,New Delhi,Delhi,Beauty,Skincare,Moisturizer,2,750,0.05,1425.0,840,585.0,41.05,Debit Card
+ORD0132,2026-02-16,2026-02,2026,CUST0060,Customer 335,Male,27,Surat,Gujarat,Beauty,Skincare,Moisturizer,3,750,0.1,2025.0,1260,765.0,37.78,Cash
+ORD0133,2025-01-17,2025-01,2025,CUST0012,Customer 406,Male,53,New Delhi,Delhi,Beauty,Hair Care,Shampoo,4,650,0.0,2600.0,1520,1080.0,41.54,Upi
+ORD0134,2025-10-12,2025-10,2025,CUST0204,Customer 164,Female,35,Coimbatore,Tamil Nadu,Home & Kitchen,Kitchen,Air Fryer,2,6500,0.0,13000.0,8600,4400.0,33.85,Net Banking
+ORD0135,2026-04-04,2026-04,2026,CUST0058,Customer 26,Male,23,Kozhikode,Kerala,Clothing,Women'S Wear,Jacket,5,3200,0.0,16000.0,9500,6500.0,40.62,Cash
+ORD0136,2025-06-06,2025-06,2025,CUST0075,Customer 372,Male,58,Mysuru,Karnataka,Home & Kitchen,Home Decor,Table Lamp,1,1800,0.0,1800.0,1050,750.0,41.67,Cash
+ORD0137,2025-01-21,2025-01,2025,CUST0303,Customer 357,Female,34,Surat,Gujarat,Beauty,Skincare,Moisturizer,3,750,0.05,2137.5,1260,877.5,41.05,Upi
+ORD0138,2026-06-08,2026-06,2026,CUST0274,Customer 271,Male,55,Thiruvananthapuram,Kerala,Beauty,Skincare,Face Wash,3,450,0.05,1282.5,780,502.5,39.18,Upi
+ORD0139,2025-07-18,2025-07,2025,CUST0387,Customer 349,Female,25,Warangal,Telangana,Clothing,Women'S Wear,Jacket,1,3200,0.15,2720.0,1900,820.0,30.15,Cash
+ORD0140,2025-09-30,2025-09,2025,CUST0382,Customer 236,Male,32,Surat,Gujarat,Electronics,Wearables,Smart Watch,2,4500,0.1,8100.0,5800,2300.0,28.4,Upi
+ORD0141,2025-12-10,2025-12,2025,CUST0072,Customer 395,Female,39,Warangal,Telangana,Clothing,Women'S Wear,Jacket,1,3200,0.0,3200.0,1900,1300.0,40.62,Upi
+ORD0142,2026-06-28,2026-06,2026,CUST0011,Customer 301,Male,35,Ahmedabad,Gujarat,Electronics,Laptop,Laptop,2,55000,0.1,99000.0,84000,15000.0,15.15,Debit Card
+ORD0143,2025-02-15,2025-02,2025,CUST0160,Customer 80,Male,41,Chennai,Tamil Nadu,Sports,Cricket,Cricket Bat,3,2800,0.05,7980.0,5250,2730.0,34.21,Upi
+ORD0144,2025-08-13,2025-08,2025,CUST0289,Customer 233,Female,49,New Delhi,Delhi,Clothing,Women'S Wear,Jacket,1,3200,0.1,2880.0,1900,980.0,34.03,Upi
+ORD0145,2025-05-02,2025-05,2025,CUST0143,Customer 106,Other,19,Pune,Maharashtra,Electronics,Wearables,Smart Watch,2,4500,0.05,8550.0,5800,2750.0,32.16,Upi
+ORD0146,2025-08-11,2025-08,2025,CUST0416,Customer 41,Female,23,Kolkata,West Bengal,Clothing,Women'S Wear,Jacket,3,3200,0.0,9600.0,5700,3900.0,40.62,Debit Card
+ORD0147,2025-11-10,2025-11,2025,CUST0022,Customer 410,Female,28,Mysuru,Karnataka,Clothing,Women'S Wear,Jacket,3,3200,0.05,9120.0,5700,3420.0,37.5,Credit Card
+ORD0148,2026-06-08,2026-06,2026,CUST0397,Customer 25,Female,28,Kolkata,West Bengal,Clothing,Men'S Wear,T-Shirt,4,900,0.1,3240.0,2000,1240.0,38.27,Credit Card
+ORD0149,2025-11-03,2025-11,2025,CUST0300,Customer 82,Female,46,Nagpur,Maharashtra,Electronics,Audio,Headphones,4,2500,0.1,9000.0,6400,2600.0,28.89,Debit Card
+ORD0150,2025-02-04,2025-02,2025,CUST0445,Customer 93,Male,58,New Delhi,Delhi,Clothing,Men'S Wear,Jeans,5,2200,0.2,8800.0,6500,2300.0,26.14,Upi
+ORD0151,2026-02-08,2026-02,2026,CUST0293,Customer 4,Female,38,New Delhi,Delhi,Electronics,Laptop,Laptop,4,55000,0.0,220000.0,168000,52000.0,23.64,Debit Card
+ORD0152,2026-05-27,2026-05,2026,CUST0228,Customer 66,Female,49,Warangal,Telangana,Beauty,Skincare,Moisturizer,2,750,0.15,1275.0,840,435.0,34.12,Upi
+ORD0153,2025-01-21,2025-01,2025,CUST0399,Unknown,Male,29,Kolkata,West Bengal,Sports,Football,Football,2,1200,0.2,1920.0,1400,520.0,27.08,Credit Card
+ORD0154,2025-11-14,2025-11,2025,CUST0316,Customer 381,Female,31,Thiruvananthapuram,Kerala,Clothing,Women'S Wear,Jacket,2,3200,0.0,6400.0,3800,2600.0,40.62,Credit Card
+ORD0155,2025-01-28,2025-01,2025,CUST0066,Customer 163,Male,56,Kolkata,West Bengal,Clothing,Women'S Wear,Kurti,1,1600,0.1,1440.0,900,540.0,37.5,Credit Card
+ORD0156,2025-09-27,2025-09,2025,CUST0080,Customer 93,Male,40,Mumbai,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,4,1800,0.0,7200.0,4200,3000.0,41.67,Upi
+ORD0157,2025-10-11,2025-10,2025,CUST0121,Customer 107,Female,29,Mysuru,Karnataka,Electronics,Laptop,Laptop,4,55000,0.1,198000.0,168000,30000.0,15.15,Upi
+ORD0158,2025-09-08,2025-09,2025,CUST0445,Customer 404,Female,45,Nagpur,Maharashtra,Clothing,Men'S Wear,T-Shirt,1,900,0.15,765.0,500,265.0,34.64,Credit Card
+ORD0159,2026-04-30,2026-04,2026,CUST0245,Customer 59,Female,46,Mysuru,Karnataka,Electronics,Audio,Headphones,5,2500,0.15,10625.0,8000,2625.0,24.71,Upi
+ORD0160,2025-08-05,2025-08,2025,CUST0306,Customer 285,Female,41,Mumbai,Maharashtra,Clothing,Men'S Wear,Jeans,4,2200,0.0,8800.0,5200,3600.0,40.91,Upi
+ORD0161,2025-11-04,2025-11,2025,CUST0336,Customer 434,Male,55,Madurai,Tamil Nadu,Home & Kitchen,Furniture,Office Chair,3,8500,0.05,24225.0,17400,6825.0,28.17,Upi
+ORD0162,2025-03-27,2025-03,2025,CUST0175,Customer 290,Male,46,Mangaluru,Karnataka,Electronics,Laptop,Laptop,1,55000,0.1,49500.0,42000,7500.0,15.15,Net Banking
+ORD0163,2025-12-11,2025-12,2025,CUST0302,Customer 289,Female,35,Madurai,Tamil Nadu,Sports,Fitness,Yoga Mat,2,900,0.0,1800.0,960,840.0,46.67,Net Banking
+ORD0164,2025-06-10,2025-06,2025,CUST0169,Customer 89,Male,58,Madurai,Tamil Nadu,Sports,Football,Football,5,1200,0.1,5400.0,3500,1900.0,35.19,Debit Card
+ORD0165,2025-01-19,2025-01,2025,CUST0082,Customer 397,Male,51,Ahmedabad,Gujarat,Beauty,Skincare,Face Wash,1,450,0.0,450.0,260,190.0,42.22,Upi
+ORD0166,2025-03-17,2025-03,2025,CUST0199,Customer 143,Male,24,Madurai,Tamil Nadu,Home & Kitchen,Furniture,Office Chair,1,8500,0.0,8500.0,5800,2700.0,31.76,Upi
+ORD0167,2025-01-03,2025-01,2025,CUST0085,Customer 282,Male,52,Nagpur,Maharashtra,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.0,4200.0,2800,1400.0,33.33,Upi
+ORD0168,2025-10-20,2025-10,2025,CUST0300,Customer 228,Male,42,Surat,Gujarat,Beauty,Skincare,Moisturizer,5,750,0.15,3187.5,2100,1087.5,34.12,Credit Card
+ORD0169,2025-12-02,2025-12,2025,CUST0303,Customer 117,Male,60,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,2,8500,0.1,15300.0,11600,3700.0,24.18,Upi
+ORD0170,2025-11-30,2025-11,2025,CUST0381,Customer 373,Male,38,Hyderabad,Telangana,Electronics,Audio,Headphones,3,2500,0.0,7500.0,4800,2700.0,36.0,Upi
+ORD0171,2025-01-02,2025-01,2025,CUST0433,Customer 77,Male,33,Warangal,Telangana,Home & Kitchen,Furniture,Office Chair,4,8500,0.1,30600.0,23200,7400.0,24.18,Debit Card
+ORD0172,2025-08-29,2025-08,2025,CUST0426,Customer 445,Male,30,Warangal,Telangana,Electronics,Audio,Headphones,4,2500,0.0,10000.0,6400,3600.0,36.0,Upi
+ORD0173,2025-04-28,2025-04,2025,CUST0277,Customer 214,Male,59,Mysuru,Karnataka,Beauty,Skincare,Face Wash,4,450,0.0,1800.0,1040,760.0,42.22,Upi
+ORD0174,2025-06-03,2025-06,2025,CUST0347,Customer 293,Female,59,Hyderabad,Telangana,Beauty,Fragrance,Perfume,2,1800,0.0,3600.0,2100,1500.0,41.67,Upi
+ORD0175,2026-03-15,2026-03,2026,CUST0242,Customer 69,Male,42,Warangal,Telangana,Beauty,Skincare,Moisturizer,4,750,0.1,2700.0,1680,1020.0,37.78,Debit Card
+ORD0176,2026-02-23,2026-02,2026,CUST0160,Customer 11,Male,38,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,2,4500,0.05,8550.0,5800,2750.0,32.16,Upi
+ORD0177,2026-01-09,2026-01,2026,CUST0125,Customer 167,Male,19,Bengaluru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.05,3990.0,2800,1190.0,29.82,Credit Card
+ORD0178,2025-06-16,2025-06,2025,CUST0109,Customer 36,Female,21,Chennai,Tamil Nadu,Electronics,Wearables,Smart Watch,4,4500,0.15,15300.0,11600,3700.0,24.18,Credit Card
+ORD0179,2026-06-01,2026-06,2026,CUST0428,Customer 27,Male,23,Ahmedabad,Gujarat,Sports,Fitness,Yoga Mat,1,900,0.05,855.0,480,375.0,43.86,Upi
+ORD0180,2025-06-21,2025-06,2025,CUST0258,Customer 102,Male,20,Ahmedabad,Gujarat,Electronics,Wearables,Smart Watch,2,4500,0.1,8100.0,5800,2300.0,28.4,Upi
+ORD0181,2025-10-30,2025-10,2025,CUST0311,Customer 208,Female,53,Madurai,Tamil Nadu,Beauty,Hair Care,Shampoo,4,650,0.0,2600.0,1520,1080.0,41.54,Debit Card
+ORD0182,2026-06-26,2026-06,2026,CUST0237,Customer 279,Other,29,Mysuru,Karnataka,Home & Kitchen,Furniture,Office Chair,4,8500,0.05,32300.0,23200,9100.0,28.17,Credit Card
+ORD0183,2026-02-10,2026-02,2026,CUST0231,Customer 288,Female,18,Hyderabad,Telangana,Electronics,Laptop,Laptop,4,55000,0.15,187000.0,168000,19000.0,10.16,Credit Card
+ORD0184,2025-12-27,2025-12,2025,CUST0341,Customer 258,Male,31,Chennai,Tamil Nadu,Beauty,Hair Care,Shampoo,4,650,0.1,2340.0,1520,820.0,35.04,Upi
+ORD0185,2025-09-19,2025-09,2025,CUST0419,Customer 406,Female,40,Kochi,Kerala,Clothing,Women'S Wear,Kurti,3,1600,0.05,4560.0,2700,1860.0,40.79,Net Banking
+ORD0186,2025-06-07,2025-06,2025,CUST0216,Customer 158,Female,59,Kozhikode,Kerala,Sports,Cricket,Cricket Bat,4,2800,0.0,11200.0,7000,4200.0,37.5,Debit Card
+ORD0187,2025-05-10,2025-05,2025,CUST0419,Customer 206,Male,32,New Delhi,Delhi,Beauty,Skincare,Moisturizer,4,750,0.15,2550.0,1680,870.0,34.12,Upi
+ORD0188,2025-04-20,2025-04,2025,CUST0336,Customer 310,Female,50,Warangal,Telangana,Clothing,Men'S Wear,T-Shirt,2,900,0.0,1800.0,1000,800.0,44.44,Credit Card
+ORD0189,2026-06-21,2026-06,2026,CUST0079,Customer 68,Female,42,New Delhi,Delhi,Electronics,Audio,Headphones,3,2500,0.05,7125.0,4800,2325.0,32.63,Upi
+ORD0190,2025-05-10,2025-05,2025,CUST0060,Customer 151,Male,23,Mumbai,Maharashtra,Sports,Fitness,Dumbbells,2,2200,0.05,4180.0,2700,1480.0,35.41,Upi
+ORD0191,2025-02-25,2025-02,2025,CUST0083,Customer 393,Male,19,Kozhikode,Kerala,Electronics,Audio,Headphones,2,2500,0.05,4750.0,3200,1550.0,32.63,Debit Card
+ORD0192,2025-04-11,2025-04,2025,CUST0359,Customer 380,Male,33,Kochi,Kerala,Electronics,Mobile,Smartphone,3,22000,0.0,66000.0,49500,16500.0,25.0,Credit Card
+ORD0193,2026-06-10,2026-06,2026,CUST0229,Customer 86,Male,52,Hyderabad,Telangana,Clothing,Women'S Wear,Jacket,2,3200,0.0,6400.0,3800,2600.0,40.62,Credit Card
+ORD0194,2026-02-27,2026-02,2026,CUST0389,Customer 65,Male,55,Pune,Maharashtra,Electronics,Mobile,Smartphone,3,22000,0.05,62700.0,49500,13200.0,21.05,Debit Card
+ORD0195,2026-05-12,2026-05,2026,CUST0188,Customer 395,Female,54,Mumbai,Maharashtra,Beauty,Skincare,Face Wash,5,450,0.0,2250.0,1300,950.0,42.22,Credit Card
+ORD0196,2025-08-15,2025-08,2025,CUST0233,Customer 221,Female,21,Kolkata,West Bengal,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.05,8550.0,5250,3300.0,38.6,Upi
+ORD0197,2026-03-01,2026-03,2026,CUST0129,Customer 130,Male,58,Hyderabad,Telangana,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.15,7140.0,5600,1540.0,21.57,Debit Card
+ORD0198,2025-07-19,2025-07,2025,CUST0433,Customer 79,Male,57,Warangal,Telangana,Electronics,Mobile,Smartphone,2,22000,0.0,44000.0,33000,11000.0,25.0,Debit Card
+ORD0199,2025-07-19,2025-07,2025,CUST0087,Customer 43,Male,18,Salem,Tamil Nadu,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.0,12600.0,8400,4200.0,33.33,Upi
+ORD0200,2025-08-16,2025-08,2025,CUST0139,Customer 436,Male,38,Chennai,Tamil Nadu,Beauty,Fragrance,Perfume,1,1800,0.2,1440.0,1050,390.0,27.08,Credit Card
+ORD0201,2026-06-04,2026-06,2026,CUST0320,Customer 138,Female,22,Kolkata,West Bengal,Sports,Fitness,Yoga Mat,4,900,0.05,3420.0,1920,1500.0,43.86,Cash
+ORD0202,2026-04-08,2026-04,2026,CUST0434,Customer 49,Female,25,New Delhi,Delhi,Electronics,Wearables,Smart Watch,4,4500,0.15,15300.0,11600,3700.0,24.18,Debit Card
+ORD0203,2026-05-03,2026-05,2026,CUST0258,Customer 374,Female,27,Warangal,Telangana,Electronics,Laptop,Laptop,1,55000,0.2,44000.0,42000,2000.0,4.55,Upi
+ORD0204,2025-07-02,2025-07,2025,CUST0153,Customer 315,Male,27,Mumbai,Maharashtra,Sports,Fitness,Dumbbells,4,2200,0.0,8800.0,5400,3400.0,38.64,Net Banking
+ORD0205,2026-03-11,2026-03,2026,CUST0174,Customer 113,Female,47,New Delhi,Delhi,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.15,7140.0,5600,1540.0,21.57,Debit Card
+ORD0206,2025-10-29,2025-10,2025,CUST0360,Customer 238,Female,35,Ahmedabad,Gujarat,Electronics,Wearables,Smart Watch,1,4500,0.05,4275.0,2900,1375.0,32.16,Upi
+ORD0207,2026-04-11,2026-04,2026,CUST0258,Customer 29,Other,39,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,3,4500,0.05,12825.0,8700,4125.0,32.16,Net Banking
+ORD0208,2025-12-19,2025-12,2025,CUST0184,Customer 3,Male,30,Nagpur,Maharashtra,Electronics,Mobile,Smartphone,3,22000,0.0,66000.0,49500,16500.0,25.0,Debit Card
+ORD0209,2025-12-28,2025-12,2025,CUST0186,Customer 144,Female,42,Kolkata,West Bengal,Electronics,Audio,Headphones,5,2500,0.0,12500.0,8000,4500.0,36.0,Upi
+ORD0210,2026-05-06,2026-05,2026,CUST0010,Customer 405,Male,52,Ahmedabad,Gujarat,Beauty,Fragrance,Perfume,1,1800,0.05,1710.0,1050,660.0,38.6,Cash
+ORD0211,2025-08-22,2025-08,2025,CUST0090,Customer 314,Female,30,Surat,Gujarat,Clothing,Women'S Wear,Kurti,2,1600,0.05,3040.0,1800,1240.0,40.79,Credit Card
+ORD0212,2025-03-11,2025-03,2025,CUST0312,Customer 211,Male,37,New Delhi,Delhi,Beauty,Hair Care,Shampoo,1,650,0.2,520.0,380,140.0,26.92,Upi
+ORD0213,2026-04-14,2026-04,2026,CUST0310,Customer 359,Male,41,Pune,Maharashtra,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.1,15120.0,11200,3920.0,25.93,Upi
+ORD0214,2025-08-09,2025-08,2025,CUST0014,Customer 3,Male,37,Pune,Maharashtra,Clothing,Women'S Wear,Jacket,4,3200,0.1,11520.0,7600,3920.0,34.03,Net Banking
+ORD0215,2025-06-08,2025-06,2025,CUST0188,Customer 60,Female,41,Ahmedabad,Gujarat,Clothing,Women'S Wear,Kurti,4,1600,0.1,5760.0,3600,2160.0,37.5,Cash
+ORD0216,2025-01-19,2025-01,2025,CUST0432,Customer 173,Male,55,Kochi,Kerala,Clothing,Women'S Wear,Kurti,5,1600,0.1,7200.0,4500,2700.0,37.5,Cash
+ORD0217,2025-04-28,2025-04,2025,CUST0301,Customer 161,Female,45,Warangal,Telangana,Home & Kitchen,Furniture,Office Chair,1,8500,0.0,8500.0,5800,2700.0,31.76,Net Banking
+ORD0218,2026-02-04,2026-02,2026,CUST0325,Customer 61,Female,31,Coimbatore,Tamil Nadu,Clothing,Women'S Wear,Jacket,3,3200,0.1,8640.0,5700,2940.0,34.03,Debit Card
+ORD0219,2026-03-02,2026-03,2026,CUST0035,Customer 302,Female,23,Mysuru,Karnataka,Electronics,Audio,Headphones,1,2500,0.1,2250.0,1600,650.0,28.89,Upi
+ORD0220,2025-09-17,2025-09,2025,CUST0126,Customer 231,Male,38,Mangaluru,Karnataka,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.05,8550.0,5250,3300.0,38.6,Credit Card
+ORD0221,2025-07-07,2025-07,2025,CUST0057,Customer 31,Male,58,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.0,4200.0,2800,1400.0,33.33,Debit Card
+ORD0222,2025-08-08,2025-08,2025,CUST0270,Customer 120,Male,39,Warangal,Telangana,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.0,16800.0,11200,5600.0,33.33,Upi
+ORD0223,2025-09-07,2025-09,2025,CUST0363,Customer 441,Male,26,Mysuru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.05,19950.0,14000,5950.0,29.82,Upi
+ORD0224,2025-07-18,2025-07,2025,CUST0405,Customer 426,Female,28,Pune,Maharashtra,Home & Kitchen,Furniture,Office Chair,2,8500,0.1,15300.0,11600,3700.0,24.18,Credit Card
+ORD0225,2025-11-01,2025-11,2025,CUST0403,Customer 371,Female,20,Mysuru,Karnataka,Beauty,Hair Care,Shampoo,5,650,0.05,3087.5,1900,1187.5,38.46,Upi
+ORD0226,2025-10-16,2025-10,2025,CUST0081,Customer 152,Male,21,Chennai,Tamil Nadu,Clothing,Men'S Wear,T-Shirt,5,900,0.0,4500.0,2500,2000.0,44.44,Upi
+ORD0227,2026-05-09,2026-05,2026,CUST0198,Customer 98,Female,39,Mumbai,Maharashtra,Sports,Football,Football,3,1200,0.0,3600.0,2100,1500.0,41.67,Debit Card
+ORD0228,2025-03-27,2025-03,2025,CUST0076,Customer 344,Female,51,Coimbatore,Tamil Nadu,Electronics,Mobile,Smartphone,1,22000,0.1,19800.0,16500,3300.0,16.67,Credit Card
+ORD0229,2026-01-18,2026-01,2026,CUST0068,Customer 366,Male,49,Kolkata,West Bengal,Clothing,Women'S Wear,Jacket,3,3200,0.05,9120.0,5700,3420.0,37.5,Upi
+ORD0230,2025-02-27,2025-02,2025,CUST0284,Customer 26,Male,45,Warangal,Telangana,Electronics,Wearables,Smart Watch,5,4500,0.1,20250.0,14500,5750.0,28.4,Net Banking
+ORD0231,2026-03-12,2026-03,2026,CUST0279,Customer 89,Male,50,Madurai,Tamil Nadu,Clothing,Women'S Wear,Jacket,3,3200,0.15,8160.0,5700,2460.0,30.15,Cash
+ORD0232,2026-04-21,2026-04,2026,CUST0297,Customer 164,Female,29,Thiruvananthapuram,Kerala,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Upi
+ORD0233,2026-01-22,2026-01,2026,CUST0365,Customer 259,Female,37,Mumbai,Maharashtra,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.0,8400.0,5600,2800.0,33.33,Upi
+ORD0234,2025-09-17,2025-09,2025,CUST0366,Customer 246,Female,25,Thiruvananthapuram,Kerala,Electronics,Mobile,Smartphone,1,22000,0.1,19800.0,16500,3300.0,16.67,Debit Card
+ORD0235,2025-04-12,2025-04,2025,CUST0223,Customer 59,Female,38,Kochi,Kerala,Beauty,Hair Care,Shampoo,1,650,0.05,617.5,380,237.5,38.46,Upi
+ORD0236,2026-01-17,2026-01,2026,CUST0133,Customer 227,Female,21,Kolkata,West Bengal,Electronics,Laptop,Laptop,1,55000,0.0,55000.0,42000,13000.0,23.64,Net Banking
+ORD0237,2026-04-02,2026-04,2026,CUST0213,Customer 216,Female,28,Mumbai,Maharashtra,Electronics,Mobile,Smartphone,2,22000,0.0,44000.0,33000,11000.0,25.0,Debit Card
+ORD0238,2026-06-30,2026-06,2026,CUST0041,Customer 307,Female,45,Mysuru,Karnataka,Beauty,Skincare,Moisturizer,2,750,0.0,1500.0,840,660.0,44.0,Upi
+ORD0239,2025-10-16,2025-10,2025,CUST0212,Customer 381,Female,39,Kolkata,West Bengal,Electronics,Audio,Headphones,1,2500,0.05,2375.0,1600,775.0,32.63,Cash
+ORD0240,2025-07-10,2025-07,2025,CUST0067,Customer 4,Female,23,Surat,Gujarat,Home & Kitchen,Home Decor,Table Lamp,4,1800,0.1,6480.0,4200,2280.0,35.19,Upi
+ORD0241,2026-01-28,2026-01,2026,CUST0355,Customer 252,Female,31,Bengaluru,Karnataka,Electronics,Audio,Headphones,5,2500,0.0,12500.0,8000,4500.0,36.0,Upi
+ORD0242,2025-05-22,2025-05,2025,CUST0100,Customer 328,Male,44,Nagpur,Maharashtra,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Upi
+ORD0243,2025-03-24,2025-03,2025,CUST0110,Customer 435,Male,42,New Delhi,Delhi,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.05,18525.0,12900,5625.0,30.36,Upi
+ORD0244,2026-01-10,2026-01,2026,CUST0121,Customer 275,Female,31,Thiruvananthapuram,Kerala,Clothing,Women'S Wear,Jacket,4,3200,0.2,10240.0,7600,2640.0,25.78,Upi
+ORD0245,2026-01-11,2026-01,2026,CUST0308,Customer 89,Male,57,Kolkata,West Bengal,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.1,8100.0,5250,2850.0,35.19,Upi
+ORD0246,2026-05-29,2026-05,2026,CUST0361,Customer 125,Female,47,New Delhi,Delhi,Clothing,Women'S Wear,Kurti,1,1600,0.05,1520.0,900,620.0,40.79,Upi
+ORD0247,2026-05-09,2026-05,2026,CUST0050,Customer 255,Male,47,New Delhi,Delhi,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.15,7650.0,5250,2400.0,31.37,Upi
+ORD0248,2026-04-27,2026-04,2026,CUST0216,Customer 65,Female,26,Mumbai,Maharashtra,Electronics,Laptop,Laptop,3,55000,0.05,156750.0,126000,30750.0,19.62,Debit Card
+ORD0249,2026-02-10,2026-02,2026,CUST0232,Customer 21,Female,32,Ahmedabad,Gujarat,Clothing,Women'S Wear,Jacket,4,3200,0.15,10880.0,7600,3280.0,30.15,Net Banking
+ORD0250,2025-03-17,2025-03,2025,CUST0429,Customer 67,Male,24,Thiruvananthapuram,Kerala,Clothing,Men'S Wear,T-Shirt,3,900,0.0,2700.0,1500,1200.0,44.44,Upi
+ORD0251,2025-09-19,2025-09,2025,CUST0214,Customer 153,Female,58,New Delhi,Delhi,Electronics,Wearables,Smart Watch,2,4500,0.05,8550.0,5800,2750.0,32.16,Debit Card
+ORD0252,2025-04-03,2025-04,2025,CUST0109,Customer 241,Male,36,Bengaluru,Karnataka,Electronics,Mobile,Smartphone,2,22000,0.15,37400.0,33000,4400.0,11.76,Net Banking
+ORD0253,2025-07-09,2025-07,2025,CUST0136,Customer 43,Female,30,Thiruvananthapuram,Kerala,Clothing,Men'S Wear,T-Shirt,4,900,0.0,3600.0,2000,1600.0,44.44,Cash
+ORD0254,2025-12-10,2025-12,2025,CUST0037,Customer 305,Male,59,Warangal,Telangana,Electronics,Audio,Headphones,5,2500,0.05,11875.0,8000,3875.0,32.63,Net Banking
+ORD0255,2026-05-09,2026-05,2026,CUST0147,Customer 395,Male,58,Chennai,Tamil Nadu,Electronics,Audio,Headphones,3,2500,0.1,6750.0,4800,1950.0,28.89,Debit Card
+ORD0256,2025-09-25,2025-09,2025,CUST0445,Customer 240,Female,25,Nagpur,Maharashtra,Electronics,Laptop,Laptop,4,55000,0.1,198000.0,168000,30000.0,15.15,Debit Card
+ORD0257,2026-03-07,2026-03,2026,CUST0215,Customer 177,Female,42,Chennai,Tamil Nadu,Clothing,Women'S Wear,Jacket,2,3200,0.1,5760.0,3800,1960.0,34.03,Upi
+ORD0258,2026-02-16,2026-02,2026,CUST0424,Customer 84,Male,50,Kolkata,West Bengal,Sports,Football,Football,2,1200,0.1,2160.0,1400,760.0,35.19,Upi
+ORD0259,2025-09-23,2025-09,2025,CUST0398,Customer 210,Female,46,Chennai,Tamil Nadu,Home & Kitchen,Furniture,Office Chair,1,8500,0.15,7225.0,5800,1425.0,19.72,Upi
+ORD0260,2026-01-22,2026-01,2026,CUST0400,Customer 350,Male,23,Thiruvananthapuram,Kerala,Electronics,Audio,Headphones,4,2500,0.0,10000.0,6400,3600.0,36.0,Net Banking
+ORD0261,2025-12-23,2025-12,2025,CUST0213,Customer 62,Male,18,Surat,Gujarat,Electronics,Mobile,Smartphone,4,22000,0.05,83600.0,66000,17600.0,21.05,Credit Card
+ORD0262,2026-03-05,2026-03,2026,CUST0375,Customer 73,Female,38,Madurai,Tamil Nadu,Home & Kitchen,Furniture,Office Chair,1,8500,0.0,8500.0,5800,2700.0,31.76,Credit Card
+ORD0263,2025-02-10,2025-02,2025,CUST0063,Customer 23,Male,20,Pune,Maharashtra,Beauty,Skincare,Moisturizer,4,750,0.1,2700.0,1680,1020.0,37.78,Credit Card
+ORD0264,2025-10-17,2025-10,2025,CUST0440,Customer 156,Male,53,Ahmedabad,Gujarat,Clothing,Men'S Wear,Jeans,3,2200,0.1,5940.0,3900,2040.0,34.34,Credit Card
+ORD0265,2026-02-23,2026-02,2026,CUST0427,Customer 126,Male,37,Nagpur,Maharashtra,Electronics,Wearables,Smart Watch,1,4500,0.05,4275.0,2900,1375.0,32.16,Credit Card
+ORD0266,2026-03-10,2026-03,2026,CUST0325,Customer 414,Female,29,Kochi,Kerala,Electronics,Wearables,Smart Watch,5,4500,0.1,20250.0,14500,5750.0,28.4,Upi
+ORD0267,2025-08-22,2025-08,2025,CUST0051,Customer 306,Male,44,Surat,Gujarat,Clothing,Women'S Wear,Kurti,5,1600,0.05,7600.0,4500,3100.0,40.79,Net Banking
+ORD0268,2025-05-04,2025-05,2025,CUST0357,Customer 35,Female,54,New Delhi,Delhi,Beauty,Fragrance,Perfume,5,1800,0.05,8550.0,5250,3300.0,38.6,Upi
+ORD0269,2026-05-15,2026-05,2026,CUST0401,Customer 109,Male,46,Kolkata,West Bengal,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.1,23400.0,17200,6200.0,26.5,Net Banking
+ORD0270,2026-01-14,2026-01,2026,CUST0343,Customer 435,Female,30,Surat,Gujarat,Beauty,Skincare,Face Wash,5,450,0.05,2137.5,1300,837.5,39.18,Debit Card
+ORD0271,2025-10-27,2025-10,2025,CUST0139,Customer 359,Male,38,Thiruvananthapuram,Kerala,Beauty,Skincare,Face Wash,3,450,0.0,1350.0,780,570.0,42.22,Upi
+ORD0272,2025-09-30,2025-09,2025,CUST0099,Customer 252,Male,51,Hyderabad,Telangana,Electronics,Audio,Headphones,5,2500,0.05,11875.0,8000,3875.0,32.63,Credit Card
+ORD0273,2025-06-13,2025-06,2025,CUST0374,Customer 147,Male,38,Mysuru,Karnataka,Clothing,Men'S Wear,Jeans,3,2200,0.0,6600.0,3900,2700.0,40.91,Cash
+ORD0274,2026-05-02,2026-05,2026,CUST0005,Customer 184,Male,29,Kolkata,West Bengal,Sports,Cricket,Cricket Bat,2,2800,0.1,5040.0,3500,1540.0,30.56,Debit Card
+ORD0275,2025-08-16,2025-08,2025,CUST0102,Customer 75,Other,43,Hyderabad,Telangana,Sports,Fitness,Dumbbells,1,2200,0.15,1870.0,1350,520.0,27.81,Credit Card
+ORD0276,2025-03-23,2025-03,2025,CUST0092,Customer 435,Female,34,Coimbatore,Tamil Nadu,Beauty,Fragrance,Perfume,3,1800,0.1,4860.0,3150,1710.0,35.19,Net Banking
+ORD0277,2025-12-03,2025-12,2025,CUST0369,Customer 225,Male,26,Kolkata,West Bengal,Beauty,Skincare,Moisturizer,5,750,0.05,3562.5,2100,1462.5,41.05,Upi
+ORD0278,2025-04-24,2025-04,2025,CUST0022,Customer 349,Other,30,Surat,Gujarat,Electronics,Mobile,Smartphone,3,22000,0.05,62700.0,49500,13200.0,21.05,Upi
+ORD0279,2025-10-13,2025-10,2025,CUST0057,Customer 222,Male,38,New Delhi,Delhi,Beauty,Hair Care,Shampoo,2,650,0.0,1300.0,760,540.0,41.54,Cash
+ORD0280,2025-10-19,2025-10,2025,CUST0025,Customer 37,Male,24,Kolkata,West Bengal,Sports,Football,Football,2,1200,0.15,2040.0,1400,640.0,31.37,Upi
+ORD0281,2025-07-13,2025-07,2025,CUST0191,Customer 104,Female,26,Madurai,Tamil Nadu,Electronics,Wearables,Smart Watch,5,4500,0.15,19125.0,14500,4625.0,24.18,Cash
+ORD0282,2025-07-07,2025-07,2025,CUST0173,Customer 290,Male,55,Kolkata,West Bengal,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.05,24700.0,17200,7500.0,30.36,Credit Card
+ORD0283,2025-07-07,2025-07,2025,CUST0322,Customer 450,Female,51,Mumbai,Maharashtra,Electronics,Mobile,Smartphone,2,22000,0.0,44000.0,33000,11000.0,25.0,Debit Card
+ORD0284,2025-01-27,2025-01,2025,CUST0118,Customer 221,Female,20,Bengaluru,Karnataka,Clothing,Women'S Wear,Kurti,4,1600,0.15,5440.0,3600,1840.0,33.82,Net Banking
+ORD0285,2025-11-09,2025-11,2025,CUST0281,Customer 214,Female,30,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.1,3780.0,2800,980.0,25.93,Upi
+ORD0286,2025-01-14,2025-01,2025,CUST0178,Customer 412,Female,25,Kolkata,West Bengal,Sports,Fitness,Yoga Mat,2,900,0.1,1620.0,960,660.0,40.74,Debit Card
+ORD0287,2025-10-17,2025-10,2025,CUST0338,Customer 248,Female,40,New Delhi,Delhi,Beauty,Skincare,Moisturizer,4,750,0.0,3000.0,1680,1320.0,44.0,Credit Card
+ORD0288,2025-04-06,2025-04,2025,CUST0214,Customer 294,Male,48,Mangaluru,Karnataka,Electronics,Wearables,Smart Watch,1,4500,0.05,4275.0,2900,1375.0,32.16,Cash
+ORD0289,2025-05-17,2025-05,2025,CUST0411,Customer 162,Female,46,Madurai,Tamil Nadu,Clothing,Women'S Wear,Jacket,1,3200,0.05,3040.0,1900,1140.0,37.5,Cash
+ORD0290,2026-02-25,2026-02,2026,CUST0401,Customer 186,Male,23,Warangal,Telangana,Beauty,Fragrance,Perfume,3,1800,0.05,5130.0,3150,1980.0,38.6,Net Banking
+ORD0291,2025-08-23,2025-08,2025,CUST0013,Customer 101,Male,27,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.1,15120.0,11200,3920.0,25.93,Upi
+ORD0292,2025-10-20,2025-10,2025,CUST0298,Customer 401,Male,47,Salem,Tamil Nadu,Beauty,Skincare,Face Wash,4,450,0.1,1620.0,1040,580.0,35.8,Credit Card
+ORD0293,2026-03-31,2026-03,2026,CUST0013,Customer 210,Female,35,Pune,Maharashtra,Sports,Fitness,Dumbbells,1,2200,0.05,2090.0,1350,740.0,35.41,Debit Card
+ORD0294,2025-04-10,2025-04,2025,CUST0109,Customer 343,Female,28,Mumbai,Maharashtra,Home & Kitchen,Kitchen,Air Fryer,1,6500,0.1,5850.0,4300,1550.0,26.5,Debit Card
+ORD0295,2026-06-24,2026-06,2026,CUST0310,Unknown,Other,45,Mumbai,Maharashtra,Electronics,Wearables,Smart Watch,4,4500,0.1,16200.0,11600,4600.0,28.4,Upi
+ORD0296,2026-06-09,2026-06,2026,CUST0165,Customer 102,Female,27,Salem,Tamil Nadu,Electronics,Audio,Headphones,3,2500,0.1,6750.0,4800,1950.0,28.89,Upi
+ORD0297,2025-07-01,2025-07,2025,CUST0372,Customer 24,Male,20,Surat,Gujarat,Electronics,Wearables,Smart Watch,2,4500,0.0,9000.0,5800,3200.0,35.56,Credit Card
+ORD0298,2026-04-10,2026-04,2026,CUST0104,Customer 92,Male,18,Nagpur,Maharashtra,Sports,Football,Football,4,1200,0.05,4560.0,2800,1760.0,38.6,Debit Card
+ORD0299,2026-05-16,2026-05,2026,CUST0153,Customer 33,Male,58,Mangaluru,Karnataka,Clothing,Men'S Wear,Jeans,3,2200,0.05,6270.0,3900,2370.0,37.8,Upi
+ORD0300,2025-08-16,2025-08,2025,CUST0111,Customer 307,Female,33,Kolkata,West Bengal,Clothing,Women'S Wear,Jacket,1,3200,0.05,3040.0,1900,1140.0,37.5,Debit Card
+ORD0301,2026-05-04,2026-05,2026,CUST0157,Customer 98,Male,39,Salem,Tamil Nadu,Sports,Cricket,Cricket Bat,1,2800,0.05,2660.0,1750,910.0,34.21,Net Banking
+ORD0302,2026-03-10,2026-03,2026,CUST0331,Customer 143,Other,43,Bengaluru,Karnataka,Beauty,Fragrance,Perfume,4,1800,0.0,7200.0,4200,3000.0,41.67,Upi
+ORD0303,2026-01-29,2026-01,2026,CUST0301,Customer 339,Male,24,Surat,Gujarat,Beauty,Skincare,Face Wash,3,450,0.1,1215.0,780,435.0,35.8,Debit Card
+ORD0304,2025-04-12,2025-04,2025,CUST0216,Customer 438,Female,45,Kochi,Kerala,Beauty,Skincare,Moisturizer,4,750,0.05,2850.0,1680,1170.0,41.05,Cash
+ORD0305,2025-09-05,2025-09,2025,CUST0054,Customer 161,Male,22,Hyderabad,Telangana,Sports,Cricket,Cricket Bat,2,2800,0.1,5040.0,3500,1540.0,30.56,Upi
+ORD0306,2026-03-22,2026-03,2026,CUST0210,Customer 78,Female,22,Mysuru,Karnataka,Clothing,Women'S Wear,Kurti,5,1600,0.15,6800.0,4500,2300.0,33.82,Net Banking
+ORD0307,2025-06-10,2025-06,2025,CUST0209,Customer 240,Male,46,Mysuru,Karnataka,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.0,19500.0,12900,6600.0,33.85,Net Banking
+ORD0308,2025-03-31,2025-03,2025,CUST0446,Customer 332,Male,58,Kochi,Kerala,Clothing,Women'S Wear,Kurti,4,1600,0.1,5760.0,3600,2160.0,37.5,Net Banking
+ORD0309,2025-05-05,2025-05,2025,CUST0354,Customer 273,Female,21,Kochi,Kerala,Home & Kitchen,Furniture,Office Chair,2,8500,0.2,13600.0,11600,2000.0,14.71,Debit Card
+ORD0310,2026-05-10,2026-05,2026,CUST0094,Customer 321,Female,30,Kozhikode,Kerala,Clothing,Men'S Wear,Jeans,2,2200,0.1,3960.0,2600,1360.0,34.34,Debit Card
+ORD0311,2026-05-27,2026-05,2026,CUST0156,Customer 426,Female,39,Kozhikode,Kerala,Beauty,Skincare,Moisturizer,2,750,0.1,1350.0,840,510.0,37.78,Cash
+ORD0312,2025-06-04,2025-06,2025,CUST0377,Customer 349,Female,19,Kolkata,West Bengal,Clothing,Women'S Wear,Jacket,2,3200,0.05,6080.0,3800,2280.0,37.5,Cash
+ORD0313,2025-11-23,2025-11,2025,CUST0241,Customer 323,Female,44,Kochi,Kerala,Electronics,Wearables,Smart Watch,1,4500,0.0,4500.0,2900,1600.0,35.56,Credit Card
+ORD0314,2025-04-26,2025-04,2025,CUST0349,Customer 181,Male,44,Warangal,Telangana,Beauty,Fragrance,Perfume,3,1800,0.2,4320.0,3150,1170.0,27.08,Debit Card
+ORD0315,2025-02-10,2025-02,2025,CUST0105,Customer 389,Male,37,Thiruvananthapuram,Kerala,Clothing,Men'S Wear,Jeans,1,2200,0.0,2200.0,1300,900.0,40.91,Credit Card
+ORD0316,2025-04-09,2025-04,2025,CUST0076,Customer 282,Female,21,Bengaluru,Karnataka,Electronics,Mobile,Smartphone,5,22000,0.0,110000.0,82500,27500.0,25.0,Credit Card
+ORD0317,2025-03-25,2025-03,2025,CUST0399,Customer 242,Female,38,Kozhikode,Kerala,Electronics,Audio,Headphones,2,2500,0.15,4250.0,3200,1050.0,24.71,Cash
+ORD0318,2025-09-28,2025-09,2025,CUST0421,Customer 385,Female,45,Hyderabad,Telangana,Clothing,Men'S Wear,T-Shirt,3,900,0.1,2430.0,1500,930.0,38.27,Upi
+ORD0319,2025-10-17,2025-10,2025,CUST0441,Customer 433,Female,46,Kozhikode,Kerala,Beauty,Skincare,Moisturizer,5,750,0.1,3375.0,2100,1275.0,37.78,Debit Card
+ORD0320,2025-11-22,2025-11,2025,CUST0357,Customer 313,Male,58,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,5,4500,0.0,22500.0,14500,8000.0,35.56,Credit Card
+ORD0321,2025-02-07,2025-02,2025,CUST0420,Customer 239,Female,39,Mangaluru,Karnataka,Electronics,Laptop,Laptop,5,55000,0.05,261250.0,210000,51250.0,19.62,Net Banking
+ORD0322,2025-07-25,2025-07,2025,CUST0185,Customer 382,Female,54,Chennai,Tamil Nadu,Beauty,Hair Care,Shampoo,2,650,0.15,1105.0,760,345.0,31.22,Cash
+ORD0323,2025-07-21,2025-07,2025,CUST0032,Customer 443,Female,25,Ahmedabad,Gujarat,Sports,Fitness,Dumbbells,5,2200,0.1,9900.0,6750,3150.0,31.82,Upi
+ORD0324,2026-03-12,2026-03,2026,CUST0111,Customer 153,Male,39,Mangaluru,Karnataka,Clothing,Men'S Wear,T-Shirt,3,900,0.1,2430.0,1500,930.0,38.27,Debit Card
+ORD0325,2025-07-13,2025-07,2025,CUST0104,Customer 271,Other,53,Kochi,Kerala,Clothing,Men'S Wear,T-Shirt,1,900,0.1,810.0,500,310.0,38.27,Credit Card
+ORD0326,2025-03-14,2025-03,2025,CUST0141,Customer 70,Male,34,Ahmedabad,Gujarat,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.1,7560.0,5600,1960.0,25.93,Upi
+ORD0327,2025-07-11,2025-07,2025,CUST0065,Customer 337,Female,29,New Delhi,Delhi,Clothing,Men'S Wear,T-Shirt,3,900,0.0,2700.0,1500,1200.0,44.44,Credit Card
+ORD0328,2025-03-19,2025-03,2025,CUST0314,Customer 289,Female,36,Thiruvananthapuram,Kerala,Electronics,Wearables,Smart Watch,4,4500,0.05,17100.0,11600,5500.0,32.16,Upi
+ORD0329,2025-06-17,2025-06,2025,CUST0339,Customer 193,Female,46,New Delhi,Delhi,Beauty,Fragrance,Perfume,4,1800,0.1,6480.0,4200,2280.0,35.19,Credit Card
+ORD0330,2026-04-03,2026-04,2026,CUST0089,Customer 148,Female,52,Nagpur,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.2,7200.0,5250,1950.0,27.08,Upi
+ORD0331,2026-01-10,2026-01,2026,CUST0114,Customer 272,Male,54,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,2,8500,0.15,14450.0,11600,2850.0,19.72,Upi
+ORD0332,2025-11-27,2025-11,2025,CUST0389,Customer 283,Female,50,Kolkata,West Bengal,Sports,Football,Football,4,1200,0.1,4320.0,2800,1520.0,35.19,Upi
+ORD0333,2025-11-14,2025-11,2025,CUST0050,Customer 368,Male,22,Hyderabad,Telangana,Sports,Cricket,Cricket Bat,1,2800,0.15,2380.0,1750,630.0,26.47,Cash
+ORD0334,2026-01-26,2026-01,2026,CUST0079,Customer 215,Female,56,Madurai,Tamil Nadu,Clothing,Women'S Wear,Kurti,2,1600,0.0,3200.0,1800,1400.0,43.75,Debit Card
+ORD0335,2025-12-27,2025-12,2025,CUST0057,Customer 392,Male,46,New Delhi,Delhi,Beauty,Skincare,Moisturizer,5,750,0.0,3750.0,2100,1650.0,44.0,Net Banking
+ORD0336,2025-03-23,2025-03,2025,CUST0425,Customer 433,Other,22,Mysuru,Karnataka,Clothing,Men'S Wear,T-Shirt,2,900,0.2,1440.0,1000,440.0,30.56,Credit Card
+ORD0337,2025-06-15,2025-06,2025,CUST0022,Customer 154,Female,42,Kochi,Kerala,Home & Kitchen,Furniture,Office Chair,3,8500,0.0,25500.0,17400,8100.0,31.76,Debit Card
+ORD0338,2026-01-02,2026-01,2026,CUST0322,Customer 414,Female,37,Kozhikode,Kerala,Electronics,Laptop,Laptop,4,55000,0.05,209000.0,168000,41000.0,19.62,Debit Card
+ORD0339,2026-03-19,2026-03,2026,CUST0100,Customer 59,Female,50,Pune,Maharashtra,Clothing,Men'S Wear,Jeans,3,2200,0.1,5940.0,3900,2040.0,34.34,Credit Card
+ORD0340,2025-09-05,2025-09,2025,CUST0278,Customer 356,Female,27,Warangal,Telangana,Sports,Cricket,Cricket Bat,3,2800,0.0,8400.0,5250,3150.0,37.5,Upi
+ORD0341,2025-03-24,2025-03,2025,CUST0385,Customer 138,Female,21,Mysuru,Karnataka,Clothing,Women'S Wear,Jacket,1,3200,0.0,3200.0,1900,1300.0,40.62,Credit Card
+ORD0342,2026-05-22,2026-05,2026,CUST0341,Customer 127,Male,44,Hyderabad,Telangana,Beauty,Hair Care,Shampoo,1,650,0.05,617.5,380,237.5,38.46,Upi
+ORD0343,2025-02-12,2025-02,2025,CUST0377,Customer 41,Male,44,Salem,Tamil Nadu,Sports,Fitness,Dumbbells,5,2200,0.1,9900.0,6750,3150.0,31.82,Credit Card
+ORD0344,2026-01-01,2026-01,2026,CUST0069,Customer 299,Female,49,Mysuru,Karnataka,Clothing,Women'S Wear,Jacket,1,3200,0.15,2720.0,1900,820.0,30.15,Upi
+ORD0345,2025-10-31,2025-10,2025,CUST0138,Customer 338,Female,50,Surat,Gujarat,Electronics,Laptop,Laptop,2,55000,0.1,99000.0,84000,15000.0,15.15,Upi
+ORD0346,2026-05-09,2026-05,2026,CUST0209,Customer 73,Female,20,New Delhi,Delhi,Home & Kitchen,Home Decor,Table Lamp,3,1800,0.05,5130.0,3150,1980.0,38.6,Debit Card
+ORD0347,2025-07-06,2025-07,2025,CUST0341,Customer 258,Female,50,Pune,Maharashtra,Beauty,Fragrance,Perfume,1,1800,0.15,1530.0,1050,480.0,31.37,Debit Card
+ORD0348,2025-03-04,2025-03,2025,CUST0150,Customer 139,Female,60,Pune,Maharashtra,Electronics,Wearables,Smart Watch,2,4500,0.05,8550.0,5800,2750.0,32.16,Upi
+ORD0349,2025-01-03,2025-01,2025,CUST0422,Customer 242,Female,41,Bengaluru,Karnataka,Electronics,Mobile,Smartphone,5,22000,0.05,104500.0,82500,22000.0,21.05,Upi
+ORD0350,2025-10-30,2025-10,2025,CUST0084,Customer 83,Female,27,Chennai,Tamil Nadu,Sports,Cricket,Cricket Bat,5,2800,0.0,14000.0,8750,5250.0,37.5,Debit Card
+ORD0351,2025-11-15,2025-11,2025,CUST0378,Customer 52,Female,59,Kochi,Kerala,Electronics,Wearables,Smart Watch,4,4500,0.05,17100.0,11600,5500.0,32.16,Upi
+ORD0352,2025-04-07,2025-04,2025,CUST0369,Customer 213,Male,59,Ahmedabad,Gujarat,Beauty,Hair Care,Shampoo,5,650,0.05,3087.5,1900,1187.5,38.46,Upi
+ORD0353,2026-04-10,2026-04,2026,CUST0076,Customer 414,Female,58,Mumbai,Maharashtra,Electronics,Laptop,Laptop,3,55000,0.05,156750.0,126000,30750.0,19.62,Debit Card
+ORD0354,2025-02-14,2025-02,2025,CUST0401,Customer 247,Female,49,Madurai,Tamil Nadu,Clothing,Men'S Wear,T-Shirt,5,900,0.05,4275.0,2500,1775.0,41.52,Upi
+ORD0355,2025-08-23,2025-08,2025,CUST0416,Customer 426,Female,39,Ahmedabad,Gujarat,Clothing,Men'S Wear,Jeans,4,2200,0.1,7920.0,5200,2720.0,34.34,Upi
+ORD0356,2025-07-25,2025-07,2025,CUST0167,Customer 247,Female,51,Thiruvananthapuram,Kerala,Electronics,Audio,Headphones,4,2500,0.1,9000.0,6400,2600.0,28.89,Debit Card
+ORD0357,2026-04-26,2026-04,2026,CUST0019,Customer 195,Female,60,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,4,8500,0.1,30600.0,23200,7400.0,24.18,Credit Card
+ORD0358,2025-08-27,2025-08,2025,CUST0205,Customer 48,Female,30,Mangaluru,Karnataka,Beauty,Skincare,Face Wash,2,450,0.05,855.0,520,335.0,39.18,Debit Card
+ORD0359,2025-01-07,2025-01,2025,CUST0314,Customer 305,Male,30,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,2,55000,0.1,99000.0,84000,15000.0,15.15,Net Banking
+ORD0360,2026-02-20,2026-02,2026,CUST0282,Customer 380,Female,20,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.15,3570.0,2800,770.0,21.57,Debit Card
+ORD0361,2025-07-18,2025-07,2025,CUST0206,Customer 413,Female,39,Ahmedabad,Gujarat,Beauty,Skincare,Face Wash,1,450,0.05,427.5,260,167.5,39.18,Credit Card
+ORD0362,2026-01-19,2026-01,2026,CUST0048,Customer 194,Female,47,Kozhikode,Kerala,Sports,Cricket,Cricket Bat,3,2800,0.0,8400.0,5250,3150.0,37.5,Upi
+ORD0363,2025-03-23,2025-03,2025,CUST0322,Customer 333,Male,32,Surat,Gujarat,Sports,Fitness,Dumbbells,1,2200,0.1,1980.0,1350,630.0,31.82,Debit Card
+ORD0364,2025-07-25,2025-07,2025,CUST0320,Customer 40,Male,46,Pune,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.1,8100.0,5250,2850.0,35.19,Upi
+ORD0365,2025-08-23,2025-08,2025,CUST0386,Customer 62,Female,48,Kozhikode,Kerala,Home & Kitchen,Furniture,Office Chair,4,8500,0.1,30600.0,23200,7400.0,24.18,Upi
+ORD0366,2025-07-20,2025-07,2025,CUST0250,Customer 314,Male,32,Ahmedabad,Gujarat,Home & Kitchen,Furniture,Office Chair,4,8500,0.0,34000.0,23200,10800.0,31.76,Credit Card
+ORD0367,2026-06-25,2026-06,2026,CUST0059,Customer 71,Female,52,Mumbai,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,2,1800,0.1,3240.0,2100,1140.0,35.19,Debit Card
+ORD0368,2026-05-05,2026-05,2026,CUST0245,Customer 62,Female,33,Hyderabad,Telangana,Home & Kitchen,Kitchen,Air Fryer,5,6500,0.0,32500.0,21500,11000.0,33.85,Credit Card
+ORD0369,2025-10-27,2025-10,2025,CUST0395,Customer 207,Male,19,Mysuru,Karnataka,Home & Kitchen,Furniture,Office Chair,3,8500,0.0,25500.0,17400,8100.0,31.76,Net Banking
+ORD0370,2026-01-19,2026-01,2026,CUST0062,Customer 294,Female,40,Ahmedabad,Gujarat,Clothing,Men'S Wear,Jeans,4,2200,0.05,8360.0,5200,3160.0,37.8,Cash
+ORD0371,2026-03-13,2026-03,2026,CUST0207,Customer 388,Male,49,Madurai,Tamil Nadu,Clothing,Women'S Wear,Kurti,5,1600,0.05,7600.0,4500,3100.0,40.79,Debit Card
+ORD0372,2026-06-18,2026-06,2026,CUST0070,Customer 381,Male,37,Ahmedabad,Gujarat,Sports,Fitness,Dumbbells,4,2200,0.1,7920.0,5400,2520.0,31.82,Credit Card
+ORD0373,2026-03-31,2026-03,2026,CUST0104,Customer 77,Female,42,Nagpur,Maharashtra,Beauty,Skincare,Moisturizer,2,750,0.1,1350.0,840,510.0,37.78,Net Banking
+ORD0374,2025-10-26,2025-10,2025,CUST0445,Customer 287,Male,55,New Delhi,Delhi,Electronics,Wearables,Smart Watch,3,4500,0.15,11475.0,8700,2775.0,24.18,Net Banking
+ORD0375,2026-04-04,2026-04,2026,CUST0187,Customer 405,Male,32,Kochi,Kerala,Sports,Cricket,Cricket Bat,3,2800,0.0,8400.0,5250,3150.0,37.5,Upi
+ORD0376,2025-04-24,2025-04,2025,CUST0433,Customer 356,Male,52,Thiruvananthapuram,Kerala,Clothing,Women'S Wear,Kurti,4,1600,0.1,5760.0,3600,2160.0,37.5,Upi
+ORD0377,2025-12-05,2025-12,2025,CUST0025,Customer 68,Male,33,Ahmedabad,Gujarat,Beauty,Fragrance,Perfume,2,1800,0.1,3240.0,2100,1140.0,35.19,Credit Card
+ORD0378,2026-06-24,2026-06,2026,CUST0197,Customer 191,Female,60,Mumbai,Maharashtra,Beauty,Fragrance,Perfume,2,1800,0.1,3240.0,2100,1140.0,35.19,Credit Card
+ORD0379,2025-10-15,2025-10,2025,CUST0395,Customer 189,Female,59,Kochi,Kerala,Sports,Fitness,Dumbbells,2,2200,0.1,3960.0,2700,1260.0,31.82,Credit Card
+ORD0380,2025-07-01,2025-07,2025,CUST0406,Customer 339,Male,22,Mangaluru,Karnataka,Clothing,Men'S Wear,Jeans,3,2200,0.0,6600.0,3900,2700.0,40.91,Debit Card
+ORD0381,2026-02-08,2026-02,2026,CUST0434,Customer 112,Female,34,Salem,Tamil Nadu,Beauty,Skincare,Face Wash,4,450,0.0,1800.0,1040,760.0,42.22,Upi
+ORD0382,2025-07-03,2025-07,2025,CUST0090,Customer 94,Female,37,Madurai,Tamil Nadu,Electronics,Audio,Headphones,4,2500,0.05,9500.0,6400,3100.0,32.63,Credit Card
+ORD0383,2025-05-30,2025-05,2025,CUST0148,Customer 8,Female,43,Mumbai,Maharashtra,Clothing,Men'S Wear,T-Shirt,2,900,0.15,1530.0,1000,530.0,34.64,Upi
+ORD0384,2025-02-14,2025-02,2025,CUST0443,Customer 239,Female,33,Pune,Maharashtra,Electronics,Wearables,Smart Watch,4,4500,0.15,15300.0,11600,3700.0,24.18,Credit Card
+ORD0385,2025-08-11,2025-08,2025,CUST0119,Customer 313,Male,37,Surat,Gujarat,Home & Kitchen,Furniture,Office Chair,1,8500,0.2,6800.0,5800,1000.0,14.71,Debit Card
+ORD0386,2025-12-16,2025-12,2025,CUST0413,Customer 403,Female,29,Ahmedabad,Gujarat,Beauty,Hair Care,Shampoo,4,650,0.05,2470.0,1520,950.0,38.46,Cash
+ORD0387,2026-04-30,2026-04,2026,CUST0084,Customer 387,Male,37,New Delhi,Delhi,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.0,26000.0,17200,8800.0,33.85,Net Banking
+ORD0388,2025-04-03,2025-04,2025,CUST0350,Customer 56,Male,57,Pune,Maharashtra,Electronics,Wearables,Smart Watch,4,4500,0.05,17100.0,11600,5500.0,32.16,Debit Card
+ORD0389,2026-05-31,2026-05,2026,CUST0223,Customer 338,Other,49,Warangal,Telangana,Electronics,Laptop,Laptop,4,55000,0.1,198000.0,168000,30000.0,15.15,Upi
+ORD0390,2026-03-29,2026-03,2026,CUST0192,Customer 266,Female,28,Surat,Gujarat,Sports,Fitness,Yoga Mat,2,900,0.15,1530.0,960,570.0,37.25,Cash
+ORD0391,2026-05-05,2026-05,2026,CUST0313,Customer 439,Male,40,Surat,Gujarat,Electronics,Audio,Headphones,4,2500,0.05,9500.0,6400,3100.0,32.63,Credit Card
+ORD0392,2026-02-03,2026-02,2026,CUST0106,Customer 271,Female,35,Bengaluru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.05,19950.0,14000,5950.0,29.82,Debit Card
+ORD0393,2025-03-23,2025-03,2025,CUST0333,Customer 208,Female,26,Kolkata,West Bengal,Clothing,Women'S Wear,Kurti,5,1600,0.2,6400.0,4500,1900.0,29.69,Upi
+ORD0394,2025-07-06,2025-07,2025,CUST0345,Customer 224,Female,52,Madurai,Tamil Nadu,Clothing,Men'S Wear,Jeans,3,2200,0.1,5940.0,3900,2040.0,34.34,Upi
+ORD0395,2025-09-27,2025-09,2025,CUST0095,Customer 310,Female,23,New Delhi,Delhi,Sports,Cricket,Cricket Bat,1,2800,0.15,2380.0,1750,630.0,26.47,Credit Card
+ORD0396,2025-02-22,2025-02,2025,CUST0222,Customer 412,Male,55,Warangal,Telangana,Clothing,Men'S Wear,T-Shirt,5,900,0.1,4050.0,2500,1550.0,38.27,Cash
+ORD0397,2026-06-28,2026-06,2026,CUST0099,Customer 394,Male,25,Kochi,Kerala,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.1,8100.0,5250,2850.0,35.19,Cash
+ORD0398,2026-05-02,2026-05,2026,CUST0383,Customer 406,Male,42,Kozhikode,Kerala,Home & Kitchen,Furniture,Office Chair,5,8500,0.1,38250.0,29000,9250.0,24.18,Upi
+ORD0399,2025-09-30,2025-09,2025,CUST0408,Customer 58,Male,30,Hyderabad,Telangana,Clothing,Men'S Wear,Jeans,2,2200,0.0,4400.0,2600,1800.0,40.91,Upi
+ORD0400,2026-04-18,2026-04,2026,CUST0189,Customer 272,Male,30,Surat,Gujarat,Sports,Fitness,Yoga Mat,3,900,0.0,2700.0,1440,1260.0,46.67,Credit Card
+ORD0401,2025-04-04,2025-04,2025,CUST0338,Customer 269,Female,30,Kolkata,West Bengal,Home & Kitchen,Kitchen,Air Fryer,1,6500,0.1,5850.0,4300,1550.0,26.5,Credit Card
+ORD0402,2026-04-24,2026-04,2026,CUST0053,Customer 384,Female,32,Kochi,Kerala,Beauty,Skincare,Moisturizer,1,750,0.1,675.0,420,255.0,37.78,Credit Card
+ORD0403,2025-09-22,2025-09,2025,CUST0288,Customer 271,Female,18,Warangal,Telangana,Clothing,Women'S Wear,Jacket,1,3200,0.15,2720.0,1900,820.0,30.15,Debit Card
+ORD0404,2025-08-20,2025-08,2025,CUST0042,Customer 190,Male,44,Hyderabad,Telangana,Beauty,Skincare,Face Wash,1,450,0.0,450.0,260,190.0,42.22,Upi
+ORD0405,2026-01-25,2026-01,2026,CUST0342,Customer 434,Female,46,Kozhikode,Kerala,Clothing,Women'S Wear,Kurti,1,1600,0.0,1600.0,900,700.0,43.75,Cash
+ORD0406,2025-05-29,2025-05,2025,CUST0115,Customer 450,Male,58,New Delhi,Delhi,Electronics,Wearables,Smart Watch,3,4500,0.1,12150.0,8700,3450.0,28.4,Credit Card
+ORD0407,2025-04-29,2025-04,2025,CUST0293,Customer 371,Female,23,Kolkata,West Bengal,Electronics,Audio,Headphones,4,2500,0.1,9000.0,6400,2600.0,28.89,Upi
+ORD0408,2025-04-15,2025-04,2025,CUST0228,Customer 247,Male,30,Warangal,Telangana,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.05,11970.0,8400,3570.0,29.82,Debit Card
+ORD0409,2026-03-23,2026-03,2026,CUST0208,Customer 370,Male,45,Warangal,Telangana,Beauty,Skincare,Moisturizer,3,750,0.0,2250.0,1260,990.0,44.0,Upi
+ORD0410,2025-09-07,2025-09,2025,CUST0408,Customer 118,Male,31,Warangal,Telangana,Electronics,Laptop,Laptop,4,55000,0.05,209000.0,168000,41000.0,19.62,Net Banking
+ORD0411,2026-04-09,2026-04,2026,CUST0113,Customer 271,Female,41,Bengaluru,Karnataka,Beauty,Skincare,Moisturizer,2,750,0.0,1500.0,840,660.0,44.0,Debit Card
+ORD0412,2025-07-02,2025-07,2025,CUST0368,Customer 129,Female,37,Kochi,Kerala,Clothing,Men'S Wear,Jeans,2,2200,0.15,3740.0,2600,1140.0,30.48,Upi
+ORD0413,2026-04-14,2026-04,2026,CUST0446,Customer 372,Female,42,New Delhi,Delhi,Electronics,Mobile,Smartphone,3,22000,0.05,62700.0,49500,13200.0,21.05,Cash
+ORD0414,2025-03-11,2025-03,2025,CUST0113,Customer 363,Male,32,New Delhi,Delhi,Clothing,Men'S Wear,Jeans,2,2200,0.0,4400.0,2600,1800.0,40.91,Upi
+ORD0415,2025-07-11,2025-07,2025,CUST0040,Customer 242,Female,45,Surat,Gujarat,Beauty,Skincare,Moisturizer,3,750,0.15,1912.5,1260,652.5,34.12,Credit Card
+ORD0416,2025-02-25,2025-02,2025,CUST0443,Customer 237,Male,22,Bengaluru,Karnataka,Sports,Fitness,Dumbbells,3,2200,0.15,5610.0,4050,1560.0,27.81,Upi
+ORD0417,2025-04-18,2025-04,2025,CUST0332,Customer 423,Female,18,New Delhi,Delhi,Electronics,Laptop,Laptop,3,55000,0.1,148500.0,126000,22500.0,15.15,Debit Card
+ORD0418,2026-05-10,2026-05,2026,CUST0162,Customer 247,Other,45,Bengaluru,Karnataka,Clothing,Women'S Wear,Kurti,5,1600,0.0,8000.0,4500,3500.0,43.75,Upi
+ORD0419,2025-07-10,2025-07,2025,CUST0182,Customer 426,Other,57,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,1,4500,0.05,4275.0,2900,1375.0,32.16,Credit Card
+ORD0420,2025-06-15,2025-06,2025,CUST0337,Customer 78,Male,25,Nagpur,Maharashtra,Beauty,Hair Care,Shampoo,3,650,0.05,1852.5,1140,712.5,38.46,Upi
+ORD0421,2025-03-01,2025-03,2025,CUST0006,Customer 197,Female,44,Pune,Maharashtra,Clothing,Men'S Wear,Jeans,5,2200,0.1,9900.0,6500,3400.0,34.34,Upi
+ORD0422,2026-03-24,2026-03,2026,CUST0242,Customer 146,Male,22,New Delhi,Delhi,Electronics,Audio,Headphones,1,2500,0.1,2250.0,1600,650.0,28.89,Upi
+ORD0423,2026-02-23,2026-02,2026,CUST0337,Customer 419,Female,32,Hyderabad,Telangana,Sports,Football,Football,5,1200,0.0,6000.0,3500,2500.0,41.67,Net Banking
+ORD0424,2025-12-21,2025-12,2025,CUST0288,Customer 164,Female,34,Kozhikode,Kerala,Home & Kitchen,Home Decor,Table Lamp,4,1800,0.15,6120.0,4200,1920.0,31.37,Net Banking
+ORD0425,2025-07-09,2025-07,2025,CUST0388,Customer 429,Female,21,Pune,Maharashtra,Clothing,Men'S Wear,Jeans,5,2200,0.0,11000.0,6500,4500.0,40.91,Upi
+ORD0426,2026-05-19,2026-05,2026,CUST0364,Customer 371,Male,56,Bengaluru,Karnataka,Clothing,Women'S Wear,Kurti,3,1600,0.05,4560.0,2700,1860.0,40.79,Net Banking
+ORD0427,2026-02-27,2026-02,2026,CUST0060,Customer 98,Female,55,Kolkata,West Bengal,Clothing,Men'S Wear,T-Shirt,3,900,0.0,2700.0,1500,1200.0,44.44,Debit Card
+ORD0428,2025-05-26,2025-05,2025,CUST0271,Customer 424,Female,21,Thiruvananthapuram,Kerala,Electronics,Laptop,Laptop,2,55000,0.0,110000.0,84000,26000.0,23.64,Credit Card
+ORD0429,2026-01-23,2026-01,2026,CUST0447,Customer 337,Male,59,Bengaluru,Karnataka,Home & Kitchen,Home Decor,Table Lamp,3,1800,0.1,4860.0,3150,1710.0,35.19,Net Banking
+ORD0430,2026-05-30,2026-05,2026,CUST0393,Customer 316,Male,37,Madurai,Tamil Nadu,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.15,16575.0,12900,3675.0,22.17,Debit Card
+ORD0431,2025-06-24,2025-06,2025,CUST0069,Customer 47,Male,26,Hyderabad,Telangana,Home & Kitchen,Kitchen,Air Fryer,1,6500,0.05,6175.0,4300,1875.0,30.36,Debit Card
+ORD0432,2026-05-09,2026-05,2026,CUST0314,Customer 94,Female,42,Warangal,Telangana,Sports,Cricket,Cricket Bat,4,2800,0.0,11200.0,7000,4200.0,37.5,Debit Card
+ORD0433,2026-02-09,2026-02,2026,CUST0214,Customer 173,Male,51,Kolkata,West Bengal,Beauty,Skincare,Face Wash,3,450,0.1,1215.0,780,435.0,35.8,Upi
+ORD0434,2025-08-29,2025-08,2025,CUST0243,Customer 18,Female,59,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,2,4500,0.15,7650.0,5800,1850.0,24.18,Upi
+ORD0435,2026-04-19,2026-04,2026,CUST0315,Customer 411,Female,59,Kochi,Kerala,Beauty,Skincare,Moisturizer,1,750,0.1,675.0,420,255.0,37.78,Credit Card
+ORD0436,2026-01-11,2026-01,2026,CUST0292,Customer 8,Female,60,Kozhikode,Kerala,Electronics,Audio,Headphones,4,2500,0.05,9500.0,6400,3100.0,32.63,Upi
+ORD0437,2025-03-12,2025-03,2025,CUST0180,Customer 124,Male,54,Pune,Maharashtra,Electronics,Wearables,Smart Watch,5,4500,0.1,20250.0,14500,5750.0,28.4,Upi
+ORD0438,2025-06-14,2025-06,2025,CUST0027,Customer 311,Male,36,Mumbai,Maharashtra,Beauty,Fragrance,Perfume,4,1800,0.1,6480.0,4200,2280.0,35.19,Upi
+ORD0439,2025-01-30,2025-01,2025,CUST0045,Customer 275,Female,49,Hyderabad,Telangana,Electronics,Mobile,Smartphone,4,22000,0.05,83600.0,66000,17600.0,21.05,Upi
+ORD0440,2025-04-26,2025-04,2025,CUST0239,Customer 335,Male,53,Kolkata,West Bengal,Beauty,Fragrance,Perfume,5,1800,0.05,8550.0,5250,3300.0,38.6,Upi
+ORD0441,2025-10-05,2025-10,2025,CUST0442,Customer 324,Female,37,Salem,Tamil Nadu,Clothing,Women'S Wear,Jacket,2,3200,0.05,6080.0,3800,2280.0,37.5,Credit Card
+ORD0442,2026-01-19,2026-01,2026,CUST0163,Customer 441,Other,21,Pune,Maharashtra,Electronics,Laptop,Laptop,2,55000,0.1,99000.0,84000,15000.0,15.15,Cash
+ORD0443,2025-05-24,2025-05,2025,CUST0016,Customer 302,Male,27,Mumbai,Maharashtra,Clothing,Women'S Wear,Kurti,5,1600,0.1,7200.0,4500,2700.0,37.5,Upi
+ORD0444,2025-11-02,2025-11,2025,CUST0396,Customer 95,Female,38,Kolkata,West Bengal,Sports,Fitness,Yoga Mat,1,900,0.0,900.0,480,420.0,46.67,Upi
+ORD0445,2025-04-18,2025-04,2025,CUST0019,Customer 410,Female,59,Chennai,Tamil Nadu,Home & Kitchen,Home Decor,Table Lamp,1,1800,0.1,1620.0,1050,570.0,35.19,Debit Card
+ORD0446,2025-11-12,2025-11,2025,CUST0182,Customer 30,Female,59,Thiruvananthapuram,Kerala,Clothing,Men'S Wear,T-Shirt,3,900,0.05,2565.0,1500,1065.0,41.52,Net Banking
+ORD0447,2025-12-27,2025-12,2025,CUST0374,Customer 42,Male,59,Warangal,Telangana,Electronics,Wearables,Smart Watch,5,4500,0.05,21375.0,14500,6875.0,32.16,Debit Card
+ORD0448,2025-12-02,2025-12,2025,CUST0162,Customer 160,Female,37,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,5,4500,0.1,20250.0,14500,5750.0,28.4,Upi
+ORD0449,2025-02-08,2025-02,2025,CUST0060,Customer 66,Female,26,Bengaluru,Karnataka,Sports,Fitness,Dumbbells,1,2200,0.05,2090.0,1350,740.0,35.41,Cash
+ORD0450,2025-06-05,2025-06,2025,CUST0340,Customer 125,Male,31,Madurai,Tamil Nadu,Clothing,Women'S Wear,Jacket,3,3200,0.1,8640.0,5700,2940.0,34.03,Cash
+ORD0451,2025-05-30,2025-05,2025,CUST0036,Customer 173,Female,31,Kolkata,West Bengal,Clothing,Men'S Wear,Jeans,5,2200,0.1,9900.0,6500,3400.0,34.34,Net Banking
+ORD0452,2025-05-28,2025-05,2025,CUST0018,Customer 294,Male,42,Warangal,Telangana,Clothing,Women'S Wear,Jacket,5,3200,0.15,13600.0,9500,4100.0,30.15,Cash
+ORD0453,2026-01-31,2026-01,2026,CUST0400,Customer 337,Female,38,Kozhikode,Kerala,Electronics,Audio,Headphones,3,2500,0.15,6375.0,4800,1575.0,24.71,Credit Card
+ORD0454,2025-07-25,2025-07,2025,CUST0335,Customer 43,Male,51,Nagpur,Maharashtra,Clothing,Women'S Wear,Kurti,4,1600,0.15,5440.0,3600,1840.0,33.82,Net Banking
+ORD0455,2025-10-18,2025-10,2025,CUST0133,Customer 201,Female,40,Chennai,Tamil Nadu,Clothing,Men'S Wear,T-Shirt,4,900,0.05,3420.0,2000,1420.0,41.52,Net Banking
+ORD0456,2025-12-10,2025-12,2025,CUST0413,Unknown,Male,44,Pune,Maharashtra,Beauty,Fragrance,Perfume,2,1800,0.1,3240.0,2100,1140.0,35.19,Upi
+ORD0457,2025-11-22,2025-11,2025,CUST0008,Customer 29,Male,18,Mangaluru,Karnataka,Sports,Fitness,Yoga Mat,1,900,0.05,855.0,480,375.0,43.86,Debit Card
+ORD0458,2025-08-31,2025-08,2025,CUST0275,Customer 102,Female,29,Ahmedabad,Gujarat,Home & Kitchen,Home Decor,Table Lamp,3,1800,0.1,4860.0,3150,1710.0,35.19,Upi
+ORD0459,2025-02-12,2025-02,2025,CUST0211,Customer 200,Male,45,Kochi,Kerala,Beauty,Skincare,Face Wash,4,450,0.1,1620.0,1040,580.0,35.8,Debit Card
+ORD0460,2026-03-11,2026-03,2026,CUST0268,Customer 207,Male,26,Mysuru,Karnataka,Electronics,Mobile,Smartphone,3,22000,0.05,62700.0,49500,13200.0,21.05,Upi
+ORD0461,2026-03-24,2026-03,2026,CUST0390,Customer 430,Male,28,Kolkata,West Bengal,Electronics,Audio,Headphones,2,2500,0.05,4750.0,3200,1550.0,32.63,Credit Card
+ORD0462,2026-01-11,2026-01,2026,CUST0263,Customer 267,Female,25,Warangal,Telangana,Clothing,Women'S Wear,Jacket,1,3200,0.2,2560.0,1900,660.0,25.78,Debit Card
+ORD0463,2025-02-15,2025-02,2025,CUST0309,Customer 88,Male,29,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.1,15120.0,11200,3920.0,25.93,Net Banking
+ORD0464,2026-01-01,2026-01,2026,CUST0122,Customer 11,Male,21,Ahmedabad,Gujarat,Sports,Cricket,Cricket Bat,1,2800,0.2,2240.0,1750,490.0,21.88,Debit Card
+ORD0465,2025-06-13,2025-06,2025,CUST0270,Customer 334,Female,43,Warangal,Telangana,Clothing,Men'S Wear,T-Shirt,2,900,0.1,1620.0,1000,620.0,38.27,Credit Card
+ORD0466,2025-12-24,2025-12,2025,CUST0106,Customer 47,Male,32,Thiruvananthapuram,Kerala,Home & Kitchen,Furniture,Office Chair,4,8500,0.05,32300.0,23200,9100.0,28.17,Net Banking
+ORD0467,2025-11-26,2025-11,2025,CUST0138,Customer 441,Male,39,Pune,Maharashtra,Clothing,Men'S Wear,Jeans,1,2200,0.15,1870.0,1300,570.0,30.48,Upi
+ORD0468,2026-05-31,2026-05,2026,CUST0401,Customer 132,Male,18,Kolkata,West Bengal,Clothing,Men'S Wear,Jeans,3,2200,0.05,6270.0,3900,2370.0,37.8,Debit Card
+ORD0469,2025-10-19,2025-10,2025,CUST0434,Customer 244,Male,52,Thiruvananthapuram,Kerala,Electronics,Laptop,Laptop,2,55000,0.15,93500.0,84000,9500.0,10.16,Upi
+ORD0470,2025-07-06,2025-07,2025,CUST0031,Customer 260,Male,46,Kozhikode,Kerala,Clothing,Men'S Wear,Jeans,1,2200,0.05,2090.0,1300,790.0,37.8,Upi
+ORD0471,2025-07-22,2025-07,2025,CUST0066,Customer 108,Female,58,Mumbai,Maharashtra,Clothing,Men'S Wear,Jeans,2,2200,0.05,4180.0,2600,1580.0,37.8,Upi
+ORD0472,2025-03-31,2025-03,2025,CUST0237,Customer 390,Male,18,Warangal,Telangana,Home & Kitchen,Kitchen,Air Fryer,5,6500,0.0,32500.0,21500,11000.0,33.85,Net Banking
+ORD0473,2025-02-02,2025-02,2025,CUST0229,Customer 12,Other,48,New Delhi,Delhi,Clothing,Women'S Wear,Jacket,3,3200,0.1,8640.0,5700,2940.0,34.03,Upi
+ORD0474,2025-04-27,2025-04,2025,CUST0271,Customer 258,Female,29,New Delhi,Delhi,Clothing,Women'S Wear,Kurti,1,1600,0.15,1360.0,900,460.0,33.82,Upi
+ORD0475,2025-07-05,2025-07,2025,CUST0417,Customer 364,Male,60,Hyderabad,Telangana,Home & Kitchen,Kitchen,Air Fryer,2,6500,0.1,11700.0,8600,3100.0,26.5,Debit Card
+ORD0476,2025-06-21,2025-06,2025,CUST0383,Customer 134,Female,51,Kozhikode,Kerala,Beauty,Skincare,Moisturizer,3,750,0.1,2025.0,1260,765.0,37.78,Credit Card
+ORD0477,2025-06-28,2025-06,2025,CUST0119,Customer 433,Male,31,Bengaluru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.2,10080.0,8400,1680.0,16.67,Credit Card
+ORD0478,2025-09-08,2025-09,2025,CUST0295,Customer 378,Male,59,Coimbatore,Tamil Nadu,Electronics,Wearables,Smart Watch,5,4500,0.1,20250.0,14500,5750.0,28.4,Cash
+ORD0479,2026-01-31,2026-01,2026,CUST0111,Customer 294,Male,45,Kolkata,West Bengal,Clothing,Women'S Wear,Kurti,3,1600,0.0,4800.0,2700,2100.0,43.75,Credit Card
+ORD0480,2025-05-16,2025-05,2025,CUST0343,Customer 16,Male,21,Mumbai,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,2,1800,0.0,3600.0,2100,1500.0,41.67,Upi
+ORD0481,2026-03-01,2026-03,2026,CUST0278,Customer 408,Male,24,Nagpur,Maharashtra,Sports,Fitness,Dumbbells,5,2200,0.0,11000.0,6750,4250.0,38.64,Upi
+ORD0482,2025-01-12,2025-01,2025,CUST0345,Customer 188,Male,25,Chennai,Tamil Nadu,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.1,17550.0,12900,4650.0,26.5,Upi
+ORD0483,2025-01-25,2025-01,2025,CUST0018,Customer 190,Female,60,Mysuru,Karnataka,Clothing,Men'S Wear,T-Shirt,4,900,0.05,3420.0,2000,1420.0,41.52,Debit Card
+ORD0484,2025-04-21,2025-04,2025,CUST0137,Customer 232,Female,45,Nagpur,Maharashtra,Clothing,Men'S Wear,Jeans,3,2200,0.0,6600.0,3900,2700.0,40.91,Credit Card
+ORD0485,2026-03-08,2026-03,2026,CUST0094,Customer 429,Female,20,Surat,Gujarat,Clothing,Women'S Wear,Jacket,1,3200,0.0,3200.0,1900,1300.0,40.62,Credit Card
+ORD0486,2025-06-24,2025-06,2025,CUST0319,Customer 76,Female,19,Mumbai,Maharashtra,Electronics,Mobile,Smartphone,2,22000,0.1,39600.0,33000,6600.0,16.67,Upi
+ORD0487,2025-01-14,2025-01,2025,CUST0374,Customer 45,Other,36,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,1,8500,0.1,7650.0,5800,1850.0,24.18,Upi
+ORD0488,2025-03-17,2025-03,2025,CUST0439,Customer 220,Male,40,Warangal,Telangana,Home & Kitchen,Furniture,Office Chair,3,8500,0.2,20400.0,17400,3000.0,14.71,Upi
+ORD0489,2026-04-28,2026-04,2026,CUST0168,Customer 80,Female,54,Warangal,Telangana,Clothing,Women'S Wear,Kurti,4,1600,0.15,5440.0,3600,1840.0,33.82,Upi
+ORD0490,2025-08-24,2025-08,2025,CUST0439,Customer 214,Female,33,New Delhi,Delhi,Home & Kitchen,Furniture,Office Chair,4,8500,0.2,27200.0,23200,4000.0,14.71,Debit Card
+ORD0491,2025-12-18,2025-12,2025,CUST0158,Customer 77,Male,40,Pune,Maharashtra,Sports,Cricket,Cricket Bat,1,2800,0.0,2800.0,1750,1050.0,37.5,Debit Card
+ORD0492,2025-03-29,2025-03,2025,CUST0371,Customer 303,Male,40,Thiruvananthapuram,Kerala,Clothing,Men'S Wear,T-Shirt,5,900,0.05,4275.0,2500,1775.0,41.52,Upi
+ORD0493,2026-06-17,2026-06,2026,CUST0090,Customer 296,Female,44,Ahmedabad,Gujarat,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.1,23400.0,17200,6200.0,26.5,Credit Card
+ORD0494,2026-06-21,2026-06,2026,CUST0058,Customer 297,Female,45,Ahmedabad,Gujarat,Home & Kitchen,Furniture,Office Chair,4,8500,0.05,32300.0,23200,9100.0,28.17,Credit Card
+ORD0495,2025-12-21,2025-12,2025,CUST0225,Customer 152,Female,19,New Delhi,Delhi,Sports,Cricket,Cricket Bat,5,2800,0.05,13300.0,8750,4550.0,34.21,Upi
+ORD0496,2026-03-05,2026-03,2026,CUST0433,Customer 126,Female,52,Thiruvananthapuram,Kerala,Clothing,Women'S Wear,Jacket,5,3200,0.0,16000.0,9500,6500.0,40.62,Upi
+ORD0497,2025-02-11,2025-02,2025,CUST0403,Customer 418,Female,36,Thiruvananthapuram,Kerala,Sports,Football,Football,5,1200,0.15,5100.0,3500,1600.0,31.37,Upi
+ORD0498,2025-02-17,2025-02,2025,CUST0039,Customer 287,Female,23,Surat,Gujarat,Beauty,Hair Care,Shampoo,2,650,0.05,1235.0,760,475.0,38.46,Upi
+ORD0499,2025-06-17,2025-06,2025,CUST0009,Customer 109,Female,26,Mysuru,Karnataka,Clothing,Women'S Wear,Jacket,2,3200,0.05,6080.0,3800,2280.0,37.5,Credit Card
+ORD0500,2026-06-09,2026-06,2026,CUST0260,Customer 426,Male,22,Coimbatore,Tamil Nadu,Sports,Fitness,Dumbbells,3,2200,0.1,5940.0,4050,1890.0,31.82,Credit Card
+ORD0501,2026-04-30,2026-04,2026,CUST0298,Customer 397,Male,26,Pune,Maharashtra,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Upi
+ORD0502,2026-05-02,2026-05,2026,CUST0341,Customer 151,Female,26,Warangal,Telangana,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.15,7140.0,5600,1540.0,21.57,Upi
+ORD0503,2025-05-10,2025-05,2025,CUST0153,Customer 13,Male,37,Pune,Maharashtra,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.0,4200.0,2800,1400.0,33.33,Upi
+ORD0504,2025-11-21,2025-11,2025,CUST0214,Customer 315,Male,35,Mangaluru,Karnataka,Clothing,Women'S Wear,Kurti,3,1600,0.05,4560.0,2700,1860.0,40.79,Upi
+ORD0505,2025-09-27,2025-09,2025,CUST0433,Customer 358,Male,42,Hyderabad,Telangana,Clothing,Men'S Wear,Jeans,1,2200,0.05,2090.0,1300,790.0,37.8,Debit Card
+ORD0506,2026-05-15,2026-05,2026,CUST0083,Customer 42,Female,57,Hyderabad,Telangana,Electronics,Laptop,Laptop,1,55000,0.15,46750.0,42000,4750.0,10.16,Upi
+ORD0507,2025-08-03,2025-08,2025,CUST0134,Customer 285,Male,53,Madurai,Tamil Nadu,Sports,Fitness,Yoga Mat,3,900,0.1,2430.0,1440,990.0,40.74,Debit Card
+ORD0508,2025-07-08,2025-07,2025,CUST0078,Customer 435,Male,51,New Delhi,Delhi,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.1,11340.0,8400,2940.0,25.93,Upi
+ORD0509,2025-11-23,2025-11,2025,CUST0393,Customer 109,Male,37,Bengaluru,Karnataka,Clothing,Women'S Wear,Kurti,3,1600,0.15,4080.0,2700,1380.0,33.82,Cash
+ORD0510,2025-10-10,2025-10,2025,CUST0001,Customer 219,Male,20,Chennai,Tamil Nadu,Beauty,Skincare,Moisturizer,4,750,0.1,2700.0,1680,1020.0,37.78,Upi
+ORD0511,2026-04-29,2026-04,2026,CUST0165,Customer 187,Female,59,Surat,Gujarat,Electronics,Audio,Headphones,1,2500,0.15,2125.0,1600,525.0,24.71,Upi
+ORD0512,2025-04-26,2025-04,2025,CUST0270,Customer 447,Female,20,Kolkata,West Bengal,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.2,7200.0,5250,1950.0,27.08,Upi
+ORD0513,2026-05-13,2026-05,2026,CUST0335,Customer 79,Female,40,Ahmedabad,Gujarat,Sports,Fitness,Yoga Mat,1,900,0.05,855.0,480,375.0,43.86,Upi
+ORD0514,2025-12-27,2025-12,2025,CUST0354,Customer 352,Male,32,New Delhi,Delhi,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.0,26000.0,17200,8800.0,33.85,Net Banking
+ORD0515,2025-04-08,2025-04,2025,CUST0082,Customer 415,Male,32,Pune,Maharashtra,Sports,Cricket,Cricket Bat,1,2800,0.0,2800.0,1750,1050.0,37.5,Upi
+ORD0516,2025-04-04,2025-04,2025,CUST0093,Customer 340,Male,34,Ahmedabad,Gujarat,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.0,19500.0,12900,6600.0,33.85,Net Banking
+ORD0517,2025-05-10,2025-05,2025,CUST0132,Customer 85,Male,60,Mumbai,Maharashtra,Beauty,Fragrance,Perfume,5,1800,0.15,7650.0,5250,2400.0,31.37,Upi
+ORD0518,2025-06-14,2025-06,2025,CUST0201,Customer 197,Male,22,Kolkata,West Bengal,Home & Kitchen,Kitchen,Air Fryer,1,6500,0.2,5200.0,4300,900.0,17.31,Upi
+ORD0519,2026-02-26,2026-02,2026,CUST0251,Customer 366,Female,39,Bengaluru,Karnataka,Electronics,Audio,Headphones,4,2500,0.1,9000.0,6400,2600.0,28.89,Upi
+ORD0520,2025-02-28,2025-02,2025,CUST0032,Customer 161,Female,21,Coimbatore,Tamil Nadu,Beauty,Fragrance,Perfume,1,1800,0.1,1620.0,1050,570.0,35.19,Upi
+ORD0521,2026-04-17,2026-04,2026,CUST0056,Customer 113,Male,33,Warangal,Telangana,Electronics,Wearables,Smart Watch,4,4500,0.2,14400.0,11600,2800.0,19.44,Debit Card
+ORD0522,2025-07-01,2025-07,2025,CUST0286,Customer 250,Female,59,Pune,Maharashtra,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.1,18900.0,14000,4900.0,25.93,Debit Card
+ORD0523,2025-03-09,2025-03,2025,CUST0305,Customer 52,Male,57,Mysuru,Karnataka,Electronics,Audio,Headphones,2,2500,0.2,4000.0,3200,800.0,20.0,Cash
+ORD0524,2025-07-17,2025-07,2025,CUST0128,Customer 20,Female,29,Mangaluru,Karnataka,Electronics,Mobile,Smartphone,1,22000,0.0,22000.0,16500,5500.0,25.0,Upi
+ORD0525,2025-10-13,2025-10,2025,CUST0022,Customer 212,Male,24,Ahmedabad,Gujarat,Electronics,Laptop,Laptop,1,55000,0.0,55000.0,42000,13000.0,23.64,Credit Card
+ORD0526,2025-05-02,2025-05,2025,CUST0273,Customer 294,Male,48,New Delhi,Delhi,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.0,8400.0,5600,2800.0,33.33,Debit Card
+ORD0527,2025-04-24,2025-04,2025,CUST0381,Customer 385,Male,36,New Delhi,Delhi,Clothing,Women'S Wear,Kurti,3,1600,0.1,4320.0,2700,1620.0,37.5,Upi
+ORD0528,2025-03-02,2025-03,2025,CUST0054,Customer 168,Female,44,Hyderabad,Telangana,Clothing,Men'S Wear,T-Shirt,1,900,0.2,720.0,500,220.0,30.56,Upi
+ORD0529,2025-04-18,2025-04,2025,CUST0335,Customer 162,Other,40,Bengaluru,Karnataka,Beauty,Skincare,Moisturizer,3,750,0.0,2250.0,1260,990.0,44.0,Debit Card
+ORD0530,2025-12-06,2025-12,2025,CUST0129,Customer 438,Female,34,New Delhi,Delhi,Sports,Football,Football,3,1200,0.1,3240.0,2100,1140.0,35.19,Cash
+ORD0531,2026-01-26,2026-01,2026,CUST0335,Customer 44,Male,50,Kolkata,West Bengal,Clothing,Men'S Wear,Jeans,3,2200,0.05,6270.0,3900,2370.0,37.8,Upi
+ORD0532,2025-11-30,2025-11,2025,CUST0413,Customer 154,Female,44,Thiruvananthapuram,Kerala,Beauty,Skincare,Moisturizer,5,750,0.15,3187.5,2100,1087.5,34.12,Upi
+ORD0533,2025-02-01,2025-02,2025,CUST0287,Customer 82,Female,58,Kozhikode,Kerala,Clothing,Men'S Wear,T-Shirt,2,900,0.05,1710.0,1000,710.0,41.52,Net Banking
+ORD0534,2025-05-06,2025-05,2025,CUST0444,Customer 209,Female,56,Kozhikode,Kerala,Beauty,Skincare,Face Wash,4,450,0.1,1620.0,1040,580.0,35.8,Cash
+ORD0535,2026-06-11,2026-06,2026,CUST0062,Customer 155,Female,29,Coimbatore,Tamil Nadu,Sports,Fitness,Yoga Mat,2,900,0.1,1620.0,960,660.0,40.74,Debit Card
+ORD0536,2025-08-03,2025-08,2025,CUST0444,Customer 278,Female,53,Hyderabad,Telangana,Electronics,Audio,Headphones,2,2500,0.05,4750.0,3200,1550.0,32.63,Credit Card
+ORD0537,2025-12-10,2025-12,2025,CUST0424,Customer 366,Male,60,Ahmedabad,Gujarat,Clothing,Women'S Wear,Kurti,2,1600,0.1,2880.0,1800,1080.0,37.5,Upi
+ORD0538,2025-04-27,2025-04,2025,CUST0306,Customer 368,Male,41,Ahmedabad,Gujarat,Electronics,Laptop,Laptop,1,55000,0.0,55000.0,42000,13000.0,23.64,Net Banking
+ORD0539,2025-10-01,2025-10,2025,CUST0042,Customer 212,Female,46,New Delhi,Delhi,Electronics,Audio,Headphones,5,2500,0.1,11250.0,8000,3250.0,28.89,Credit Card
+ORD0540,2025-04-17,2025-04,2025,CUST0108,Customer 265,Female,21,Mumbai,Maharashtra,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.0,4200.0,2800,1400.0,33.33,Debit Card
+ORD0541,2025-06-03,2025-06,2025,CUST0174,Customer 92,Female,43,Nagpur,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.15,7650.0,5250,2400.0,31.37,Credit Card
+ORD0542,2025-06-26,2025-06,2025,CUST0184,Customer 319,Female,36,Coimbatore,Tamil Nadu,Beauty,Fragrance,Perfume,2,1800,0.15,3060.0,2100,960.0,31.37,Debit Card
+ORD0543,2025-10-29,2025-10,2025,CUST0356,Customer 400,Female,53,Kozhikode,Kerala,Beauty,Hair Care,Shampoo,3,650,0.2,1560.0,1140,420.0,26.92,Debit Card
+ORD0544,2026-05-02,2026-05,2026,CUST0348,Customer 134,Male,33,Ahmedabad,Gujarat,Beauty,Skincare,Face Wash,1,450,0.0,450.0,260,190.0,42.22,Credit Card
+ORD0545,2025-10-28,2025-10,2025,CUST0212,Customer 63,Male,31,Surat,Gujarat,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Debit Card
+ORD0546,2025-10-09,2025-10,2025,CUST0149,Customer 412,Female,29,Kochi,Kerala,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.05,24700.0,17200,7500.0,30.36,Credit Card
+ORD0547,2026-01-15,2026-01,2026,CUST0130,Customer 84,Female,30,Surat,Gujarat,Electronics,Mobile,Smartphone,1,22000,0.05,20900.0,16500,4400.0,21.05,Cash
+ORD0548,2026-05-24,2026-05,2026,CUST0238,Customer 134,Male,53,Hyderabad,Telangana,Sports,Fitness,Yoga Mat,4,900,0.1,3240.0,1920,1320.0,40.74,Upi
+ORD0549,2025-03-25,2025-03,2025,CUST0155,Customer 53,Male,57,Pune,Maharashtra,Electronics,Wearables,Smart Watch,3,4500,0.1,12150.0,8700,3450.0,28.4,Cash
+ORD0550,2025-10-20,2025-10,2025,CUST0009,Customer 271,Male,20,Kochi,Kerala,Beauty,Fragrance,Perfume,5,1800,0.0,9000.0,5250,3750.0,41.67,Debit Card
+ORD0551,2026-06-10,2026-06,2026,CUST0014,Customer 266,Female,28,Kochi,Kerala,Electronics,Mobile,Smartphone,5,22000,0.1,99000.0,82500,16500.0,16.67,Net Banking
+ORD0552,2026-05-31,2026-05,2026,CUST0426,Customer 397,Male,34,Warangal,Telangana,Clothing,Men'S Wear,Jeans,2,2200,0.0,4400.0,2600,1800.0,40.91,Upi
+ORD0553,2026-01-27,2026-01,2026,CUST0125,Customer 307,Female,36,Mysuru,Karnataka,Clothing,Men'S Wear,T-Shirt,4,900,0.1,3240.0,2000,1240.0,38.27,Debit Card
+ORD0554,2026-04-14,2026-04,2026,CUST0212,Customer 112,Male,28,Kozhikode,Kerala,Electronics,Wearables,Smart Watch,1,4500,0.05,4275.0,2900,1375.0,32.16,Debit Card
+ORD0555,2026-04-23,2026-04,2026,CUST0167,Customer 20,Female,38,Surat,Gujarat,Electronics,Wearables,Smart Watch,5,4500,0.1,20250.0,14500,5750.0,28.4,Upi
+ORD0556,2026-01-13,2026-01,2026,CUST0390,Customer 145,Male,39,Ahmedabad,Gujarat,Clothing,Men'S Wear,T-Shirt,2,900,0.1,1620.0,1000,620.0,38.27,Net Banking
+ORD0557,2026-01-17,2026-01,2026,CUST0039,Customer 289,Female,38,Thiruvananthapuram,Kerala,Electronics,Audio,Headphones,2,2500,0.1,4500.0,3200,1300.0,28.89,Debit Card
+ORD0558,2025-06-29,2025-06,2025,CUST0426,Customer 32,Male,59,Thiruvananthapuram,Kerala,Electronics,Laptop,Laptop,4,55000,0.15,187000.0,168000,19000.0,10.16,Credit Card
+ORD0559,2026-03-31,2026-03,2026,CUST0232,Customer 289,Female,57,Mysuru,Karnataka,Home & Kitchen,Furniture,Office Chair,2,8500,0.05,16150.0,11600,4550.0,28.17,Upi
+ORD0560,2026-02-06,2026-02,2026,CUST0110,Customer 254,Female,52,Pune,Maharashtra,Electronics,Laptop,Laptop,5,55000,0.0,275000.0,210000,65000.0,23.64,Upi
+ORD0561,2025-06-10,2025-06,2025,CUST0431,Customer 13,Female,28,Surat,Gujarat,Electronics,Wearables,Smart Watch,5,4500,0.0,22500.0,14500,8000.0,35.56,Credit Card
+ORD0562,2025-05-20,2025-05,2025,CUST0280,Customer 34,Male,36,Ahmedabad,Gujarat,Electronics,Audio,Headphones,2,2500,0.05,4750.0,3200,1550.0,32.63,Upi
+ORD0563,2025-09-07,2025-09,2025,CUST0255,Customer 76,Male,30,Mumbai,Maharashtra,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.0,21000.0,14000,7000.0,33.33,Upi
+ORD0564,2025-10-09,2025-10,2025,CUST0088,Customer 204,Male,29,Mangaluru,Karnataka,Beauty,Hair Care,Shampoo,5,650,0.15,2762.5,1900,862.5,31.22,Debit Card
+ORD0565,2025-06-18,2025-06,2025,CUST0181,Customer 366,Female,54,Ahmedabad,Gujarat,Clothing,Women'S Wear,Jacket,1,3200,0.05,3040.0,1900,1140.0,37.5,Upi
+ORD0566,2025-01-11,2025-01,2025,CUST0108,Customer 26,Male,32,Mangaluru,Karnataka,Electronics,Audio,Headphones,4,2500,0.1,9000.0,6400,2600.0,28.89,Debit Card
+ORD0567,2025-05-24,2025-05,2025,CUST0189,Customer 255,Female,44,Mumbai,Maharashtra,Sports,Cricket,Cricket Bat,5,2800,0.0,14000.0,8750,5250.0,37.5,Upi
+ORD0568,2025-12-19,2025-12,2025,CUST0220,Customer 9,Male,29,Warangal,Telangana,Clothing,Men'S Wear,T-Shirt,2,900,0.0,1800.0,1000,800.0,44.44,Upi
+ORD0569,2025-12-31,2025-12,2025,CUST0368,Customer 58,Other,22,Hyderabad,Telangana,Sports,Football,Football,4,1200,0.15,4080.0,2800,1280.0,31.37,Upi
+ORD0570,2025-11-03,2025-11,2025,CUST0074,Customer 171,Female,24,New Delhi,Delhi,Electronics,Mobile,Smartphone,4,22000,0.1,79200.0,66000,13200.0,16.67,Debit Card
+ORD0571,2025-10-08,2025-10,2025,CUST0215,Customer 98,Male,27,Madurai,Tamil Nadu,Beauty,Skincare,Face Wash,5,450,0.05,2137.5,1300,837.5,39.18,Net Banking
+ORD0572,2025-08-14,2025-08,2025,CUST0105,Customer 260,Female,52,Hyderabad,Telangana,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.0,21000.0,14000,7000.0,33.33,Debit Card
+ORD0573,2026-05-28,2026-05,2026,CUST0167,Customer 352,Male,29,Mumbai,Maharashtra,Electronics,Mobile,Smartphone,4,22000,0.0,88000.0,66000,22000.0,25.0,Upi
+ORD0574,2025-05-30,2025-05,2025,CUST0132,Customer 433,Male,56,Bengaluru,Karnataka,Home & Kitchen,Furniture,Office Chair,3,8500,0.1,22950.0,17400,5550.0,24.18,Upi
+ORD0575,2026-01-02,2026-01,2026,CUST0168,Customer 48,Female,57,Kochi,Kerala,Clothing,Women'S Wear,Kurti,2,1600,0.15,2720.0,1800,920.0,33.82,Upi
+ORD0576,2026-06-23,2026-06,2026,CUST0448,Customer 414,Female,33,Kozhikode,Kerala,Clothing,Women'S Wear,Jacket,1,3200,0.1,2880.0,1900,980.0,34.03,Debit Card
+ORD0577,2025-02-13,2025-02,2025,CUST0415,Customer 186,Female,29,Hyderabad,Telangana,Clothing,Men'S Wear,Jeans,2,2200,0.15,3740.0,2600,1140.0,30.48,Credit Card
+ORD0578,2025-11-29,2025-11,2025,CUST0403,Customer 414,Male,38,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,4,4500,0.05,17100.0,11600,5500.0,32.16,Credit Card
+ORD0579,2026-03-04,2026-03,2026,CUST0117,Customer 68,Male,36,Pune,Maharashtra,Electronics,Wearables,Smart Watch,4,4500,0.1,16200.0,11600,4600.0,28.4,Upi
+ORD0580,2026-01-29,2026-01,2026,CUST0010,Customer 358,Male,58,Thiruvananthapuram,Kerala,Beauty,Fragrance,Perfume,2,1800,0.05,3420.0,2100,1320.0,38.6,Net Banking
+ORD0581,2025-05-25,2025-05,2025,CUST0069,Customer 58,Male,31,Kozhikode,Kerala,Clothing,Men'S Wear,T-Shirt,4,900,0.2,2880.0,2000,880.0,30.56,Upi
+ORD0582,2026-03-22,2026-03,2026,CUST0221,Customer 43,Female,53,Coimbatore,Tamil Nadu,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.0,12600.0,8400,4200.0,33.33,Upi
+ORD0583,2025-08-26,2025-08,2025,CUST0372,Customer 404,Female,44,Salem,Tamil Nadu,Home & Kitchen,Kitchen,Air Fryer,1,6500,0.15,5525.0,4300,1225.0,22.17,Net Banking
+ORD0584,2025-01-19,2025-01,2025,CUST0384,Customer 353,Male,35,New Delhi,Delhi,Electronics,Wearables,Smart Watch,5,4500,0.0,22500.0,14500,8000.0,35.56,Net Banking
+ORD0585,2025-02-24,2025-02,2025,CUST0436,Customer 172,Female,20,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Upi
+ORD0586,2025-10-02,2025-10,2025,CUST0211,Customer 391,Female,40,Pune,Maharashtra,Home & Kitchen,Furniture,Office Chair,3,8500,0.05,24225.0,17400,6825.0,28.17,Debit Card
+ORD0587,2025-01-19,2025-01,2025,CUST0017,Customer 325,Male,34,New Delhi,Delhi,Electronics,Mobile,Smartphone,3,22000,0.1,59400.0,49500,9900.0,16.67,Credit Card
+ORD0588,2025-07-23,2025-07,2025,CUST0196,Customer 216,Male,56,Kolkata,West Bengal,Sports,Football,Football,3,1200,0.0,3600.0,2100,1500.0,41.67,Upi
+ORD0589,2025-12-10,2025-12,2025,CUST0203,Customer 99,Female,36,Mumbai,Maharashtra,Electronics,Wearables,Smart Watch,5,4500,0.1,20250.0,14500,5750.0,28.4,Upi
+ORD0590,2025-07-30,2025-07,2025,CUST0365,Customer 76,Male,45,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,4,8500,0.0,34000.0,23200,10800.0,31.76,Cash
+ORD0591,2025-05-26,2025-05,2025,CUST0368,Customer 430,Female,49,Hyderabad,Telangana,Electronics,Laptop,Laptop,1,55000,0.0,55000.0,42000,13000.0,23.64,Credit Card
+ORD0592,2026-02-06,2026-02,2026,CUST0038,Customer 443,Female,25,Ahmedabad,Gujarat,Clothing,Women'S Wear,Kurti,1,1600,0.1,1440.0,900,540.0,37.5,Debit Card
+ORD0593,2025-06-16,2025-06,2025,CUST0448,Customer 409,Female,22,Kolkata,West Bengal,Clothing,Men'S Wear,T-Shirt,3,900,0.2,2160.0,1500,660.0,30.56,Debit Card
+ORD0594,2025-05-15,2025-05,2025,CUST0185,Customer 351,Female,21,Warangal,Telangana,Electronics,Mobile,Smartphone,4,22000,0.0,88000.0,66000,22000.0,25.0,Upi
+ORD0595,2026-04-08,2026-04,2026,CUST0108,Customer 122,Female,29,Warangal,Telangana,Home & Kitchen,Kitchen,Air Fryer,2,6500,0.05,12350.0,8600,3750.0,30.36,Debit Card
+ORD0596,2026-05-01,2026-05,2026,CUST0045,Customer 314,Female,56,Salem,Tamil Nadu,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.1,11340.0,8400,2940.0,25.93,Upi
+ORD0597,2025-03-15,2025-03,2025,CUST0051,Customer 67,Male,49,Thiruvananthapuram,Kerala,Home & Kitchen,Furniture,Office Chair,2,8500,0.05,16150.0,11600,4550.0,28.17,Upi
+ORD0598,2025-02-21,2025-02,2025,CUST0134,Customer 211,Male,21,Mumbai,Maharashtra,Home & Kitchen,Furniture,Office Chair,5,8500,0.1,38250.0,29000,9250.0,24.18,Debit Card
+ORD0599,2025-09-16,2025-09,2025,CUST0324,Customer 357,Other,55,Pune,Maharashtra,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Net Banking
+ORD0600,2025-09-19,2025-09,2025,CUST0273,Customer 420,Female,30,Surat,Gujarat,Home & Kitchen,Furniture,Office Chair,4,8500,0.05,32300.0,23200,9100.0,28.17,Cash
+ORD0601,2026-04-19,2026-04,2026,CUST0022,Customer 367,Male,19,Ahmedabad,Gujarat,Electronics,Laptop,Laptop,2,55000,0.0,110000.0,84000,26000.0,23.64,Debit Card
+ORD0602,2026-05-08,2026-05,2026,CUST0268,Customer 13,Female,22,Kozhikode,Kerala,Sports,Fitness,Dumbbells,2,2200,0.2,3520.0,2700,820.0,23.3,Net Banking
+ORD0603,2025-04-27,2025-04,2025,CUST0184,Customer 394,Female,22,Surat,Gujarat,Electronics,Wearables,Smart Watch,5,4500,0.0,22500.0,14500,8000.0,35.56,Debit Card
+ORD0604,2026-06-16,2026-06,2026,CUST0441,Customer 226,Female,19,Mysuru,Karnataka,Home & Kitchen,Furniture,Office Chair,3,8500,0.05,24225.0,17400,6825.0,28.17,Upi
+ORD0605,2025-03-11,2025-03,2025,CUST0166,Customer 130,Female,23,Bengaluru,Karnataka,Clothing,Women'S Wear,Kurti,1,1600,0.05,1520.0,900,620.0,40.79,Upi
+ORD0606,2025-08-27,2025-08,2025,CUST0133,Customer 274,Female,25,Surat,Gujarat,Clothing,Women'S Wear,Kurti,4,1600,0.0,6400.0,3600,2800.0,43.75,Debit Card
+ORD0607,2025-10-27,2025-10,2025,CUST0082,Customer 87,Male,27,New Delhi,Delhi,Electronics,Laptop,Laptop,3,55000,0.05,156750.0,126000,30750.0,19.62,Credit Card
+ORD0608,2026-01-10,2026-01,2026,CUST0092,Customer 181,Female,47,Salem,Tamil Nadu,Electronics,Audio,Headphones,2,2500,0.15,4250.0,3200,1050.0,24.71,Upi
+ORD0609,2025-07-06,2025-07,2025,CUST0038,Customer 226,Male,44,Kolkata,West Bengal,Beauty,Skincare,Moisturizer,5,750,0.0,3750.0,2100,1650.0,44.0,Credit Card
+ORD0610,2025-02-08,2025-02,2025,CUST0260,Customer 382,Female,46,Nagpur,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,3,1800,0.1,4860.0,3150,1710.0,35.19,Upi
+ORD0611,2025-02-15,2025-02,2025,CUST0066,Customer 91,Female,50,Kochi,Kerala,Sports,Cricket,Cricket Bat,2,2800,0.0,5600.0,3500,2100.0,37.5,Net Banking
+ORD0612,2025-10-08,2025-10,2025,CUST0043,Customer 84,Female,52,Hyderabad,Telangana,Clothing,Women'S Wear,Kurti,1,1600,0.1,1440.0,900,540.0,37.5,Net Banking
+ORD0613,2025-07-07,2025-07,2025,CUST0230,Customer 189,Male,27,Kozhikode,Kerala,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.1,23400.0,17200,6200.0,26.5,Credit Card
+ORD0614,2026-01-24,2026-01,2026,CUST0218,Customer 189,Female,23,Kolkata,West Bengal,Clothing,Women'S Wear,Jacket,4,3200,0.1,11520.0,7600,3920.0,34.03,Net Banking
+ORD0615,2025-09-14,2025-09,2025,CUST0144,Customer 421,Male,22,Mumbai,Maharashtra,Clothing,Women'S Wear,Kurti,4,1600,0.0,6400.0,3600,2800.0,43.75,Debit Card
+ORD0616,2025-12-24,2025-12,2025,CUST0174,Customer 217,Female,44,Kozhikode,Kerala,Sports,Fitness,Dumbbells,3,2200,0.0,6600.0,4050,2550.0,38.64,Upi
+ORD0617,2025-02-27,2025-02,2025,CUST0302,Customer 31,Female,38,Kochi,Kerala,Clothing,Women'S Wear,Jacket,5,3200,0.05,15200.0,9500,5700.0,37.5,Upi
+ORD0618,2025-12-08,2025-12,2025,CUST0327,Customer 407,Female,33,Bengaluru,Karnataka,Clothing,Men'S Wear,T-Shirt,2,900,0.1,1620.0,1000,620.0,38.27,Upi
+ORD0619,2025-03-14,2025-03,2025,CUST0249,Customer 91,Female,48,Salem,Tamil Nadu,Electronics,Mobile,Smartphone,4,22000,0.0,88000.0,66000,22000.0,25.0,Upi
+ORD0620,2025-02-11,2025-02,2025,CUST0164,Customer 361,Female,45,Ahmedabad,Gujarat,Electronics,Audio,Headphones,1,2500,0.1,2250.0,1600,650.0,28.89,Debit Card
+ORD0621,2025-05-05,2025-05,2025,CUST0067,Customer 6,Male,18,Thiruvananthapuram,Kerala,Electronics,Laptop,Laptop,1,55000,0.15,46750.0,42000,4750.0,10.16,Credit Card
+ORD0622,2026-02-08,2026-02,2026,CUST0103,Customer 24,Female,40,Pune,Maharashtra,Clothing,Men'S Wear,Jeans,2,2200,0.1,3960.0,2600,1360.0,34.34,Debit Card
+ORD0623,2025-11-27,2025-11,2025,CUST0216,Customer 448,Male,47,Surat,Gujarat,Clothing,Men'S Wear,T-Shirt,3,900,0.2,2160.0,1500,660.0,30.56,Cash
+ORD0624,2025-08-31,2025-08,2025,CUST0438,Customer 207,Male,45,Hyderabad,Telangana,Sports,Cricket,Cricket Bat,2,2800,0.1,5040.0,3500,1540.0,30.56,Upi
+ORD0625,2026-01-29,2026-01,2026,CUST0075,Customer 103,Male,21,Ahmedabad,Gujarat,Clothing,Women'S Wear,Kurti,1,1600,0.1,1440.0,900,540.0,37.5,Credit Card
+ORD0626,2025-06-25,2025-06,2025,CUST0079,Customer 2,Male,29,Coimbatore,Tamil Nadu,Electronics,Audio,Headphones,3,2500,0.05,7125.0,4800,2325.0,32.63,Net Banking
+ORD0627,2025-07-07,2025-07,2025,CUST0056,Customer 35,Male,53,Madurai,Tamil Nadu,Electronics,Wearables,Smart Watch,4,4500,0.05,17100.0,11600,5500.0,32.16,Credit Card
+ORD0628,2026-06-18,2026-06,2026,CUST0216,Customer 107,Female,36,Surat,Gujarat,Electronics,Laptop,Laptop,1,55000,0.1,49500.0,42000,7500.0,15.15,Upi
+ORD0629,2026-06-18,2026-06,2026,CUST0066,Customer 21,Male,35,Mumbai,Maharashtra,Electronics,Wearables,Smart Watch,4,4500,0.15,15300.0,11600,3700.0,24.18,Debit Card
+ORD0630,2025-08-31,2025-08,2025,CUST0073,Customer 49,Male,38,Warangal,Telangana,Electronics,Audio,Headphones,5,2500,0.0,12500.0,8000,4500.0,36.0,Credit Card
+ORD0631,2026-05-29,2026-05,2026,CUST0243,Customer 297,Male,56,Pune,Maharashtra,Clothing,Men'S Wear,Jeans,3,2200,0.1,5940.0,3900,2040.0,34.34,Net Banking
+ORD0632,2026-01-24,2026-01,2026,CUST0337,Customer 106,Male,24,Kozhikode,Kerala,Sports,Fitness,Dumbbells,4,2200,0.1,7920.0,5400,2520.0,31.82,Upi
+ORD0633,2025-01-29,2025-01,2025,CUST0381,Customer 114,Male,50,Surat,Gujarat,Sports,Cricket,Cricket Bat,5,2800,0.0,14000.0,8750,5250.0,37.5,Net Banking
+ORD0634,2025-06-21,2025-06,2025,CUST0231,Customer 208,Male,46,New Delhi,Delhi,Home & Kitchen,Kitchen,Air Fryer,2,6500,0.0,13000.0,8600,4400.0,33.85,Credit Card
+ORD0635,2025-04-22,2025-04,2025,CUST0313,Customer 196,Female,59,Thiruvananthapuram,Kerala,Sports,Football,Football,2,1200,0.0,2400.0,1400,1000.0,41.67,Upi
+ORD0636,2025-08-22,2025-08,2025,CUST0032,Customer 289,Female,51,Kolkata,West Bengal,Clothing,Women'S Wear,Jacket,4,3200,0.15,10880.0,7600,3280.0,30.15,Upi
+ORD0637,2026-01-21,2026-01,2026,CUST0062,Customer 3,Male,43,New Delhi,Delhi,Clothing,Men'S Wear,Jeans,4,2200,0.1,7920.0,5200,2720.0,34.34,Upi
+ORD0638,2026-03-21,2026-03,2026,CUST0246,Customer 297,Female,52,New Delhi,Delhi,Clothing,Women'S Wear,Kurti,5,1600,0.15,6800.0,4500,2300.0,33.82,Upi
+ORD0639,2025-11-26,2025-11,2025,CUST0256,Customer 312,Female,30,Warangal,Telangana,Beauty,Fragrance,Perfume,2,1800,0.0,3600.0,2100,1500.0,41.67,Credit Card
+ORD0640,2025-07-17,2025-07,2025,CUST0299,Customer 188,Female,43,Kozhikode,Kerala,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.2,10080.0,8400,1680.0,16.67,Cash
+ORD0641,2025-04-10,2025-04,2025,CUST0104,Customer 436,Female,56,Bengaluru,Karnataka,Sports,Cricket,Cricket Bat,4,2800,0.1,10080.0,7000,3080.0,30.56,Upi
+ORD0642,2025-09-21,2025-09,2025,CUST0098,Customer 313,Female,60,New Delhi,Delhi,Clothing,Men'S Wear,T-Shirt,3,900,0.05,2565.0,1500,1065.0,41.52,Upi
+ORD0643,2025-01-26,2025-01,2025,CUST0027,Customer 190,Female,28,Kolkata,West Bengal,Sports,Fitness,Dumbbells,1,2200,0.1,1980.0,1350,630.0,31.82,Upi
+ORD0644,2026-06-12,2026-06,2026,CUST0279,Customer 135,Female,36,Thiruvananthapuram,Kerala,Electronics,Audio,Headphones,4,2500,0.1,9000.0,6400,2600.0,28.89,Upi
+ORD0645,2025-01-18,2025-01,2025,CUST0242,Customer 117,Male,22,Bengaluru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.1,18900.0,14000,4900.0,25.93,Net Banking
+ORD0646,2025-02-19,2025-02,2025,CUST0166,Customer 106,Male,18,New Delhi,Delhi,Sports,Cricket,Cricket Bat,1,2800,0.05,2660.0,1750,910.0,34.21,Upi
+ORD0647,2025-09-03,2025-09,2025,CUST0262,Customer 26,Male,46,Surat,Gujarat,Clothing,Women'S Wear,Jacket,4,3200,0.0,12800.0,7600,5200.0,40.62,Cash
+ORD0648,2025-08-21,2025-08,2025,CUST0394,Customer 183,Male,24,Kolkata,West Bengal,Sports,Football,Football,3,1200,0.0,3600.0,2100,1500.0,41.67,Net Banking
+ORD0649,2026-03-19,2026-03,2026,CUST0326,Customer 247,Male,51,Kochi,Kerala,Electronics,Mobile,Smartphone,1,22000,0.15,18700.0,16500,2200.0,11.76,Credit Card
+ORD0650,2026-03-28,2026-03,2026,CUST0129,Customer 91,Female,29,Surat,Gujarat,Clothing,Women'S Wear,Kurti,2,1600,0.2,2560.0,1800,760.0,29.69,Upi
+ORD0651,2025-04-09,2025-04,2025,CUST0406,Customer 356,Male,54,Hyderabad,Telangana,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.1,8100.0,5250,2850.0,35.19,Net Banking
+ORD0652,2025-10-26,2025-10,2025,CUST0208,Customer 330,Male,32,Kozhikode,Kerala,Beauty,Skincare,Face Wash,3,450,0.1,1215.0,780,435.0,35.8,Upi
+ORD0653,2026-06-25,2026-06,2026,CUST0195,Customer 334,Female,19,Salem,Tamil Nadu,Clothing,Women'S Wear,Kurti,2,1600,0.05,3040.0,1800,1240.0,40.79,Cash
+ORD0654,2026-02-09,2026-02,2026,CUST0283,Customer 362,Male,35,Ahmedabad,Gujarat,Electronics,Laptop,Laptop,3,55000,0.1,148500.0,126000,22500.0,15.15,Debit Card
+ORD0655,2025-03-17,2025-03,2025,CUST0231,Customer 204,Female,34,Thiruvananthapuram,Kerala,Clothing,Women'S Wear,Jacket,4,3200,0.0,12800.0,7600,5200.0,40.62,Upi
+ORD0656,2026-02-27,2026-02,2026,CUST0094,Customer 174,Male,28,Mysuru,Karnataka,Beauty,Hair Care,Shampoo,5,650,0.05,3087.5,1900,1187.5,38.46,Credit Card
+ORD0657,2025-01-02,2025-01,2025,CUST0359,Customer 101,Female,19,Nagpur,Maharashtra,Sports,Fitness,Yoga Mat,3,900,0.0,2700.0,1440,1260.0,46.67,Upi
+ORD0658,2025-01-26,2025-01,2025,CUST0169,Customer 323,Female,55,Pune,Maharashtra,Electronics,Laptop,Laptop,5,55000,0.05,261250.0,210000,51250.0,19.62,Upi
+ORD0659,2025-09-18,2025-09,2025,CUST0278,Customer 359,Male,42,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,3,55000,0.1,148500.0,126000,22500.0,15.15,Debit Card
+ORD0660,2025-06-10,2025-06,2025,CUST0200,Customer 216,Male,48,Mumbai,Maharashtra,Beauty,Fragrance,Perfume,4,1800,0.2,5760.0,4200,1560.0,27.08,Debit Card
+ORD0661,2025-06-21,2025-06,2025,CUST0137,Customer 384,Male,42,Mysuru,Karnataka,Electronics,Laptop,Laptop,5,55000,0.0,275000.0,210000,65000.0,23.64,Upi
+ORD0662,2025-10-07,2025-10,2025,CUST0305,Customer 146,Male,22,Bengaluru,Karnataka,Sports,Fitness,Dumbbells,2,2200,0.1,3960.0,2700,1260.0,31.82,Debit Card
+ORD0663,2025-03-20,2025-03,2025,CUST0433,Customer 289,Male,52,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.05,15960.0,11200,4760.0,29.82,Debit Card
+ORD0664,2025-12-25,2025-12,2025,CUST0440,Customer 77,Female,31,Chennai,Tamil Nadu,Sports,Cricket,Cricket Bat,3,2800,0.2,6720.0,5250,1470.0,21.88,Credit Card
+ORD0665,2025-11-22,2025-11,2025,CUST0120,Customer 101,Male,49,Mangaluru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.1,7560.0,5600,1960.0,25.93,Credit Card
+ORD0666,2026-01-18,2026-01,2026,CUST0369,Customer 80,Male,33,Bengaluru,Karnataka,Electronics,Mobile,Smartphone,5,22000,0.0,110000.0,82500,27500.0,25.0,Credit Card
+ORD0667,2025-10-15,2025-10,2025,CUST0297,Customer 134,Female,38,Kolkata,West Bengal,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.05,24700.0,17200,7500.0,30.36,Upi
+ORD0668,2025-04-11,2025-04,2025,CUST0198,Customer 301,Male,55,Ahmedabad,Gujarat,Beauty,Hair Care,Shampoo,1,650,0.1,585.0,380,205.0,35.04,Debit Card
+ORD0669,2025-11-11,2025-11,2025,CUST0285,Customer 106,Male,24,Mangaluru,Karnataka,Electronics,Mobile,Smartphone,1,22000,0.0,22000.0,16500,5500.0,25.0,Debit Card
+ORD0670,2025-12-04,2025-12,2025,CUST0366,Customer 402,Male,44,Ahmedabad,Gujarat,Clothing,Women'S Wear,Jacket,2,3200,0.0,6400.0,3800,2600.0,40.62,Net Banking
+ORD0671,2025-08-23,2025-08,2025,CUST0447,Customer 267,Male,39,Pune,Maharashtra,Home & Kitchen,Furniture,Office Chair,4,8500,0.1,30600.0,23200,7400.0,24.18,Upi
+ORD0672,2026-04-08,2026-04,2026,CUST0029,Customer 114,Male,36,Kolkata,West Bengal,Sports,Fitness,Yoga Mat,4,900,0.1,3240.0,1920,1320.0,40.74,Upi
+ORD0673,2026-05-19,2026-05,2026,CUST0194,Customer 123,Female,55,Thiruvananthapuram,Kerala,Home & Kitchen,Home Decor,Table Lamp,4,1800,0.05,6840.0,4200,2640.0,38.6,Cash
+ORD0674,2026-04-05,2026-04,2026,CUST0323,Unknown,Female,27,Ahmedabad,Gujarat,Electronics,Mobile,Smartphone,2,22000,0.0,44000.0,33000,11000.0,25.0,Net Banking
+ORD0675,2025-03-27,2025-03,2025,CUST0149,Customer 188,Female,38,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,3,4500,0.0,13500.0,8700,4800.0,35.56,Net Banking
+ORD0676,2026-01-06,2026-01,2026,CUST0419,Customer 101,Male,45,Warangal,Telangana,Electronics,Audio,Headphones,5,2500,0.15,10625.0,8000,2625.0,24.71,Credit Card
+ORD0677,2025-08-02,2025-08,2025,CUST0206,Customer 67,Female,34,Pune,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,3,1800,0.05,5130.0,3150,1980.0,38.6,Credit Card
+ORD0678,2025-06-05,2025-06,2025,CUST0142,Customer 428,Male,46,Warangal,Telangana,Clothing,Men'S Wear,Jeans,2,2200,0.1,3960.0,2600,1360.0,34.34,Upi
+ORD0679,2025-10-07,2025-10,2025,CUST0358,Customer 290,Male,44,New Delhi,Delhi,Beauty,Hair Care,Shampoo,3,650,0.0,1950.0,1140,810.0,41.54,Debit Card
+ORD0680,2026-01-15,2026-01,2026,CUST0199,Customer 407,Male,29,Ahmedabad,Gujarat,Electronics,Mobile,Smartphone,1,22000,0.15,18700.0,16500,2200.0,11.76,Upi
+ORD0681,2026-04-11,2026-04,2026,CUST0220,Customer 280,Male,59,Pune,Maharashtra,Clothing,Men'S Wear,Jeans,3,2200,0.1,5940.0,3900,2040.0,34.34,Upi
+ORD0682,2025-11-24,2025-11,2025,CUST0103,Customer 63,Male,22,Surat,Gujarat,Sports,Cricket,Cricket Bat,4,2800,0.05,10640.0,7000,3640.0,34.21,Upi
+ORD0683,2026-04-21,2026-04,2026,CUST0053,Customer 242,Male,57,Kolkata,West Bengal,Electronics,Laptop,Laptop,2,55000,0.05,104500.0,84000,20500.0,19.62,Upi
+ORD0684,2026-01-02,2026-01,2026,CUST0250,Customer 404,Male,24,New Delhi,Delhi,Sports,Football,Football,4,1200,0.05,4560.0,2800,1760.0,38.6,Upi
+ORD0685,2025-10-31,2025-10,2025,CUST0115,Customer 210,Female,51,Kozhikode,Kerala,Home & Kitchen,Furniture,Office Chair,5,8500,0.0,42500.0,29000,13500.0,31.76,Debit Card
+ORD0686,2025-12-02,2025-12,2025,CUST0027,Customer 104,Male,42,Salem,Tamil Nadu,Electronics,Laptop,Laptop,4,55000,0.0,220000.0,168000,52000.0,23.64,Upi
+ORD0687,2025-01-22,2025-01,2025,CUST0259,Customer 357,Male,31,Mangaluru,Karnataka,Home & Kitchen,Furniture,Office Chair,4,8500,0.1,30600.0,23200,7400.0,24.18,Upi
+ORD0688,2026-01-14,2026-01,2026,CUST0222,Customer 258,Male,60,Coimbatore,Tamil Nadu,Beauty,Hair Care,Shampoo,4,650,0.2,2080.0,1520,560.0,26.92,Net Banking
+ORD0689,2025-01-06,2025-01,2025,CUST0236,Customer 127,Male,25,Madurai,Tamil Nadu,Electronics,Laptop,Laptop,2,55000,0.1,99000.0,84000,15000.0,15.15,Upi
+ORD0690,2025-10-25,2025-10,2025,CUST0098,Customer 137,Male,50,Ahmedabad,Gujarat,Clothing,Women'S Wear,Kurti,1,1600,0.1,1440.0,900,540.0,37.5,Upi
+ORD0691,2025-06-01,2025-06,2025,CUST0302,Customer 278,Male,42,Ahmedabad,Gujarat,Home & Kitchen,Furniture,Office Chair,5,8500,0.2,34000.0,29000,5000.0,14.71,Debit Card
+ORD0692,2025-09-30,2025-09,2025,CUST0161,Customer 175,Male,57,Kozhikode,Kerala,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.05,19950.0,14000,5950.0,29.82,Debit Card
+ORD0693,2025-07-16,2025-07,2025,CUST0266,Customer 262,Female,46,New Delhi,Delhi,Clothing,Women'S Wear,Jacket,5,3200,0.05,15200.0,9500,5700.0,37.5,Upi
+ORD0694,2025-07-14,2025-07,2025,CUST0395,Customer 12,Male,25,Ahmedabad,Gujarat,Clothing,Men'S Wear,T-Shirt,4,900,0.05,3420.0,2000,1420.0,41.52,Net Banking
+ORD0695,2025-12-26,2025-12,2025,CUST0385,Customer 56,Female,53,Bengaluru,Karnataka,Electronics,Laptop,Laptop,3,55000,0.05,156750.0,126000,30750.0,19.62,Upi
+ORD0696,2025-03-21,2025-03,2025,CUST0135,Customer 22,Female,30,New Delhi,Delhi,Home & Kitchen,Kitchen,Air Fryer,4,6500,0.0,26000.0,17200,8800.0,33.85,Debit Card
+ORD0697,2025-08-19,2025-08,2025,CUST0362,Customer 62,Female,56,Nagpur,Maharashtra,Clothing,Men'S Wear,Jeans,5,2200,0.2,8800.0,6500,2300.0,26.14,Upi
+ORD0698,2025-05-10,2025-05,2025,CUST0141,Customer 415,Female,53,Surat,Gujarat,Clothing,Men'S Wear,T-Shirt,2,900,0.15,1530.0,1000,530.0,34.64,Net Banking
+ORD0699,2025-09-27,2025-09,2025,CUST0347,Customer 153,Female,29,Pune,Maharashtra,Clothing,Women'S Wear,Kurti,1,1600,0.15,1360.0,900,460.0,33.82,Upi
+ORD0700,2025-10-26,2025-10,2025,CUST0345,Customer 371,Male,60,Nagpur,Maharashtra,Beauty,Fragrance,Perfume,5,1800,0.2,7200.0,5250,1950.0,27.08,Upi
+ORD0701,2026-01-17,2026-01,2026,CUST0392,Customer 52,Male,56,Kozhikode,Kerala,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.2,15600.0,12900,2700.0,17.31,Credit Card
+ORD0702,2025-12-28,2025-12,2025,CUST0381,Customer 369,Male,44,Kochi,Kerala,Clothing,Men'S Wear,Jeans,4,2200,0.05,8360.0,5200,3160.0,37.8,Credit Card
+ORD0703,2025-06-15,2025-06,2025,CUST0038,Customer 181,Female,33,Ahmedabad,Gujarat,Beauty,Hair Care,Shampoo,4,650,0.2,2080.0,1520,560.0,26.92,Upi
+ORD0704,2026-01-31,2026-01,2026,CUST0096,Customer 345,Male,34,Mumbai,Maharashtra,Beauty,Fragrance,Perfume,4,1800,0.0,7200.0,4200,3000.0,41.67,Upi
+ORD0705,2025-09-06,2025-09,2025,CUST0318,Customer 210,Male,52,Kolkata,West Bengal,Beauty,Skincare,Moisturizer,2,750,0.15,1275.0,840,435.0,34.12,Credit Card
+ORD0706,2026-05-16,2026-05,2026,CUST0092,Customer 70,Female,48,Surat,Gujarat,Beauty,Hair Care,Shampoo,2,650,0.0,1300.0,760,540.0,41.54,Net Banking
+ORD0707,2025-11-30,2025-11,2025,CUST0039,Customer 293,Male,39,Kochi,Kerala,Home & Kitchen,Kitchen,Air Fryer,3,6500,0.15,16575.0,12900,3675.0,22.17,Debit Card
+ORD0708,2025-11-14,2025-11,2025,CUST0023,Customer 46,Male,51,Mysuru,Karnataka,Sports,Fitness,Dumbbells,1,2200,0.0,2200.0,1350,850.0,38.64,Upi
+ORD0709,2025-06-07,2025-06,2025,CUST0273,Customer 315,Male,37,Ahmedabad,Gujarat,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Upi
+ORD0710,2025-09-24,2025-09,2025,CUST0358,Customer 326,Female,53,Mangaluru,Karnataka,Beauty,Hair Care,Shampoo,5,650,0.1,2925.0,1900,1025.0,35.04,Upi
+ORD0711,2025-11-19,2025-11,2025,CUST0082,Customer 181,Female,57,Kochi,Kerala,Clothing,Men'S Wear,Jeans,4,2200,0.1,7920.0,5200,2720.0,34.34,Debit Card
+ORD0712,2026-01-31,2026-01,2026,CUST0237,Customer 138,Male,60,Kozhikode,Kerala,Sports,Fitness,Dumbbells,2,2200,0.05,4180.0,2700,1480.0,35.41,Debit Card
+ORD0713,2025-08-22,2025-08,2025,CUST0209,Customer 93,Female,54,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.2,3360.0,2800,560.0,16.67,Credit Card
+ORD0714,2025-08-08,2025-08,2025,CUST0441,Customer 141,Male,26,New Delhi,Delhi,Clothing,Women'S Wear,Kurti,2,1600,0.15,2720.0,1800,920.0,33.82,Cash
+ORD0715,2026-06-27,2026-06,2026,CUST0386,Customer 359,Male,24,Kolkata,West Bengal,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.15,3570.0,2800,770.0,21.57,Cash
+ORD0716,2026-02-09,2026-02,2026,CUST0428,Customer 124,Female,19,Kolkata,West Bengal,Clothing,Men'S Wear,Jeans,4,2200,0.0,8800.0,5200,3600.0,40.91,Debit Card
+ORD0717,2025-11-22,2025-11,2025,CUST0363,Customer 157,Female,28,Kozhikode,Kerala,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.1,18900.0,14000,4900.0,25.93,Upi
+ORD0718,2025-06-02,2025-06,2025,CUST0225,Customer 127,Male,54,Kozhikode,Kerala,Clothing,Women'S Wear,Jacket,2,3200,0.2,5120.0,3800,1320.0,25.78,Credit Card
+ORD0719,2025-02-21,2025-02,2025,CUST0195,Customer 206,Female,18,Madurai,Tamil Nadu,Electronics,Mobile,Smartphone,4,22000,0.1,79200.0,66000,13200.0,16.67,Credit Card
+ORD0720,2025-06-02,2025-06,2025,CUST0002,Customer 342,Male,43,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,5,8500,0.05,40375.0,29000,11375.0,28.17,Upi
+ORD0721,2025-09-27,2025-09,2025,CUST0056,Customer 228,Female,43,Pune,Maharashtra,Clothing,Men'S Wear,T-Shirt,5,900,0.05,4275.0,2500,1775.0,41.52,Upi
+ORD0722,2025-12-19,2025-12,2025,CUST0066,Customer 79,Female,25,Chennai,Tamil Nadu,Sports,Football,Football,4,1200,0.05,4560.0,2800,1760.0,38.6,Net Banking
+ORD0723,2026-01-12,2026-01,2026,CUST0384,Customer 334,Male,50,New Delhi,Delhi,Electronics,Mobile,Smartphone,1,22000,0.05,20900.0,16500,4400.0,21.05,Upi
+ORD0724,2026-02-05,2026-02,2026,CUST0296,Customer 177,Male,31,Ahmedabad,Gujarat,Home & Kitchen,Furniture,Office Chair,1,8500,0.1,7650.0,5800,1850.0,24.18,Debit Card
+ORD0725,2026-03-30,2026-03,2026,CUST0356,Customer 216,Male,51,Mumbai,Maharashtra,Sports,Fitness,Dumbbells,3,2200,0.1,5940.0,4050,1890.0,31.82,Upi
+ORD0726,2025-01-22,2025-01,2025,CUST0361,Customer 88,Male,54,Hyderabad,Telangana,Electronics,Audio,Headphones,2,2500,0.1,4500.0,3200,1300.0,28.89,Upi
+ORD0727,2025-04-16,2025-04,2025,CUST0193,Customer 316,Male,55,Chennai,Tamil Nadu,Home & Kitchen,Home Decor,Table Lamp,3,1800,0.05,5130.0,3150,1980.0,38.6,Credit Card
+ORD0728,2025-05-21,2025-05,2025,CUST0146,Customer 425,Male,56,New Delhi,Delhi,Electronics,Wearables,Smart Watch,3,4500,0.05,12825.0,8700,4125.0,32.16,Cash
+ORD0729,2026-02-19,2026-02,2026,CUST0198,Customer 323,Female,19,Bengaluru,Karnataka,Sports,Fitness,Yoga Mat,5,900,0.0,4500.0,2400,2100.0,46.67,Cash
+ORD0730,2025-03-12,2025-03,2025,CUST0399,Customer 402,Female,55,Ahmedabad,Gujarat,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.1,15120.0,11200,3920.0,25.93,Cash
+ORD0731,2025-05-13,2025-05,2025,CUST0395,Customer 65,Male,43,Bengaluru,Karnataka,Electronics,Wearables,Smart Watch,4,4500,0.05,17100.0,11600,5500.0,32.16,Upi
+ORD0732,2026-02-08,2026-02,2026,CUST0082,Customer 129,Female,38,Bengaluru,Karnataka,Beauty,Skincare,Face Wash,4,450,0.1,1620.0,1040,580.0,35.8,Upi
+ORD0733,2025-07-27,2025-07,2025,CUST0280,Customer 205,Female,41,New Delhi,Delhi,Electronics,Wearables,Smart Watch,4,4500,0.0,18000.0,11600,6400.0,35.56,Credit Card
+ORD0734,2025-10-22,2025-10,2025,CUST0042,Customer 412,Male,52,Surat,Gujarat,Clothing,Women'S Wear,Jacket,1,3200,0.0,3200.0,1900,1300.0,40.62,Debit Card
+ORD0735,2026-03-02,2026-03,2026,CUST0416,Customer 26,Female,29,Nagpur,Maharashtra,Electronics,Mobile,Smartphone,3,22000,0.15,56100.0,49500,6600.0,11.76,Cash
+ORD0736,2025-04-01,2025-04,2025,CUST0393,Customer 22,Male,47,Kochi,Kerala,Home & Kitchen,Kitchen,Air Fryer,2,6500,0.05,12350.0,8600,3750.0,30.36,Upi
+ORD0737,2025-04-15,2025-04,2025,CUST0150,Customer 146,Male,53,Mysuru,Karnataka,Beauty,Skincare,Face Wash,4,450,0.1,1620.0,1040,580.0,35.8,Upi
+ORD0738,2026-01-06,2026-01,2026,CUST0037,Unknown,Male,24,Warangal,Telangana,Sports,Cricket,Cricket Bat,3,2800,0.1,7560.0,5250,2310.0,30.56,Credit Card
+ORD0739,2025-08-27,2025-08,2025,CUST0020,Customer 188,Male,25,New Delhi,Delhi,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.1,7560.0,5600,1960.0,25.93,Net Banking
+ORD0740,2025-06-25,2025-06,2025,CUST0033,Customer 58,Female,30,Mangaluru,Karnataka,Sports,Fitness,Dumbbells,4,2200,0.1,7920.0,5400,2520.0,31.82,Upi
+ORD0741,2026-03-17,2026-03,2026,CUST0325,Customer 105,Female,59,Kochi,Kerala,Clothing,Men'S Wear,T-Shirt,5,900,0.1,4050.0,2500,1550.0,38.27,Upi
+ORD0742,2025-01-09,2025-01,2025,CUST0060,Customer 381,Male,58,Mysuru,Karnataka,Clothing,Women'S Wear,Kurti,4,1600,0.05,6080.0,3600,2480.0,40.79,Net Banking
+ORD0743,2025-06-13,2025-06,2025,CUST0420,Customer 245,Female,58,Chennai,Tamil Nadu,Electronics,Mobile,Smartphone,5,22000,0.05,104500.0,82500,22000.0,21.05,Credit Card
+ORD0744,2025-04-14,2025-04,2025,CUST0230,Customer 426,Male,33,Kolkata,West Bengal,Electronics,Wearables,Smart Watch,5,4500,0.15,19125.0,14500,4625.0,24.18,Credit Card
+ORD0745,2025-07-07,2025-07,2025,CUST0317,Customer 404,Male,18,Mumbai,Maharashtra,Home & Kitchen,Kitchen,Air Fryer,2,6500,0.0,13000.0,8600,4400.0,33.85,Credit Card
+ORD0746,2026-05-28,2026-05,2026,CUST0133,Customer 80,Male,27,Mangaluru,Karnataka,Sports,Fitness,Dumbbells,1,2200,0.1,1980.0,1350,630.0,31.82,Credit Card
+ORD0747,2025-04-09,2025-04,2025,CUST0317,Customer 123,Male,51,Kolkata,West Bengal,Electronics,Audio,Headphones,5,2500,0.0,12500.0,8000,4500.0,36.0,Upi
+ORD0748,2026-06-26,2026-06,2026,CUST0401,Customer 20,Male,30,Ahmedabad,Gujarat,Beauty,Skincare,Face Wash,2,450,0.15,765.0,520,245.0,32.03,Debit Card
+ORD0749,2026-04-05,2026-04,2026,CUST0290,Customer 43,Female,42,Ahmedabad,Gujarat,Clothing,Men'S Wear,T-Shirt,4,900,0.1,3240.0,2000,1240.0,38.27,Cash
+ORD0750,2026-03-08,2026-03,2026,CUST0306,Customer 397,Male,49,Mysuru,Karnataka,Beauty,Hair Care,Shampoo,2,650,0.0,1300.0,760,540.0,41.54,Debit Card
+ORD0751,2025-10-26,2025-10,2025,CUST0276,Customer 404,Male,36,Kolkata,West Bengal,Clothing,Women'S Wear,Jacket,2,3200,0.15,5440.0,3800,1640.0,30.15,Debit Card
+ORD0752,2025-03-09,2025-03,2025,CUST0445,Customer 445,Male,26,Pune,Maharashtra,Electronics,Mobile,Smartphone,2,22000,0.0,44000.0,33000,11000.0,25.0,Cash
+ORD0753,2026-02-18,2026-02,2026,CUST0153,Customer 104,Male,23,New Delhi,Delhi,Electronics,Mobile,Smartphone,1,22000,0.1,19800.0,16500,3300.0,16.67,Debit Card
+ORD0754,2025-02-16,2025-02,2025,CUST0013,Customer 217,Male,43,Kozhikode,Kerala,Electronics,Mobile,Smartphone,1,22000,0.2,17600.0,16500,1100.0,6.25,Upi
+ORD0755,2026-04-27,2026-04,2026,CUST0315,Customer 297,Female,30,Mysuru,Karnataka,Clothing,Women'S Wear,Jacket,5,3200,0.1,14400.0,9500,4900.0,34.03,Upi
+ORD0756,2025-05-12,2025-05,2025,CUST0355,Customer 382,Male,58,Surat,Gujarat,Electronics,Mobile,Smartphone,2,22000,0.05,41800.0,33000,8800.0,21.05,Upi
+ORD0757,2025-10-12,2025-10,2025,CUST0274,Customer 20,Male,33,Mangaluru,Karnataka,Sports,Football,Football,4,1200,0.05,4560.0,2800,1760.0,38.6,Debit Card
+ORD0758,2025-01-19,2025-01,2025,CUST0200,Customer 220,Male,35,Kolkata,West Bengal,Beauty,Skincare,Face Wash,2,450,0.0,900.0,520,380.0,42.22,Upi
+ORD0759,2025-05-19,2025-05,2025,CUST0276,Customer 291,Female,31,Ahmedabad,Gujarat,Beauty,Skincare,Moisturizer,1,750,0.05,712.5,420,292.5,41.05,Credit Card
+ORD0760,2025-08-01,2025-08,2025,CUST0436,Customer 340,Male,57,Nagpur,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,4,1800,0.15,6120.0,4200,1920.0,31.37,Cash
+ORD0761,2025-04-16,2025-04,2025,CUST0333,Customer 39,Female,26,Warangal,Telangana,Clothing,Men'S Wear,T-Shirt,1,900,0.05,855.0,500,355.0,41.52,Debit Card
+ORD0762,2025-05-22,2025-05,2025,CUST0381,Customer 368,Female,45,Warangal,Telangana,Electronics,Audio,Headphones,1,2500,0.05,2375.0,1600,775.0,32.63,Credit Card
+ORD0763,2025-09-21,2025-09,2025,CUST0244,Customer 3,Female,33,Hyderabad,Telangana,Clothing,Men'S Wear,T-Shirt,5,900,0.1,4050.0,2500,1550.0,38.27,Credit Card
+ORD0764,2025-11-28,2025-11,2025,CUST0015,Customer 338,Female,60,Pune,Maharashtra,Clothing,Men'S Wear,T-Shirt,1,900,0.1,810.0,500,310.0,38.27,Upi
+ORD0765,2025-03-05,2025-03,2025,CUST0230,Customer 430,Male,32,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,1,8500,0.15,7225.0,5800,1425.0,19.72,Upi
+ORD0766,2025-03-07,2025-03,2025,CUST0150,Customer 20,Male,42,Ahmedabad,Gujarat,Clothing,Women'S Wear,Kurti,5,1600,0.1,7200.0,4500,2700.0,37.5,Upi
+ORD0767,2025-09-29,2025-09,2025,CUST0246,Customer 176,Male,22,Salem,Tamil Nadu,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.05,7980.0,5600,2380.0,29.82,Credit Card
+ORD0768,2025-12-04,2025-12,2025,CUST0067,Customer 10,Female,31,Mumbai,Maharashtra,Electronics,Mobile,Smartphone,3,22000,0.0,66000.0,49500,16500.0,25.0,Credit Card
+ORD0769,2025-12-15,2025-12,2025,CUST0271,Customer 111,Female,22,Madurai,Tamil Nadu,Clothing,Women'S Wear,Kurti,1,1600,0.0,1600.0,900,700.0,43.75,Upi
+ORD0770,2025-10-06,2025-10,2025,CUST0251,Customer 400,Male,58,Nagpur,Maharashtra,Electronics,Wearables,Smart Watch,5,4500,0.05,21375.0,14500,6875.0,32.16,Upi
+ORD0771,2026-01-28,2026-01,2026,CUST0141,Customer 168,Female,53,Chennai,Tamil Nadu,Electronics,Audio,Headphones,4,2500,0.0,10000.0,6400,3600.0,36.0,Net Banking
+ORD0772,2026-06-06,2026-06,2026,CUST0356,Customer 148,Male,50,Kolkata,West Bengal,Home & Kitchen,Furniture,Office Chair,4,8500,0.2,27200.0,23200,4000.0,14.71,Upi
+ORD0773,2026-06-21,2026-06,2026,CUST0268,Unknown,Other,35,New Delhi,Delhi,Clothing,Women'S Wear,Jacket,3,3200,0.15,8160.0,5700,2460.0,30.15,Upi
+ORD0774,2025-01-14,2025-01,2025,CUST0257,Customer 209,Female,42,Madurai,Tamil Nadu,Clothing,Men'S Wear,Jeans,2,2200,0.15,3740.0,2600,1140.0,30.48,Cash
+ORD0775,2025-05-24,2025-05,2025,CUST0289,Customer 386,Male,40,Madurai,Tamil Nadu,Sports,Cricket,Cricket Bat,1,2800,0.15,2380.0,1750,630.0,26.47,Credit Card
+ORD0776,2025-09-27,2025-09,2025,CUST0221,Customer 152,Female,32,New Delhi,Delhi,Clothing,Men'S Wear,Jeans,2,2200,0.05,4180.0,2600,1580.0,37.8,Debit Card
+ORD0777,2026-06-19,2026-06,2026,CUST0068,Customer 398,Male,27,Kolkata,West Bengal,Clothing,Women'S Wear,Kurti,2,1600,0.0,3200.0,1800,1400.0,43.75,Upi
+ORD0778,2025-04-13,2025-04,2025,CUST0215,Customer 192,Female,49,Kolkata,West Bengal,Electronics,Laptop,Laptop,1,55000,0.0,55000.0,42000,13000.0,23.64,Credit Card
+ORD0779,2025-01-15,2025-01,2025,CUST0266,Customer 297,Female,41,Surat,Gujarat,Home & Kitchen,Home Decor,Table Lamp,2,1800,0.1,3240.0,2100,1140.0,35.19,Credit Card
+ORD0780,2025-07-29,2025-07,2025,CUST0431,Customer 294,Female,27,Kochi,Kerala,Sports,Fitness,Dumbbells,1,2200,0.0,2200.0,1350,850.0,38.64,Cash
+ORD0781,2025-05-15,2025-05,2025,CUST0058,Customer 105,Male,27,Kolkata,West Bengal,Sports,Fitness,Dumbbells,4,2200,0.0,8800.0,5400,3400.0,38.64,Upi
+ORD0782,2025-04-11,2025-04,2025,CUST0056,Customer 332,Male,20,Mysuru,Karnataka,Sports,Fitness,Yoga Mat,4,900,0.1,3240.0,1920,1320.0,40.74,Upi
+ORD0783,2026-03-18,2026-03,2026,CUST0218,Customer 222,Female,57,Hyderabad,Telangana,Electronics,Mobile,Smartphone,5,22000,0.1,99000.0,82500,16500.0,16.67,Net Banking
+ORD0784,2025-01-30,2025-01,2025,CUST0359,Customer 407,Female,24,Salem,Tamil Nadu,Electronics,Laptop,Laptop,2,55000,0.15,93500.0,84000,9500.0,10.16,Credit Card
+ORD0785,2025-12-17,2025-12,2025,CUST0180,Customer 290,Female,24,Surat,Gujarat,Beauty,Skincare,Face Wash,5,450,0.1,2025.0,1300,725.0,35.8,Debit Card
+ORD0786,2025-04-28,2025-04,2025,CUST0192,Customer 79,Female,49,Ahmedabad,Gujarat,Clothing,Women'S Wear,Jacket,5,3200,0.0,16000.0,9500,6500.0,40.62,Upi
+ORD0787,2025-03-14,2025-03,2025,CUST0123,Customer 309,Female,37,New Delhi,Delhi,Clothing,Men'S Wear,Jeans,4,2200,0.05,8360.0,5200,3160.0,37.8,Credit Card
+ORD0788,2025-05-29,2025-05,2025,CUST0219,Customer 122,Female,30,Ahmedabad,Gujarat,Home & Kitchen,Home Decor,Table Lamp,2,1800,0.0,3600.0,2100,1500.0,41.67,Upi
+ORD0789,2025-05-03,2025-05,2025,CUST0349,Customer 196,Male,59,Thiruvananthapuram,Kerala,Sports,Football,Football,2,1200,0.0,2400.0,1400,1000.0,41.67,Net Banking
+ORD0790,2025-05-26,2025-05,2025,CUST0182,Customer 257,Female,23,Bengaluru,Karnataka,Sports,Fitness,Yoga Mat,2,900,0.05,1710.0,960,750.0,43.86,Credit Card
+ORD0791,2025-12-25,2025-12,2025,CUST0138,Customer 102,Female,32,Nagpur,Maharashtra,Sports,Fitness,Dumbbells,1,2200,0.0,2200.0,1350,850.0,38.64,Net Banking
+ORD0792,2026-04-17,2026-04,2026,CUST0023,Customer 48,Female,24,New Delhi,Delhi,Sports,Fitness,Yoga Mat,5,900,0.05,4275.0,2400,1875.0,43.86,Credit Card
+ORD0793,2025-01-13,2025-01,2025,CUST0395,Customer 380,Female,34,Pune,Maharashtra,Electronics,Wearables,Smart Watch,3,4500,0.1,12150.0,8700,3450.0,28.4,Net Banking
+ORD0794,2025-07-27,2025-07,2025,CUST0417,Customer 349,Female,21,Pune,Maharashtra,Sports,Fitness,Dumbbells,5,2200,0.15,9350.0,6750,2600.0,27.81,Upi
+ORD0795,2025-08-05,2025-08,2025,CUST0399,Customer 2,Female,20,Kolkata,West Bengal,Electronics,Laptop,Laptop,3,55000,0.05,156750.0,126000,30750.0,19.62,Upi
+ORD0796,2025-06-16,2025-06,2025,CUST0447,Customer 207,Female,44,Surat,Gujarat,Sports,Fitness,Yoga Mat,4,900,0.1,3240.0,1920,1320.0,40.74,Upi
+ORD0797,2025-12-03,2025-12,2025,CUST0164,Customer 56,Female,39,Bengaluru,Karnataka,Beauty,Skincare,Face Wash,1,450,0.15,382.5,260,122.5,32.03,Credit Card
+ORD0798,2025-07-24,2025-07,2025,CUST0214,Customer 56,Male,28,Kolkata,West Bengal,Sports,Cricket,Cricket Bat,5,2800,0.1,12600.0,8750,3850.0,30.56,Debit Card
+ORD0799,2026-03-18,2026-03,2026,CUST0292,Customer 288,Male,31,Kolkata,West Bengal,Electronics,Audio,Headphones,3,2500,0.05,7125.0,4800,2325.0,32.63,Net Banking
+ORD0800,2025-08-27,2025-08,2025,CUST0289,Customer 38,Male,38,Mangaluru,Karnataka,Electronics,Mobile,Smartphone,2,22000,0.1,39600.0,33000,6600.0,16.67,Debit Card
+ORD0801,2025-11-24,2025-11,2025,CUST0433,Customer 431,Female,58,Coimbatore,Tamil Nadu,Electronics,Wearables,Smart Watch,1,4500,0.1,4050.0,2900,1150.0,28.4,Credit Card
+ORD0802,2025-02-18,2025-02,2025,CUST0147,Customer 316,Male,18,Ahmedabad,Gujarat,Home & Kitchen,Home Decor,Table Lamp,1,1800,0.0,1800.0,1050,750.0,41.67,Net Banking
+ORD0803,2026-03-20,2026-03,2026,CUST0404,Customer 434,Male,53,Kochi,Kerala,Sports,Cricket,Cricket Bat,1,2800,0.05,2660.0,1750,910.0,34.21,Debit Card
+ORD0804,2025-09-04,2025-09,2025,CUST0148,Customer 230,Female,59,Kozhikode,Kerala,Electronics,Wearables,Smart Watch,1,4500,0.0,4500.0,2900,1600.0,35.56,Upi
+ORD0805,2026-01-17,2026-01,2026,CUST0089,Customer 61,Female,41,Ahmedabad,Gujarat,Sports,Fitness,Dumbbells,2,2200,0.05,4180.0,2700,1480.0,35.41,Upi
+ORD0806,2025-02-01,2025-02,2025,CUST0160,Unknown,Male,48,Kolkata,West Bengal,Electronics,Audio,Headphones,2,2500,0.1,4500.0,3200,1300.0,28.89,Credit Card
+ORD0807,2025-04-22,2025-04,2025,CUST0292,Customer 438,Male,21,Kochi,Kerala,Electronics,Laptop,Laptop,2,55000,0.1,99000.0,84000,15000.0,15.15,Debit Card
+ORD0808,2025-04-25,2025-04,2025,CUST0283,Customer 37,Male,52,New Delhi,Delhi,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.0,21000.0,14000,7000.0,33.33,Credit Card
+ORD0809,2026-01-10,2026-01,2026,CUST0058,Customer 63,Female,53,New Delhi,Delhi,Electronics,Wearables,Smart Watch,5,4500,0.0,22500.0,14500,8000.0,35.56,Upi
+ORD0810,2026-04-06,2026-04,2026,CUST0189,Customer 400,Female,34,Surat,Gujarat,Home & Kitchen,Home Decor,Table Lamp,3,1800,0.15,4590.0,3150,1440.0,31.37,Upi
+ORD0811,2025-07-14,2025-07,2025,CUST0158,Customer 141,Male,30,Thiruvananthapuram,Kerala,Clothing,Women'S Wear,Jacket,3,3200,0.05,9120.0,5700,3420.0,37.5,Upi
+ORD0812,2026-04-07,2026-04,2026,CUST0080,Customer 11,Female,19,Kozhikode,Kerala,Electronics,Laptop,Laptop,2,55000,0.15,93500.0,84000,9500.0,10.16,Upi
+ORD0813,2025-05-03,2025-05,2025,CUST0134,Customer 107,Male,31,Coimbatore,Tamil Nadu,Home & Kitchen,Home Decor,Table Lamp,5,1800,0.0,9000.0,5250,3750.0,41.67,Upi
+ORD0814,2025-08-04,2025-08,2025,CUST0183,Customer 57,Female,22,Chennai,Tamil Nadu,Electronics,Audio,Headphones,4,2500,0.1,9000.0,6400,2600.0,28.89,Credit Card
+ORD0815,2025-06-20,2025-06,2025,CUST0436,Customer 67,Male,38,Madurai,Tamil Nadu,Home & Kitchen,Furniture,Office Chair,5,8500,0.05,40375.0,29000,11375.0,28.17,Debit Card
+ORD0816,2025-09-17,2025-09,2025,CUST0079,Customer 273,Male,45,Mumbai,Maharashtra,Electronics,Mobile,Smartphone,5,22000,0.0,110000.0,82500,27500.0,25.0,Credit Card
+ORD0817,2025-03-08,2025-03,2025,CUST0293,Customer 285,Female,48,Hyderabad,Telangana,Electronics,Mobile,Smartphone,2,22000,0.0,44000.0,33000,11000.0,25.0,Cash
+ORD0818,2025-06-25,2025-06,2025,CUST0387,Customer 341,Female,31,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,2,55000,0.1,99000.0,84000,15000.0,15.15,Net Banking
+ORD0819,2025-09-24,2025-09,2025,CUST0029,Customer 247,Male,43,Madurai,Tamil Nadu,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Upi
+ORD0820,2025-05-22,2025-05,2025,CUST0044,Customer 144,Male,39,Hyderabad,Telangana,Home & Kitchen,Kitchen,Mixer Grinder,3,4200,0.2,10080.0,8400,1680.0,16.67,Net Banking
+ORD0821,2025-03-21,2025-03,2025,CUST0031,Customer 112,Male,50,Chennai,Tamil Nadu,Sports,Fitness,Dumbbells,3,2200,0.1,5940.0,4050,1890.0,31.82,Upi
+ORD0822,2026-03-09,2026-03,2026,CUST0412,Customer 87,Female,58,New Delhi,Delhi,Clothing,Women'S Wear,Jacket,2,3200,0.0,6400.0,3800,2600.0,40.62,Credit Card
+ORD0823,2025-10-13,2025-10,2025,CUST0444,Customer 402,Male,24,Mumbai,Maharashtra,Clothing,Men'S Wear,T-Shirt,5,900,0.2,3600.0,2500,1100.0,30.56,Credit Card
+ORD0824,2025-05-01,2025-05,2025,CUST0197,Customer 294,Male,25,Surat,Gujarat,Clothing,Men'S Wear,T-Shirt,5,900,0.15,3825.0,2500,1325.0,34.64,Credit Card
+ORD0825,2026-05-18,2026-05,2026,CUST0248,Customer 383,Female,25,Mysuru,Karnataka,Sports,Fitness,Dumbbells,2,2200,0.1,3960.0,2700,1260.0,31.82,Net Banking
+ORD0826,2025-04-25,2025-04,2025,CUST0218,Customer 137,Female,18,Mangaluru,Karnataka,Home & Kitchen,Furniture,Office Chair,4,8500,0.1,30600.0,23200,7400.0,24.18,Upi
+ORD0827,2025-01-21,2025-01,2025,CUST0147,Customer 89,Male,50,Mangaluru,Karnataka,Sports,Football,Football,5,1200,0.1,5400.0,3500,1900.0,35.19,Cash
+ORD0828,2026-04-18,2026-04,2026,CUST0258,Customer 275,Female,37,Kolkata,West Bengal,Electronics,Laptop,Laptop,5,55000,0.1,247500.0,210000,37500.0,15.15,Cash
+ORD0829,2025-12-16,2025-12,2025,CUST0084,Customer 387,Female,34,New Delhi,Delhi,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.2,6720.0,5600,1120.0,16.67,Upi
+ORD0830,2026-02-15,2026-02,2026,CUST0173,Customer 4,Female,34,Kolkata,West Bengal,Sports,Football,Football,4,1200,0.15,4080.0,2800,1280.0,31.37,Credit Card
+ORD0831,2025-09-25,2025-09,2025,CUST0011,Customer 344,Female,24,New Delhi,Delhi,Clothing,Women'S Wear,Jacket,3,3200,0.1,8640.0,5700,2940.0,34.03,Credit Card
+ORD0832,2025-07-11,2025-07,2025,CUST0320,Customer 190,Female,37,Surat,Gujarat,Electronics,Wearables,Smart Watch,2,4500,0.05,8550.0,5800,2750.0,32.16,Debit Card
+ORD0833,2026-04-02,2026-04,2026,CUST0283,Customer 273,Male,36,Hyderabad,Telangana,Sports,Fitness,Yoga Mat,3,900,0.1,2430.0,1440,990.0,40.74,Upi
+ORD0834,2026-06-01,2026-06,2026,CUST0443,Customer 80,Male,50,Hyderabad,Telangana,Home & Kitchen,Home Decor,Table Lamp,2,1800,0.15,3060.0,2100,960.0,31.37,Upi
+ORD0835,2025-12-04,2025-12,2025,CUST0178,Customer 373,Female,42,Bengaluru,Karnataka,Electronics,Audio,Headphones,5,2500,0.05,11875.0,8000,3875.0,32.63,Upi
+ORD0836,2026-03-01,2026-03,2026,CUST0135,Customer 334,Female,33,Kolkata,West Bengal,Sports,Football,Football,5,1200,0.1,5400.0,3500,1900.0,35.19,Net Banking
+ORD0837,2025-12-11,2025-12,2025,CUST0269,Customer 328,Male,46,Kochi,Kerala,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Debit Card
+ORD0838,2026-05-04,2026-05,2026,CUST0210,Customer 434,Female,39,Ahmedabad,Gujarat,Electronics,Audio,Headphones,3,2500,0.05,7125.0,4800,2325.0,32.63,Net Banking
+ORD0839,2025-08-25,2025-08,2025,CUST0445,Customer 407,Female,20,Nagpur,Maharashtra,Clothing,Men'S Wear,T-Shirt,1,900,0.1,810.0,500,310.0,38.27,Net Banking
+ORD0840,2025-07-20,2025-07,2025,CUST0436,Customer 258,Male,54,Thiruvananthapuram,Kerala,Sports,Cricket,Cricket Bat,1,2800,0.05,2660.0,1750,910.0,34.21,Debit Card
+ORD0841,2025-04-05,2025-04,2025,CUST0125,Customer 41,Female,18,Surat,Gujarat,Electronics,Audio,Headphones,3,2500,0.15,6375.0,4800,1575.0,24.71,Debit Card
+ORD0842,2025-07-27,2025-07,2025,CUST0213,Customer 322,Male,47,Thiruvananthapuram,Kerala,Electronics,Wearables,Smart Watch,5,4500,0.05,21375.0,14500,6875.0,32.16,Upi
+ORD0843,2025-06-03,2025-06,2025,CUST0010,Customer 415,Female,25,Bengaluru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.05,19950.0,14000,5950.0,29.82,Credit Card
+ORD0844,2026-06-26,2026-06,2026,CUST0359,Customer 338,Female,53,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Credit Card
+ORD0845,2025-10-19,2025-10,2025,CUST0299,Customer 143,Female,45,Kozhikode,Kerala,Home & Kitchen,Kitchen,Air Fryer,1,6500,0.1,5850.0,4300,1550.0,26.5,Upi
+ORD0846,2026-04-30,2026-04,2026,CUST0078,Customer 91,Male,50,Chennai,Tamil Nadu,Home & Kitchen,Kitchen,Mixer Grinder,2,4200,0.15,7140.0,5600,1540.0,21.57,Net Banking
+ORD0847,2025-01-09,2025-01,2025,CUST0053,Customer 77,Male,21,Kolkata,West Bengal,Home & Kitchen,Home Decor,Table Lamp,4,1800,0.05,6840.0,4200,2640.0,38.6,Upi
+ORD0848,2025-12-31,2025-12,2025,CUST0189,Customer 333,Male,54,New Delhi,Delhi,Home & Kitchen,Kitchen,Air Fryer,2,6500,0.0,13000.0,8600,4400.0,33.85,Debit Card
+ORD0849,2025-07-02,2025-07,2025,CUST0435,Customer 107,Male,55,Thiruvananthapuram,Kerala,Home & Kitchen,Kitchen,Mixer Grinder,5,4200,0.15,17850.0,14000,3850.0,21.57,Credit Card
+ORD0850,2026-02-07,2026-02,2026,CUST0028,Customer 72,Female,33,Warangal,Telangana,Electronics,Audio,Headphones,1,2500,0.15,2125.0,1600,525.0,24.71,Credit Card
+ORD0851,2026-03-26,2026-03,2026,CUST0281,Customer 372,Male,48,New Delhi,Delhi,Electronics,Wearables,Smart Watch,5,4500,0.0,22500.0,14500,8000.0,35.56,Credit Card
+ORD0852,2026-02-21,2026-02,2026,CUST0170,Customer 317,Female,26,Hyderabad,Telangana,Home & Kitchen,Kitchen,Mixer Grinder,4,4200,0.0,16800.0,11200,5600.0,33.33,Net Banking
+ORD0853,2025-07-07,2025-07,2025,CUST0057,Customer 199,Female,33,New Delhi,Delhi,Electronics,Laptop,Laptop,2,55000,0.15,93500.0,84000,9500.0,10.16,Upi
+ORD0854,2026-06-01,2026-06,2026,CUST0250,Customer 163,Female,40,Coimbatore,Tamil Nadu,Electronics,Audio,Headphones,3,2500,0.0,7500.0,4800,2700.0,36.0,Debit Card
+ORD0855,2025-10-08,2025-10,2025,CUST0172,Customer 316,Male,27,Kolkata,West Bengal,Beauty,Skincare,Face Wash,3,450,0.05,1282.5,780,502.5,39.18,Upi
+ORD0856,2026-01-16,2026-01,2026,CUST0444,Customer 33,Male,30,Kolkata,West Bengal,Sports,Football,Football,3,1200,0.15,3060.0,2100,960.0,31.37,Credit Card
+ORD0857,2026-04-26,2026-04,2026,CUST0144,Customer 24,Female,23,Warangal,Telangana,Clothing,Women'S Wear,Jacket,1,3200,0.0,3200.0,1900,1300.0,40.62,Debit Card
+ORD0858,2025-02-13,2025-02,2025,CUST0155,Customer 355,Female,48,Mumbai,Maharashtra,Clothing,Women'S Wear,Kurti,4,1600,0.05,6080.0,3600,2480.0,40.79,Cash
+ORD0859,2025-12-19,2025-12,2025,CUST0423,Customer 445,Male,42,Bengaluru,Karnataka,Home & Kitchen,Furniture,Office Chair,4,8500,0.05,32300.0,23200,9100.0,28.17,Credit Card
+ORD0860,2025-03-17,2025-03,2025,CUST0035,Customer 267,Female,24,Kozhikode,Kerala,Clothing,Men'S Wear,Jeans,1,2200,0.1,1980.0,1300,680.0,34.34,Credit Card
+ORD0861,2025-06-24,2025-06,2025,CUST0001,Customer 387,Male,21,Mumbai,Maharashtra,Home & Kitchen,Home Decor,Table Lamp,4,1800,0.05,6840.0,4200,2640.0,38.6,Credit Card
+ORD0862,2025-09-13,2025-09,2025,CUST0307,Customer 438,Male,30,Pune,Maharashtra,Clothing,Men'S Wear,T-Shirt,1,900,0.1,810.0,500,310.0,38.27,Credit Card
+ORD0863,2026-04-12,2026-04,2026,CUST0235,Customer 165,Male,58,Surat,Gujarat,Electronics,Wearables,Smart Watch,1,4500,0.05,4275.0,2900,1375.0,32.16,Cash
+ORD0864,2026-03-04,2026-03,2026,CUST0185,Customer 134,Male,48,Mysuru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.15,3570.0,2800,770.0,21.57,Upi
+ORD0865,2026-05-06,2026-05,2026,CUST0135,Customer 41,Male,26,Warangal,Telangana,Electronics,Mobile,Smartphone,2,22000,0.2,35200.0,33000,2200.0,6.25,Cash
+ORD0866,2025-06-15,2025-06,2025,CUST0026,Customer 395,Female,39,Ahmedabad,Gujarat,Clothing,Women'S Wear,Kurti,5,1600,0.1,7200.0,4500,2700.0,37.5,Upi
+ORD0867,2025-04-11,2025-04,2025,CUST0368,Customer 318,Male,33,Bengaluru,Karnataka,Clothing,Women'S Wear,Kurti,5,1600,0.15,6800.0,4500,2300.0,33.82,Net Banking
+ORD0868,2026-06-17,2026-06,2026,CUST0308,Customer 163,Female,52,Ahmedabad,Gujarat,Clothing,Women'S Wear,Kurti,3,1600,0.05,4560.0,2700,1860.0,40.79,Debit Card
+ORD0869,2026-02-13,2026-02,2026,CUST0215,Customer 92,Other,18,Bengaluru,Karnataka,Electronics,Audio,Headphones,5,2500,0.05,11875.0,8000,3875.0,32.63,Upi
+ORD0870,2026-02-17,2026-02,2026,CUST0026,Customer 343,Female,18,Kolkata,West Bengal,Beauty,Skincare,Moisturizer,3,750,0.1,2025.0,1260,765.0,37.78,Debit Card
+ORD0871,2025-02-20,2025-02,2025,CUST0081,Customer 36,Male,48,Nagpur,Maharashtra,Clothing,Men'S Wear,Jeans,1,2200,0.05,2090.0,1300,790.0,37.8,Upi
+ORD0872,2026-03-15,2026-03,2026,CUST0019,Customer 127,Female,53,Kochi,Kerala,Electronics,Laptop,Laptop,1,55000,0.0,55000.0,42000,13000.0,23.64,Credit Card
+ORD0873,2025-06-07,2025-06,2025,CUST0172,Customer 311,Male,58,Mumbai,Maharashtra,Sports,Fitness,Yoga Mat,2,900,0.1,1620.0,960,660.0,40.74,Credit Card
+ORD0874,2026-03-26,2026-03,2026,CUST0095,Customer 348,Female,55,Kochi,Kerala,Home & Kitchen,Furniture,Office Chair,2,8500,0.1,15300.0,11600,3700.0,24.18,Credit Card
+ORD0875,2025-05-13,2025-05,2025,CUST0055,Customer 158,Male,56,Kolkata,West Bengal,Electronics,Mobile,Smartphone,4,22000,0.05,83600.0,66000,17600.0,21.05,Credit Card
+ORD0876,2026-01-16,2026-01,2026,CUST0049,Customer 377,Male,47,Pune,Maharashtra,Sports,Cricket,Cricket Bat,3,2800,0.0,8400.0,5250,3150.0,37.5,Upi
+ORD0877,2025-11-16,2025-11,2025,CUST0394,Customer 269,Male,44,Chennai,Tamil Nadu,Electronics,Laptop,Laptop,5,55000,0.0,275000.0,210000,65000.0,23.64,Upi
+ORD0878,2026-05-29,2026-05,2026,CUST0178,Customer 425,Male,47,Kolkata,West Bengal,Beauty,Skincare,Face Wash,5,450,0.0,2250.0,1300,950.0,42.22,Upi
+ORD0879,2025-08-09,2025-08,2025,CUST0273,Customer 154,Female,37,Mysuru,Karnataka,Clothing,Women'S Wear,Kurti,4,1600,0.05,6080.0,3600,2480.0,40.79,Upi
+ORD0880,2025-08-29,2025-08,2025,CUST0141,Customer 228,Female,41,Ahmedabad,Gujarat,Home & Kitchen,Home Decor,Table Lamp,4,1800,0.05,6840.0,4200,2640.0,38.6,Upi
+ORD0881,2026-02-20,2026-02,2026,CUST0148,Customer 29,Female,27,Thiruvananthapuram,Kerala,Home & Kitchen,Home Decor,Table Lamp,2,1800,0.15,3060.0,2100,960.0,31.37,Upi
+ORD0882,2026-04-11,2026-04,2026,CUST0243,Customer 249,Female,25,Salem,Tamil Nadu,Beauty,Hair Care,Shampoo,5,650,0.0,3250.0,1900,1350.0,41.54,Upi
+ORD0883,2026-03-25,2026-03,2026,CUST0192,Customer 250,Male,55,Mumbai,Maharashtra,Beauty,Hair Care,Shampoo,3,650,0.05,1852.5,1140,712.5,38.46,Net Banking
+ORD0884,2026-05-17,2026-05,2026,CUST0249,Customer 83,Male,48,Mysuru,Karnataka,Clothing,Women'S Wear,Jacket,1,3200,0.0,3200.0,1900,1300.0,40.62,Net Banking
+ORD0885,2025-03-27,2025-03,2025,CUST0295,Customer 279,Male,23,Chennai,Tamil Nadu,Sports,Fitness,Dumbbells,5,2200,0.1,9900.0,6750,3150.0,31.82,Debit Card
+ORD0886,2026-06-12,2026-06,2026,CUST0145,Customer 340,Male,58,Warangal,Telangana,Home & Kitchen,Furniture,Office Chair,3,8500,0.15,21675.0,17400,4275.0,19.72,Upi
+ORD0887,2025-02-11,2025-02,2025,CUST0093,Customer 185,Male,40,Mangaluru,Karnataka,Home & Kitchen,Kitchen,Air Fryer,1,6500,0.1,5850.0,4300,1550.0,26.5,Credit Card
+ORD0888,2025-04-07,2025-04,2025,CUST0375,Customer 95,Female,26,Kolkata,West Bengal,Home & Kitchen,Home Decor,Table Lamp,1,1800,0.1,1620.0,1050,570.0,35.19,Debit Card
+ORD0889,2025-03-15,2025-03,2025,CUST0125,Customer 188,Other,46,New Delhi,Delhi,Electronics,Wearables,Smart Watch,5,4500,0.05,21375.0,14500,6875.0,32.16,Credit Card
+ORD0890,2026-03-31,2026-03,2026,CUST0394,Customer 115,Male,29,New Delhi,Delhi,Electronics,Wearables,Smart Watch,3,4500,0.15,11475.0,8700,2775.0,24.18,Upi
+ORD0891,2025-10-05,2025-10,2025,CUST0324,Customer 19,Female,33,Coimbatore,Tamil Nadu,Electronics,Mobile,Smartphone,5,22000,0.1,99000.0,82500,16500.0,16.67,Upi
+ORD0892,2025-04-15,2025-04,2025,CUST0324,Customer 281,Female,40,Mangaluru,Karnataka,Home & Kitchen,Furniture,Office Chair,1,8500,0.1,7650.0,5800,1850.0,24.18,Upi
+ORD0893,2025-09-15,2025-09,2025,CUST0005,Customer 446,Male,53,Kolkata,West Bengal,Electronics,Laptop,Laptop,3,55000,0.15,140250.0,126000,14250.0,10.16,Debit Card
+ORD0894,2025-11-03,2025-11,2025,CUST0266,Customer 134,Male,39,Pune,Maharashtra,Electronics,Wearables,Smart Watch,5,4500,0.2,18000.0,14500,3500.0,19.44,Net Banking
+ORD0895,2025-05-12,2025-05,2025,CUST0360,Customer 123,Male,42,New Delhi,Delhi,Sports,Football,Football,3,1200,0.15,3060.0,2100,960.0,31.37,Debit Card
+ORD0896,2025-02-28,2025-02,2025,CUST0181,Customer 19,Male,53,Surat,Gujarat,Beauty,Skincare,Moisturizer,3,750,0.1,2025.0,1260,765.0,37.78,Debit Card
+ORD0897,2025-11-14,2025-11,2025,CUST0355,Customer 349,Male,56,Bengaluru,Karnataka,Home & Kitchen,Kitchen,Mixer Grinder,1,4200,0.05,3990.0,2800,1190.0,29.82,Cash
+ORD0898,2026-05-06,2026-05,2026,CUST0341,Customer 281,Other,23,Kochi,Kerala,Beauty,Hair Care,Shampoo,2,650,0.05,1235.0,760,475.0,38.46,Upi
+ORD0899,2026-06-13,2026-06,2026,CUST0253,Customer 445,Male,27,Kolkata,West Bengal,Electronics,Laptop,Laptop,3,55000,0.0,165000.0,126000,39000.0,23.64,Upi
+ORD0900,2026-04-09,2026-04,2026,CUST0200,Unknown,Male,35,Mysuru,Karnataka,Electronics,Mobile,Smartphone,1,22000,0.1,19800.0,16500,3300.0,16.67,Upi
